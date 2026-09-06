@@ -7,17 +7,26 @@ created: 2026-09-06
 updated: 2026-09-06
 sources:
   - ../../Raw/Metro Bank pension scheme account opening - signature page 2021-10-31 (Document_2021-11-01_103325.pdf, copied from Drive Staff (SSAS) legacy folder 2026-09-06).pdf
+  - ../../Raw/Metro Bank pension scheme account mandate adding a trustee 2024-05 (Metro Bank account - Sign form.pdf, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).pdf
+  - https://mail.google.com/mail/u/0/#all/185cac58624ac168 (Gmail: Metro Bank details sent password-protected, 19/01/2023)
+  - https://mail.google.com/mail/u/0/#all/18f96c6847c23028 (Gmail: Missing form, mandate and certified identity for the third trustee, 20/05 to 29/05/2024)
+  - https://mail.google.com/mail/u/0/#all/1966210241eff884 (Gmail: Transfer of funds, Metro Bank transfer request form for the loanback, 23/04 to 24/04/2025)
 related:
   - ../Processes/scheme-establishment-2021.md
   - ../People/m-gaudiesius.md
   - ../People/a-prutkovas.md
   - ../Assets/loanback-fishbone-commercial-properties.md
   - ../Suppliers/empowered-pensions.md
+  - ../People/i-fedonina.md
+  - ../People/empowered-trustees.md
+  - ../Finance/transfers-in.md
+  - ../Finance/contributions.md
 ---
 
 # Metro Bank (scheme bank account)
 
-The scheme's bank. The only document on file is the signature page of the account opening request.
+The scheme's bank. On file: the signature page of the 2021 account opening request, and the 2024
+mandate that added the third trustee and set the signing rule.
 
 ## Key facts
 
@@ -26,14 +35,20 @@ The scheme's bank. The only document on file is the signature page of the accoun
 | Form | Metro Bank "Pension Scheme Account Opening Request", section 7, declaration and signatures (page 8 of the form) | [^1] |
 | Signed by | both member trustees | [^1] |
 | Date signed | 31/10/2021 | [^1] |
-| Account number, sort code, opening date | not on file | |
+| Account number | on the 2024 mandate; **not repeated here** (bank details are never quoted into the Wiki) | [^2] p.1 |
+| Opening date | not on file; the account existed by May 2024 | [^2] |
+| Mandate, 2024 | "Pension Scheme Account Mandate for adding trustees": existing members and trustees M Gaudiesius and A Prutkovas; new member and trustee I Fedonina; signing instruction "Member Trustee (one) and Authorised administrator (one) to sign together, as per board minute"; payments under 1,500.00 may be authorised without a second signature; signed for the professional trustee by Lars Singleton, director, and by the three member trustees; file dated 20/05/2024 | [^2] pp.1-5, 9 |
+| Documents the bank requires for a new trustee | a deed of appointment, and certified identity and address evidence | [^2] p.5 |
+| Bank details | sent to the owner by the administrator on 19/01/2023 as a password-protected document (password: the PSTR); not repeated here | [^3] `(email; attachment not on file)` |
+| How the 2024 mandate was lodged | the owner emailed the signed mandate to the administrator on 20/05/2024; the administrator asked for certified identity and proof of address for the new trustee (24/05/2024), received copies the same day, and on 29/05/2024 said it had "sent off all documentation/deeds necessary to add Irina as an authorised signatory"; the bank's confirmation is not in the mailbox | [^4] `(email)` |
+| How the loan advance was paid | Empowered Lending sent a password-protected "Metro Bank transfer request form" on 23/04/2025 for the transfer of the 41,500 to Dollman & Pritchard's client account, to be signed by the owner after verbally verifying the solicitors' bank details; the signed form (`Metro SSAS 2404.pdf`) was returned 24/04/2025 and the verification confirmed | [^5] `(email; form not on file)` |
 
 ## Details
 
-Only page 8 of the form is on file; the rest of the form, the bank's confirmation and every
-statement are absent. The OneDrive source folder `SSAS/Metro Bank account` holds the full signed
-form (8.8 MB), personal details and proof-of-address documents for the trustees, and no
-statements; it was not copied because it is made up of personal documents.
+Only page 8 of the 2021 opening form is on file. The 2024 mandate is the full nine-page Metro
+Bank form, filed on 2026-09-06 from the owner's legacy folder; the same folder's personal
+details, identity photographs and proof-of-address bills were not filed [^2]. No statement and no
+bank confirmation is on file.
 
 Fishbone Properties Ltd's Starling statements, in that company's knowledge base, show weekly
 payments to a payee "Metro SSAS Account" `(unverified here)`, which is consistent with this being
@@ -43,20 +58,23 @@ Two indirect facts about how the account is meant to be operated. The administra
 schedule lists a "(Metro) Bank account set up and reconciliations" and the annual Metro Bank
 account fee as free, which confirms Metro Bank as the administrator's standard scheme bank; see
 [Empowered Pensions Ltd](../Suppliers/empowered-pensions.md). The administrator's "Additional
-Member" form template, seen in the owner's legacy folder on Drive (id
-`1jSFpIOcKb7yANA0hJVtjWb_80rMfvo5c`, not filed here), says a trustee must authorise payments over
-1,500.00 from the scheme bank account and that the signing mandate is "Corporate Trustee and one
-Member Trustee to sign" `(unverified: template wording, not the bank's mandate)`.
+Member" form says a trustee must authorise payments over 1,500.00 and that the signing mandate is
+"Corporate Trustee and one Member Trustee to sign"; the bank's own 2024 mandate puts it as one
+member trustee and one authorised administrator together, with the 1,500.00 single-signature
+threshold, "as per board minute" [^2] p.5. That board minute is not on file.
 
-The 41,500 loan to Fishbone Commercial Properties Ltd presumably left this account on or about
-29/04/2025, net of the solicitors' deductions `(unverified: no statement on file)`; see
+The 41,500 loan to Fishbone Commercial Properties Ltd left this account on or about 24/04/2025
+to the solicitors' client account, on the administrator's transfer request form signed by one
+member trustee [^5]; the solicitors advanced the net sum on completion, 29/04/2025
+`(email; no statement on file)`; see
 [Loanback to Fishbone Commercial Properties Ltd](../Assets/loanback-fishbone-commercial-properties.md).
 
 ## Open questions
 
 - Account details and opening date, from a statement or the bank's letter.
 - Statements from opening to date, so contributions and loanback repayments can be reconciled.
-- Whether the corporate trustee is a signatory, as the administrator's template implies.
+- ~~Whether the corporate trustee is a signatory.~~ Answered 2026-09-06: yes, through its director,
+  on the 2024 mandate. The board minute the mandate refers to is still wanted.
 
 ## Changes
 
@@ -64,7 +82,13 @@ The 41,500 loan to Fishbone Commercial Properties Ltd presumably left this accou
 |---|---|---|
 | 2026-09-06 | Created from the Raw item in the front matter | `Outputs/change-log-2026-09-06-legacy-scheme-documents-copied.md` |
 | 2026-09-06 | Mandate wording from the administrator's template, fee schedule, loan advance pointer | `Outputs/change-log-2026-09-06-loan-security-and-governing-documents.md` |
+| 2026-09-06 | 2024 mandate filed: third trustee added, signing rule, bank's document requirements | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
+| 2026-09-06 | Bank-details email of 2023, the 2024 mandate lodgement and the 2025 transfer request for the loan advance found in Gmail | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
 
 ## Sources
 
 [^1]: [Metro Bank account opening request, page 8, signed 31/10/2021](<../../Raw/Metro Bank pension scheme account opening - signature page 2021-10-31 (Document_2021-11-01_103325.pdf, copied from Drive Staff (SSAS) legacy folder 2026-09-06).pdf>)
+[^2]: [Metro Bank Pension Scheme Account Mandate for adding trustees, 9 pages, scan with text layer, file dated 20/05/2024](<../../Raw/Metro Bank pension scheme account mandate adding a trustee 2024-05 (Metro Bank account - Sign form.pdf, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).pdf>)
+[^3]: [Gmail: "Contributions and Annual Accounts", Empowered Pensions, 19/01/2023](https://mail.google.com/mail/u/0/#all/185cac58624ac168) `(email; attachment not on file)`
+[^4]: [Gmail: "Missing form", owner and Empowered Pensions, 20/05 to 29/05/2024](https://mail.google.com/mail/u/0/#all/18f96c6847c23028) `(email; the identity documents attached are member-personal and are not filed)`
+[^5]: [Gmail: "Transfer of funds - Fishbone SSAS to Fishbone Commercial Properties Ltd (£41,500.00) - LA01801", Empowered Lending, 23/04 to 24/04/2025](https://mail.google.com/mail/u/0/#all/1966210241eff884) `(email; form not on file)`

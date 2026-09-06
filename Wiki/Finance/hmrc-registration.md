@@ -12,6 +12,7 @@ related:
   - ../Suppliers/empowered-pensions.md
   - ../Finance/tpr-scheme-registration-2022.md
   - ../Assets/loanback-fishbone-commercial-properties.md
+  - ../Finance/scheme-accounts-and-returns.md
 ---
 
 # HMRC registration (PSTR 20005255RF)
@@ -52,6 +53,11 @@ the loan agreement itself is still not on file, so the rate, term and instalment
 `(unverified)`. The PSTR appears as the "HMRC approval number" on the scheme's
 [TPR registration](../Finance/tpr-scheme-registration-2022.md).
 
+The administrator's email of 19/01/2023 shows the first annual accounts were drawn to
+**05/04/2022**, for the period from 06/04/2021, and were sent to the owner for approval "to
+HMRC" by 23/01/2023; so the scheme's year end is the tax year end and returns to HMRC are made
+by the administrator. See [Scheme accounts and returns](../Finance/scheme-accounts-and-returns.md).
+
 ## Open questions
 
 - Have Pension Scheme Returns and Event Reports been filed since registration, by whom, and when
@@ -65,6 +71,7 @@ the loan agreement itself is still not on file, so the rate, term and instalment
 |---|---|---|
 | 2026-09-06 | Created from the Raw item in the front matter | `Outputs/change-log-2026-09-06-legacy-scheme-documents-copied.md` |
 | 2026-09-06 | Loanback conditions now pointed at the Assets article; TPR cross-link | `Outputs/change-log-2026-09-06-loan-security-and-governing-documents.md` |
+| 2026-09-06 | Scheme year end and the first accounts inferred from the administrator's email of 19/01/2023; link to the accounts article | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
 
 ## Sources
 

@@ -128,6 +128,17 @@ scheme.
 - 2026-09-06, later: the OneDrive `SSAS` folder found and inventoried; six scheme-level documents
   copied from the Google Drive partial copy into `Raw/` and processed; `Wiki/Employers/` created
   with its first article; nine articles written. Still no Smartsheet rows and no document numbers.
+- 2026-09-06, Session 4: 23 further scheme documents copied from the owner's `SSAS` folder (My
+  Drive root) into `Raw/`; the owner's **Gmail** searched for the first time and found to hold, as
+  attachments, most of the documents the Wiki lists as missing (loan agreement, repayment
+  schedule, registration certificates, deeds of adherence, 2021-22 accounts). **The Gmail
+  connector reads thread bodies and lists attachment names but cannot download attachments**;
+  a person saves them into `Raw/`. Email facts are cited by thread URL
+  (`https://mail.google.com/mail/u/0/#all/<threadId>`) with the marker `(email)` and, where the
+  fact rests on an attachment, `(attachment not on file)`; an email citation is weaker than a
+  filed document and is superseded once the document reaches `Raw/`. Search results over about
+  60 KB and long threads are written to the session's tool-results folder and parsed with
+  Python. Phone photographs (JPEG) are decoded with PyMuPDF because PIL is not installed.
 
 ## Open questions
 
@@ -140,6 +151,7 @@ scheme.
 | 2026-09-06 | Created at setup | `Outputs/change-log-2026-09-06-initial-setup.md` |
 | 2026-09-06 | Employers folder id, OneDrive source, history line | `Outputs/change-log-2026-09-06-legacy-scheme-documents-copied.md` |
 | 2026-09-06 | History line: the owner uploaded the whole OneDrive master into `Raw/` and moved it out again to the My Drive root (`1jSFpIOcKb7yANA0hJVtjWb_80rMfvo5c`); the four scheme documents were copied from it by id; Drive downloads above about 8 MB fail in the connector | `Outputs/change-log-2026-09-06-loan-security-and-governing-documents.md` |
+| 2026-09-06 | History line: Session 4's 23 copies and the first Gmail search; the email citation convention and the connector's attachment limit | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
 
 ## Sources
 

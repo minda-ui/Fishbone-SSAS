@@ -7,6 +7,7 @@ created: 2026-09-06
 updated: 2026-09-06
 sources:
   - ../../Raw/SSAS Scheme Rules - Empowered Pensions (Schemes rules.pdf, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).pdf
+  - ../../Raw/Photograph of the scheme rules page 16 signed by both member trustees, 2021-10-14 (20211014_100954.jpg, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).jpg
 related:
   - ../Processes/scheme-establishment-2021.md
   - ../People/empowered-trustees.md
@@ -21,7 +22,9 @@ related:
 The rules that the trust deed says govern the scheme. The copy on file is the administrator's
 standard "SSAS Scheme Rules" document, 16 pages, naming the Fishbone SSAS in rule 1.1, with
 signature blocks for the two member trustees and Empowered Trustees Ltd on page 16 that are
-**blank and undated**. As with the trust deed, an executed copy is not on file.
+**blank and undated**. A photograph taken on 14/10/2021 shows that page signed by both member
+trustees, the corporate trustee's line and all three dates blank [^2]. A fully executed copy is
+not on file.
 
 ## Key facts
 
@@ -75,7 +78,9 @@ trustees, so the executed deed and rules belong together; see
 | Date | Change | Change-log ref |
 |---|---|---|
 | 2026-09-06 | Created from the Raw item in the front matter | `Outputs/change-log-2026-09-06-loan-security-and-governing-documents.md` |
+| 2026-09-06 | Photograph of the signed page 16 filed | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
 
 ## Sources
 
 [^1]: [Empowered Pension Ltd, SSAS Scheme Rules, unsigned copy, 16 pages, read as page images](<../../Raw/SSAS Scheme Rules - Empowered Pensions (Schemes rules.pdf, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).pdf>)
+[^2]: [Photograph of page 16 signed by both member trustees, 14/10/2021](<../../Raw/Photograph of the scheme rules page 16 signed by both member trustees, 2021-10-14 (20211014_100954.jpg, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).jpg>)

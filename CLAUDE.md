@@ -1,8 +1,9 @@
 # Fishbone SSAS - Knowledge Base
 
-> **Status: AUTHORITATIVE. Version 3, 2026-09-06**, superseding version 2 of the same day (in `Archive/`)
-> after the loanback security documents and the remaining governing documents were filed and
-> processed. Version 2 followed the first six Raw items; version 1 was built at setup, before any
+> **Status: AUTHORITATIVE. Version 4, 2026-09-06**, superseding version 3 of the same day (in `Archive/`)
+> after 23 more scheme documents were extracted from the owner's `SSAS` folder and the owner's
+> Gmail was searched for the first time. Version 3 followed the loanback security documents;
+> version 2 followed the first six Raw items; version 1 was built at setup, before any
 > source material was filed, by copying the structure of the `Fishbone Commercial Properties Ltd - Knowledge Base`
 > (the group's most mature example, its `CLAUDE.md` version 2 of 2026-09-03 as corrected to
 > 2026-09-05) and the Smartsheet layout of the `Fishbone Holdings Ltd` workspace. Why each part is
@@ -35,6 +36,14 @@ not evidence. Before acting on a number (a loan balance, a contribution total, a
 rows, a date), recompute it from the source document or the live sheet and cite where it came
 from. If it cannot be recounted, say so and mark it `(unverified)`. The rule and the failures
 behind it are in `Wiki/Decisions/2026-09-06-kb-structure-and-recount-rule.md`.
+
+**Gmail holds documents the Wiki lists as missing.** The owner's mailbox was searched on
+2026-09-06 (Session 4 entry): the signed loan agreement, the repayment schedule, the Companies
+House and Land Registry registration documents, two Deeds of Adherence and the 2021-22 accounts
+exist there as attachments. The Gmail connector reads bodies but **cannot download attachments**,
+so until a person saves them into `Raw/` they are cited as `(email)` and remain "not on file".
+Do not treat an email citation as equal to a filed document, and never send, reply to or forward
+mail (section 6a).
 
 **If the task touches the loanback to Fishbone Commercial Properties Ltd**, also read the latest
 change-log entries in `Fishbone Commercial Properties Ltd - Knowledge Base` (Drive folder id
@@ -126,7 +135,8 @@ never replaced at all** (section 4), so they never enter this cycle.
 | Official documents issued or received (trustee resolutions, HMRC, administrator, bank, borrower, solicitor and valuer correspondence) | Smartsheet **Document Register**, sheet id `2561022001022852`, same workspace | Created 2026-09-06, same schema as the FP, FCP and FH registers plus the `Health` formula. **Empty: no `FSS#######` number issued.** Filed copies go in `Outputs/Correspondence/`. Read-only for automation. |
 | Follow-up actions | Smartsheet **Tasks**, sheet id `8617681802626948`, same workspace | Created 2026-09-06 from the Holdings sheet. `Owner` is a contact column, not free text. `Health` is a column formula. **Empty.** Read-only for automation. |
 | Scheme bank transactions | None live. Metro Bank statements dropped into `Raw/` | None on file yet; see section 7. |
-| Scheme financials and returns | None live. No QuickBooks connector exists for the scheme; do not use the group's Intuit connector, which on 2026-09-04 was found to point at Fishbone Properties Ltd. | Accounts and HMRC returns, when filed in `Raw/`, are the financial source. |
+| Scheme financials and returns | None live. No QuickBooks connector exists for the scheme; do not use the group's Intuit connector, which on 2026-09-04 was found to point at Fishbone Properties Ltd. | Accounts and HMRC returns, when filed in `Raw/`, are the financial source. Year end is 5 April (administrator's email of 19/01/2023). |
+| Scheme correspondence | Owner's Gmail (`minda@fishboneconstruction.co.uk`, also receiving the `fishbonedrylining` addresses), read-only through the Gmail connector | First searched 2026-09-06. Bodies readable; **attachments not downloadable by the tooling**. Cite by thread URL with `(email)`; the citation convention is in `Wiki/Processes/knowledge-base-operations.md`. Not a substitute for `Raw/`: a document found in mail is still "not on file" until saved. |
 
 Reports over the sheets live in the workspace folder **Reports & Dashboards** (id
 `4148450360092547`): `Open Tasks` (report `6471752932788100`) and `Register Health` (report
@@ -282,9 +292,9 @@ If a routine's prompt ever conflicts with this list, this section wins.
   Smartsheet workspace were created by `minda@fishboneconstruction.co.uk` and shared with nobody.
   This is a point in time, not a standing state; re-check before sharing anything further, and see
   section 5's proposed quarterly sweep.
-- **Every PDF in `Raw/` is Drive-only and is never committed to git**, whatever it contains: the six
-  filed on 2026-09-06 include signatures and a phone number, and the ones still to come are bank
-  and administrator documents.
+- **Every PDF and image in `Raw/` is Drive-only and is never committed to git**, whatever it
+  contains: the 36 filed on 2026-09-06 include signatures, bank details, an NI number, payroll
+  figures and phone photographs, and the ones still to come are bank and administrator documents.
 - A pension scheme's records are personal data about its members by nature. Treat every member,
   trustee, benefit, contribution and bank document as `sensitive: true`. Bank statements and
   member documents stay Drive-only and are never copied into git.
@@ -325,89 +335,108 @@ articles and the dated change-log entries.
 
 ---
 
-## 7. Scheme snapshot and open questions (as of 2026-09-06, after Session 3)
+## 7. Scheme snapshot and open questions (as of 2026-09-06, after Session 4)
 
 The Wiki is the authoritative record; start at `Wiki/index.md`. This section is a one-screen
 orientation, refreshed when a Raw item changes the picture. Lines marked **verified** are cited in
-a Wiki article from a document in `Raw/`; lines marked `(unverified)` are pointers found elsewhere
-and must be recounted before use.
+a Wiki article from a document in `Raw/`; lines marked `(email)` rest on an email body in the
+owner's Gmail whose attachment has not been saved; lines marked `(unverified)` are pointers found
+elsewhere and must be recounted before use.
 
 - **What it is (verified).** Fishbone SSAS, an occupational, defined-contribution,
-  investment-regulated pension scheme: commencement 28/10/2021, registered with HMRC on
-  03/12/2021 (PSTR 20005255RF) and with The Pensions Regulator on 04/08/2022 (PSR 12018880, two
-  members at 03/12/2021). Established by Fishbone Drylining Ltd, company number 07948220 on the
-  trust deed, the board minutes and the TPR registration (07948020 on the November 2023
-  re-declaration is the odd one out), now Fishbone Construction Ltd per the sister knowledge
-  bases `(unverified)`. Trustees: M Gaudiesius, A Prutkovas, **I Fedonina (by 29/04/2025; her
-  appointment deed is not on file)** and Empowered Trustees Ltd (12291059). Administrator
-  Empowered Pensions Ltd, East Grinstead; contact Mrs Sacha Bullock. The trust deed and the
-  scheme rules on file are **unsigned, undated copies**; the administration agreement is on file
-  but **unreadable by the tooling**; the 2018 fee schedule is on file. Scheme year end unknown.
-  Articles: `Processes/scheme-establishment-2021`, `Processes/scheme-rules`,
-  `Finance/hmrc-registration`, `Finance/tpr-scheme-registration-2022`,
-  `Employers/fishbone-construction-ltd`, `People/*`, `Suppliers/empowered-pensions`.
+  investment-regulated pension scheme: application 28/09/2021 `(email)`, governing documents
+  signed by the company and both member trustees on or before 14/10/2021 (photographs; the
+  administrator asked for them back undated so its director could date them `(email)`),
+  commencement 28/10/2021, registered with HMRC on 03/12/2021 (PSTR 20005255RF) and with The
+  Pensions Regulator on 04/08/2022 (PSR 12018880, two members at 03/12/2021). Established by
+  Fishbone Drylining Ltd, company number 07948220 on three documents (07948020 on the November
+  2023 re-declaration is the odd one out), now Fishbone Construction Ltd per the sister knowledge
+  bases `(unverified)`. Trustees: M Gaudiesius, A Prutkovas, **I Fedonina (joined 05/01/2024, on
+  the bank mandate May 2024; her deed of appointment is at the administrator, not on file)** and
+  Empowered Trustees Ltd (12291059). Administrator Empowered Pensions (Empowered Pensions Ltd
+  04735293; Empowered Administration Ltd 14471886 trading as Empowered Pensions from 2025;
+  Empowered Lending Ltd 14029489 for loans); current contact Claudine Mudali `(email)`. The trust
+  deed and rules on file are unsigned, undated copies; the administration agreement is on file
+  but unreadable by the tooling; the 2018 fee schedule is on file; the November 2023 schedule is
+  in Gmail. **Scheme year end 5 April** `(email)`. Articles: `Processes/scheme-establishment-2021`,
+  `Processes/scheme-rules`, `Finance/hmrc-registration`, `Finance/tpr-scheme-registration-2022`,
+  `Finance/scheme-accounts-and-returns` (draft), `Employers/*`, `People/*`,
+  `Suppliers/empowered-pensions`.
 - **Known asset: loanback to Fishbone Commercial Properties Ltd (verified in part).** 41,500 lent
-  under a loan agreement dated 16/04/2025 (**not on file**), secured by a first legal mortgage
-  dated 29/04/2025 over 145 High Street East, Wallsend NE28 7RL (part of title TY59507),
-  executed by all four trustees and by the borrower (13687238) acting by M Gaudiesius and
-  A Prutkovas; the deed caps borrowing at 50 percent of the scheme's value. Completion costs
-  1,352.20, net advance 40,147.80, solicitors Dollman & Pritchard (ref AJA/FIS53.1). Rate, term
-  and instalments still rest on the Loans wiki `(unverified)`: 5.5 percent tracking base rate,
-  60 months, 790.13 a month, final payment 28/04/2030, balance 31,495.87 at 21/08/2026. Charge
-  registration at Companies House and the Land Registry is not evidenced. The March 2025
+  under a loan agreement dated 16/04/2025 (**signed through Signable that day; the copy is a Gmail
+  attachment, not in `Raw/`**), secured by a first legal mortgage dated 29/04/2025 over 145 High
+  Street East, Wallsend NE28 7RL (part of title TY59507), executed by all four trustees and by the
+  borrower (13687238) acting by M Gaudiesius and A Prutkovas; the deed caps borrowing at 50
+  percent of the scheme's value. Completion costs 1,352.20, net advance 40,147.80, solicitors
+  Dollman & Pritchard (ref AJA/FIS53.1). Terms: 5.5 percent and an 8.25 percent default rate
+  requested by the owner 01/04/2025 with monthly capital repayments `(email)`; the Loans wiki's
+  60 months, 790.13 a month, final payment 28/04/2030, balance 31,495.87 at 21/08/2026
+  `(unverified)`. **Charge registered at Companies House (certificate emailed 08/05/2025) and the
+  Land Registry (completed 26/01/2026)** `(email; documents not on file)`. A repayment schedule
+  was sent to RMT Accountants 17/12/2025 `(email)`. **The 50 percent test at April 2025 computes
+  at about 49.8 percent** of the two directors' quoted transfer values, because the third
+  member's transfers were not yet in `(unverified: quotations, not receipts)`. The March 2025
   valuation of the security assumed repairs still in progress (FCP knowledge base). Article:
   `Assets/loanback-fishbone-commercial-properties`. No `FSS 0001` row yet.
 - **Bank (verified in part).** Metro Bank pension scheme account, opening request signed by both
-  member trustees 31/10/2021. Account number, opening date and every statement are not on file.
-  The administrator's template says payments over 1,500 need a corporate trustee and one member
-  trustee to sign `(unverified)`. Fishbone Properties Ltd's Starling statements, in that company's
-  knowledge base, show weekly 35.00 payments to "Metro SSAS Account" `(unverified)`.
-- **Members and contributions (largely unverified).** At least the three individual trustees;
-  the third joined through the administrator's "Additional Member" form in December 2023 or
-  January 2024 and is an employee of Fishbone Properties Ltd, which is not on file as a
-  participating employer. Payroll pension contributions of the principal employer in December
-  2022 to May 2023 were labelled "Aviva Salary Sacrifice Pension", not the SSAS. Nothing on file
-  shows what the scheme has received.
-- **Employer compliance (verified).** TPR re-declaration at the re-enrolment date 07/11/2023
-  lists the SSAS (EPSR 12018880) and Aviva (EPSR TK074521), two staff both already members; two
-  drafts on file, no submission receipt. **Next re-enrolment date is November 2026.**
-- **Where the legacy papers are.** The master is OneDrive `Documents/SSAS` on the
-  `info@fishbonedrylining` account (ids in `Wiki/Processes/knowledge-base-operations.md`). On
-  2026-09-06 the owner uploaded the whole master into `Raw/` and, once it was flagged as mostly
-  member-personal, moved it to the My Drive root: folder `SSAS`, id
-  `1jSFpIOcKb7yANA0hJVtjWb_80rMfvo5c`, **outside this knowledge base**. All four scheme documents
-  that were once OneDrive-only are now in `Raw/`. Everything else in that folder is
-  member-personal (payslips, identity documents, personal bank statements, transfer, application
-  and authority forms, photographs) and stays out by the owner's instruction; the Session 3 entry
-  lists it. Google Drive `Collaboration Space / Other / Staff (SSAS)`
-  (`1Q7C8BIAD9pGfoBa9a-RF-EmGdS7xXqw0`) is an older partial copy. Three loan agreement PDFs dated
-  2019 and 2021 sit loose in `Collaboration Space / Other`; whether they are scheme loans is
-  unknown.
+  member trustees 31/10/2021; 2024 mandate on file adding the third trustee, signing rule one
+  member trustee plus one authorised administrator together, single signature under 1,500;
+  account number on the mandate, never quoted. Bank details were sent by the administrator on
+  19/01/2023 `(email)`. The loan advance left on the administrator's transfer request form
+  24/04/2025 `(email)`. **No statement is on file.** Fishbone Properties Ltd's Starling statements
+  show weekly 35.00 payments to "Metro SSAS Account" `(unverified)`.
+- **Transfers in and contributions (verified in part).** Three Aviva plans and one Nest plan;
+  quoted values sum to 99,956.22 (Aviva) and about 107,196 with Nest (individual figures are in
+  `Raw/`, not the Wiki). The first director's Aviva transfer was received June 2023 `(email)`;
+  the second director's needed a MoneyHelper appointment in July 2023 and its completion is not
+  evidenced; the third member's Aviva transfer drew amber flags in July 2025 and its completion
+  is not evidenced `(email)`. Payroll pension contributions of the principal employer in
+  December 2022 to May 2023 were labelled "Aviva Salary Sacrifice Pension"; the administrator
+  says SSAS contributions are simply transferred to the Metro Bank account `(email)`; Fishbone
+  Properties Ltd says it contributes for its employee. Nothing on file shows a contribution
+  received. Articles: `Finance/transfers-in`, `Finance/contributions`.
+- **Employers (verified in part).** Fishbone Drylining Ltd is the principal employer. Fishbone
+  Properties Ltd (09687012) employs the third member; a Deed of Adherence for it was raised
+  22/04/2025 and a signed scan returned 22/05/2025, completion not evidenced `(email)`. A Deed of
+  Adherence for the borrower was sent 09/04/2025 and the administrator then said it was already
+  adhered `(email)`. TPR re-declaration at 07/11/2023 lists the SSAS and Aviva; **next
+  re-enrolment date is November 2026.** Article: `Employers/fishbone-properties-ltd`.
+- **Where the legacy papers are.** The master is the owner's `SSAS` folder at the My Drive root
+  (id `1jSFpIOcKb7yANA0hJVtjWb_80rMfvo5c`, 139 files), originally OneDrive `Documents/SSAS`. All
+  scheme-level documents in it are now in `Raw/` (36 files); everything left is member-personal
+  and stays out by the owner's instruction. Google Drive `Collaboration Space / Other / Staff
+  (SSAS)` (`1Q7C8BIAD9pGfoBa9a-RF-EmGdS7xXqw0`) is an older partial copy. Three loan agreement
+  PDFs dated 2019 and 2021 sit loose in `Collaboration Space / Other`; whether they are scheme
+  loans is unknown. The owner's Gmail is the third source (section 1).
 
 **Open questions, in priority order.**
-1. The **loan agreement dated 16/04/2025**: principal, rate, term, repayment schedule. Then the
-   HMRC authorised employer loan test in full, the `FSS 0001` row, and `FSS0000001` onwards for
-   the thirteen documents in `Raw/`.
-2. The **third trustee**: her deed of appointment, her admission as a member, whether Fishbone
-   Properties Ltd was admitted as a participating employer by deed (rule 12.1), and whether TPR
-   and HMRC were told.
-3. Evidence that the **charge was registered** (Companies House MR01 against 13687238; Land
-   Registry restriction on TY59507), and the valuation relied on.
-4. The executed trust deed and rules, the scheme year end, and the filing history (Pension Scheme
-   Returns, Event Reports, TPR scheme returns): ask Empowered Pensions Ltd.
-5. Metro Bank account details and statements from opening to date, so contributions, the loan
-   advance and the repayments can be reconciled.
-6. What each member has contributed and by which route, given the Aviva payroll label.
-7. The administration agreement's terms: a person needs to read the 8.8 MB scan.
-8. Which company number is right (three documents say 07948220), and the Companies House record
+1. **Save the fifteen Gmail attachments into `Raw/`** (Session 4 entry, Part B table): the loan
+   agreement and heads of terms, the repayment schedule, the Companies House certificate, the
+   Land Registry official copy and plan, the two Deeds of Adherence, the 2021-22 accounts, the
+   2021 establishment pack, the fee schedule and invoices. Then the HMRC loan test in full, the
+   `FSS 0001` row, and `FSS0000001` onwards.
+2. **The 50 percent test at 16/04/2025**: the scheme's actual value then, from the
+   administrator's loan file or the bank balance; the quotation arithmetic gives 49.8 percent.
+3. **The third trustee and Fishbone Properties Ltd**: her deed of appointment (at the
+   administrator), whether the Deed of Adherence was completed, whether TPR and HMRC were told.
+4. Whether the two other transfers in (second director, third member) completed, and when; the
+   "Barnett Waddingham" answer given to Aviva.
+5. Metro Bank statements from opening to date, so contributions, the advance and the repayments
+   can be reconciled; the accounts and returns for 2022-23 onwards, and the filing history.
+6. The 1,791.00 expense reimbursement to the sponsoring employer (November 2024): paid or not,
+   and authorised.
+7. RMT Accountants' figure for the loan (40,147.80) against the trustees' 41,500.
+8. The executed and dated trust deed and rules (at the administrator); the administration
+   agreement's terms (a person needs to read the 8.8 MB scan).
+9. Which company number is right (three documents say 07948220), and the Companies House record
    of the name change to Fishbone Construction Ltd.
-9. Whether the 2019 and 2021 loan agreements in `Collaboration Space / Other` are scheme loans.
-10. Whether the trustees know that the valuation supporting the security assumed repairs that are
-    not complete.
+10. Whether the 2019 and 2021 loan agreements in `Collaboration Space / Other` are scheme loans,
+    and whether the trustees know the security's valuation assumed repairs not complete.
 
 ---
 
-*Standing context for the Fishbone SSAS knowledge base. Version 3, 2026-09-06, after the loanback
-security and governing documents; version 2 followed the first Raw items and version 1 was created the
-same day at setup from the Fishbone Commercial Properties Ltd model. See
+*Standing context for the Fishbone SSAS knowledge base. Version 4, 2026-09-06, after the `SSAS`
+folder extraction and the first Gmail search; version 3 followed the loanback security and
+governing documents, version 2 the first Raw items, and version 1 was created the same day at
+setup from the Fishbone Commercial Properties Ltd model. See
 `Wiki/Decisions/2026-09-06-kb-structure-and-recount-rule.md`.*
