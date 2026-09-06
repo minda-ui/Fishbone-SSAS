@@ -10,6 +10,8 @@ sources:
 related:
   - ../Processes/scheme-establishment-2021.md
   - ../Suppliers/empowered-pensions.md
+  - ../Finance/tpr-scheme-registration-2022.md
+  - ../Assets/loanback-fishbone-commercial-properties.md
 ---
 
 # HMRC registration (PSTR 20005255RF)
@@ -43,21 +45,26 @@ the scheme's assets, and the administrator must remain a fit and proper person u
 For a scheme that lends to a sponsoring employer, the "investment-regulated" declaration matters:
 the loanback to Fishbone Commercial Properties Ltd must meet the authorised employer loan
 conditions (security, interest rate, term, amount not exceeding 50 percent of scheme assets,
-equal instalments). None of that has been checked in this knowledge base yet, and the loanback
-agreement is not on file.
+equal instalments). The security deed, completion statement and solicitors' invoice for that
+loan are now on file and the conditions are tested, as far as they can be, in
+[Loanback to Fishbone Commercial Properties Ltd](../Assets/loanback-fishbone-commercial-properties.md);
+the loan agreement itself is still not on file, so the rate, term and instalment tests remain
+`(unverified)`. The PSTR appears as the "HMRC approval number" on the scheme's
+[TPR registration](../Finance/tpr-scheme-registration-2022.md).
 
 ## Open questions
 
 - Have Pension Scheme Returns and Event Reports been filed since registration, by whom, and when
   is the next one due?
 - Does the loanback to Fishbone Commercial Properties Ltd meet the authorised employer loan
-  conditions?
+  conditions? Partly answered: see the conditions table in the Assets article.
 
 ## Changes
 
 | Date | Change | Change-log ref |
 |---|---|---|
 | 2026-09-06 | Created from the Raw item in the front matter | `Outputs/change-log-2026-09-06-legacy-scheme-documents-copied.md` |
+| 2026-09-06 | Loanback conditions now pointed at the Assets article; TPR cross-link | `Outputs/change-log-2026-09-06-loan-security-and-governing-documents.md` |
 
 ## Sources
 

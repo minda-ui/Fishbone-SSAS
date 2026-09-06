@@ -9,11 +9,15 @@ sources:
   - ../../Raw/Trust deed (Fishbone SSAS, copied from Drive Staff (SSAS) legacy folder 2026-09-06).pdf
   - ../../Raw/Board minutes (Fishbone Drylining Ltd resolution to establish the scheme, copied from Drive Staff (SSAS) legacy folder 2026-09-06).pdf
   - ../../Raw/TPR re-declaration summary 2023-11-07 (Redeclaration - 8. Summary and check, copied from Drive Staff (SSAS) legacy folder 2026-09-06).pdf
+  - ../../Raw/TPR scheme registration certificate 2022-08-04 PSR 12018880 (The Pension Regulator Certificate.pdf, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).pdf
 related:
   - ../Processes/scheme-establishment-2021.md
   - ../People/m-gaudiesius.md
   - ../People/a-prutkovas.md
+  - ../People/i-fedonina.md
   - ../Finance/tpr-re-declaration-2023.md
+  - ../Finance/tpr-scheme-registration-2022.md
+  - ../Processes/scheme-rules.md
 ---
 
 # Fishbone Construction Ltd, formerly Fishbone Drylining Ltd (principal employer)
@@ -29,6 +33,8 @@ is now called Fishbone Construction Ltd.
 | Name on the scheme documents | Fishbone Drylining Ltd | [^1] p.1, [^2] |
 | Company number per the trust deed | 07948220 | [^1] p.2 |
 | Company number per the TPR re-declaration | 07948020 | [^3] p.2 |
+| Company number per the TPR scheme registration | 07948220 | [^4] p.5 |
+| Employer type and status per the TPR scheme registration | "Principal and Participating Employer", Active, trading effective 14/02/2012 | [^4] p.5 |
 | Registered address | 6 Beverley Place, Wallsend NE28 7BH | [^1] p.1, [^3] p.2 |
 | Role | Principal Employer and Scheme Establisher | [^1] p.2 cl. (1), (4); [^2] item 1 |
 | Directors present at the establishing resolution | M Gaudiesius, A Prutkovas | [^2] |
@@ -38,8 +44,9 @@ is now called Fishbone Construction Ltd.
 
 ## Details
 
-The trust deed and the board minutes give the company number as 07948220; the TPR re-declaration
-summary of November 2023 gives 07948020. **One of these is a typing error.** The Fishbone Holdings
+The trust deed, the board minutes and the scheme's TPR registration of August 2022 [^4] give the
+company number as 07948220; only the TPR re-declaration summary of November 2023 gives 07948020.
+**The re-declaration is the odd one out and most likely carries the typing error.** The Fishbone Holdings
 Ltd asset register (Smartsheet, workspace `6810956824110979`, row FH 0001) records "Fishbone
 Construction Ltd (formerly Fishbone Drylining Limited)" with company number 07948220, which
 supports the deed `(unverified here: cross-knowledge-base figure, not recounted from Companies
@@ -52,23 +59,43 @@ Aviva (EPSR TK074521) and Fishbone SSAS (EPSR 12018880) [^3] p.3. See
 
 Fishbone Properties Ltd may also pay contributions into the scheme: its Starling bank statements,
 in that company's own knowledge base, show weekly payments to "Metro SSAS Account" `(unverified
-here)`. Whether it is a participating employer under the rules is an open question.
+here)`. The owner's legacy folder on Drive (id `1jSFpIOcKb7yANA0hJVtjWb_80rMfvo5c`, outside this
+knowledge base) adds two pointers, neither filed here because they concern a named employee:
+payslips issued by Fishbone Properties Ltd to the person who became the scheme's third trustee,
+and a draft letter of February 2025 from that company's director to Nest Pension stating that
+her pension contributions "made on my behalf by Fishbone Properties, including employer-matching
+contributions" go to the Fishbone SSAS `(unverified)`. See [I Fedonina](../People/i-fedonina.md).
+Under rule 12.1 of the [scheme rules](../Processes/scheme-rules.md) an employer is admitted as a
+participating employer **by deed**; no such deed is on file, and the TPR registration of 2022
+lists Fishbone Drylining Ltd as the only employer [^4] p.5.
+
+The monthly "Pension Contributions (Fishbone)" reports produced by Galaxy Payroll for Fishbone
+Drylining Limited for December 2022 to May 2023, in the same legacy folder, label the pension
+deduction for the two directors and a third employee "Aviva Salary Sacrifice Pension"
+`(unverified: seen, not filed; per-member figures not repeated)`. On that evidence the payroll
+pension of the principal employer ran to Aviva in that period, and SSAS contributions, if any,
+were made outside payroll.
 
 ## Open questions
 
-- Confirm the company number from Companies House and record which document carries the error.
+- Confirm the company number from Companies House; three documents now say 07948220 against one
+  saying 07948020.
 - Confirm the change of name from Fishbone Drylining Ltd to Fishbone Construction Ltd from a
   Companies House certificate.
-- Is Fishbone Properties Ltd a participating employer, and is there a deed of participation?
+- Is Fishbone Properties Ltd a participating employer, and is there a deed of participation under
+  rule 12.1? If not, on what basis is its employee a member?
+- What the principal employer has actually contributed to the SSAS, and from which account.
 
 ## Changes
 
 | Date | Change | Change-log ref |
 |---|---|---|
 | 2026-09-06 | Created from the three Raw items in the front matter | `Outputs/change-log-2026-09-06-legacy-scheme-documents-copied.md` |
+| 2026-09-06 | TPR scheme registration figures; company number now three to one; participating employer question sharpened; payroll label | `Outputs/change-log-2026-09-06-loan-security-and-governing-documents.md` |
 
 ## Sources
 
 [^1]: [Trust deed, unsigned copy](<../../Raw/Trust deed (Fishbone SSAS, copied from Drive Staff (SSAS) legacy folder 2026-09-06).pdf>) pp.1-2
 [^2]: [Board minutes, unsigned and undated](<../../Raw/Board minutes (Fishbone Drylining Ltd resolution to establish the scheme, copied from Drive Staff (SSAS) legacy folder 2026-09-06).pdf>)
 [^3]: [TPR re-declaration summary, 07/11/2023](<../../Raw/TPR re-declaration summary 2023-11-07 (Redeclaration - 8. Summary and check, copied from Drive Staff (SSAS) legacy folder 2026-09-06).pdf>) pp.2-4
+[^4]: [TPR scheme registration, 04/08/2022](<../../Raw/TPR scheme registration certificate 2022-08-04 PSR 12018880 (The Pension Regulator Certificate.pdf, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).pdf>) p.5

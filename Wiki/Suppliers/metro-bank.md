@@ -11,6 +11,8 @@ related:
   - ../Processes/scheme-establishment-2021.md
   - ../People/m-gaudiesius.md
   - ../People/a-prutkovas.md
+  - ../Assets/loanback-fishbone-commercial-properties.md
+  - ../Suppliers/empowered-pensions.md
 ---
 
 # Metro Bank (scheme bank account)
@@ -37,17 +39,31 @@ Fishbone Properties Ltd's Starling statements, in that company's knowledge base,
 payments to a payee "Metro SSAS Account" `(unverified here)`, which is consistent with this being
 the scheme's receiving account for contributions.
 
+Two indirect facts about how the account is meant to be operated. The administrator's fee
+schedule lists a "(Metro) Bank account set up and reconciliations" and the annual Metro Bank
+account fee as free, which confirms Metro Bank as the administrator's standard scheme bank; see
+[Empowered Pensions Ltd](../Suppliers/empowered-pensions.md). The administrator's "Additional
+Member" form template, seen in the owner's legacy folder on Drive (id
+`1jSFpIOcKb7yANA0hJVtjWb_80rMfvo5c`, not filed here), says a trustee must authorise payments over
+1,500.00 from the scheme bank account and that the signing mandate is "Corporate Trustee and one
+Member Trustee to sign" `(unverified: template wording, not the bank's mandate)`.
+
+The 41,500 loan to Fishbone Commercial Properties Ltd presumably left this account on or about
+29/04/2025, net of the solicitors' deductions `(unverified: no statement on file)`; see
+[Loanback to Fishbone Commercial Properties Ltd](../Assets/loanback-fishbone-commercial-properties.md).
+
 ## Open questions
 
 - Account details and opening date, from a statement or the bank's letter.
 - Statements from opening to date, so contributions and loanback repayments can be reconciled.
-- Whether the corporate trustee is a signatory.
+- Whether the corporate trustee is a signatory, as the administrator's template implies.
 
 ## Changes
 
 | Date | Change | Change-log ref |
 |---|---|---|
 | 2026-09-06 | Created from the Raw item in the front matter | `Outputs/change-log-2026-09-06-legacy-scheme-documents-copied.md` |
+| 2026-09-06 | Mandate wording from the administrator's template, fee schedule, loan advance pointer | `Outputs/change-log-2026-09-06-loan-security-and-governing-documents.md` |
 
 ## Sources
 

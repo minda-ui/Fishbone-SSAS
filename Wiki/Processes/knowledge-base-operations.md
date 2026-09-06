@@ -139,6 +139,7 @@ scheme.
 |---|---|---|
 | 2026-09-06 | Created at setup | `Outputs/change-log-2026-09-06-initial-setup.md` |
 | 2026-09-06 | Employers folder id, OneDrive source, history line | `Outputs/change-log-2026-09-06-legacy-scheme-documents-copied.md` |
+| 2026-09-06 | History line: the owner uploaded the whole OneDrive master into `Raw/` and moved it out again to the My Drive root (`1jSFpIOcKb7yANA0hJVtjWb_80rMfvo5c`); the four scheme documents were copied from it by id; Drive downloads above about 8 MB fail in the connector | `Outputs/change-log-2026-09-06-loan-security-and-governing-documents.md` |
 
 ## Sources
 

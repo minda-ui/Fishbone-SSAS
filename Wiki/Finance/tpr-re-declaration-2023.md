@@ -12,6 +12,7 @@ related:
   - ../Employers/fishbone-construction-ltd.md
   - ../Suppliers/empowered-pensions.md
   - ../People/m-gaudiesius.md
+  - ../Finance/tpr-scheme-registration-2022.md
 ---
 
 # TPR automatic enrolment re-declaration, 7 November 2023
@@ -40,8 +41,11 @@ The two copies are drafts of the same web form. Copy 1 (4 pages) lists Aviva and
 entry for the Fishbone SSAS with the same EPSR [^2] p.4. Neither is the submission receipt, so
 **whether and when the declaration was actually submitted is not evidenced** by what is on file.
 
-The company number typed on the form, 07948020, differs from the trust deed's 07948220. See
-[Fishbone Construction Ltd](../Employers/fishbone-construction-ltd.md).
+The company number typed on the form, 07948020, differs from the trust deed's 07948220, and the
+scheme's own TPR registration of August 2022 also says 07948220, so this form is the odd one out.
+See [Fishbone Construction Ltd](../Employers/fishbone-construction-ltd.md). The EPSR 12018880 is
+the scheme's PSR number; see
+[TPR scheme registration 2022](../Finance/tpr-scheme-registration-2022.md).
 
 ## Open questions
 
@@ -54,6 +58,7 @@ The company number typed on the form, 07948020, differs from the trust deed's 07
 | Date | Change | Change-log ref |
 |---|---|---|
 | 2026-09-06 | Created from the two Raw items in the front matter | `Outputs/change-log-2026-09-06-legacy-scheme-documents-copied.md` |
+| 2026-09-06 | Cross-link to the scheme registration; company number note | `Outputs/change-log-2026-09-06-loan-security-and-governing-documents.md` |
 
 ## Sources
 
