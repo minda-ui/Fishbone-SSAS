@@ -1,6 +1,6 @@
 ---
 title: <Article title>
-category: <Assets | Suppliers | People | Finance | Processes | Decisions>
+category: <Assets | Employers | Suppliers | People | Finance | Processes | Decisions>
 status: draft            # draft | active | superseded | archived
 sensitive: false         # true if the topic involves personal, member or confidential data
 created: YYYY-MM-DD

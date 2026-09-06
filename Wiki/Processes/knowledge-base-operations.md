@@ -26,6 +26,7 @@ detail.
 | Google Drive | `Wiki/` | `11BDCN8sZkkaUbIBhh_M678CSxT0aSsZc` | |
 | Google Drive | `Wiki/_templates/` | `1C0Wpd38AOGPyTSyF6QY4hIZx31te1bUC` | |
 | Google Drive | `Wiki/Assets/` | `1AjPA9rBMKc1l6cxkfShqChmQLviRYStC` | |
+| Google Drive | `Wiki/Employers/` | `1L1pXYtz6V23Ux9RemPzgwmlnBS98IeCY` | Created 2026-09-06 with its first article. |
 | Google Drive | `Wiki/Suppliers/` | `1dsyopaf7I56WYlCe9aodmBDgBevqbuDs` | |
 | Google Drive | `Wiki/People/` | `18n0ICd5Xhq4J9nXqEVNqubmArAdJuU8R` | |
 | Google Drive | `Wiki/Finance/` | `1faqBE6PO43FL2rhaph1vfoK3PvIRd9cx` | |
@@ -42,6 +43,15 @@ detail.
 | Smartsheet | folder `Reports & Dashboards` | `4148450360092547` | Reports and sights only. |
 | Smartsheet | report `Open Tasks` | `6471752932788100` | Tasks where Status is not Done, by Due Date. |
 | Smartsheet | report `Register Health` | `8718055188334468` | Id, class, counterparty, the three health columns, loan terms, value, note. |
+
+**Legacy source of the scheme's papers:** OneDrive of `info@fishbonedrylining.onmicrosoft.com`, folder
+`Documents/SSAS` (drive `b!qDoSBVJDtU2A7ycK1dJS-aPdON0W8lNHvktFsewN0k69J-Fpz23-TIiSYUWNAuiA`, item
+`016RXTF4M6XCHJJG5CPRE3YHGRYE5RVFLJ`), created October 2021, last activity April 2025. The Google Drive
+folder `Collaboration Space / Other / Staff (SSAS)` (`1Q7C8BIAD9pGfoBa9a-RF-EmGdS7xXqw0`) is a partial copy of
+it made in November 2024. **Bytes cannot be pulled from OneDrive by the tooling** (the egress proxy blocks the
+SharePoint host and the Microsoft 365 connector returns extracted text only, which is empty for scanned PDFs),
+so copying into `Raw/` is done from the Google Drive copy with `copy_file`; anything that exists only on
+OneDrive has to be dragged across by a person.
 
 Sister knowledge bases, for linked facts: `Fishbone Commercial Properties Ltd - Knowledge Base`
 (Drive `1zC8LmkCLr7BEaqcAlxgAXyz5Bfm73Z7C`, Smartsheet workspace `3788897575561091`);
@@ -115,6 +125,9 @@ scheme.
 
 - 2026-09-06: knowledge base and Smartsheet workspace created at setup. No Raw items, no
   Smartsheet rows, no document numbers.
+- 2026-09-06, later: the OneDrive `SSAS` folder found and inventoried; six scheme-level documents
+  copied from the Google Drive partial copy into `Raw/` and processed; `Wiki/Employers/` created
+  with its first article; nine articles written. Still no Smartsheet rows and no document numbers.
 
 ## Open questions
 
@@ -125,6 +138,7 @@ scheme.
 | Date | Change | Change-log ref |
 |---|---|---|
 | 2026-09-06 | Created at setup | `Outputs/change-log-2026-09-06-initial-setup.md` |
+| 2026-09-06 | Employers folder id, OneDrive source, history line | `Outputs/change-log-2026-09-06-legacy-scheme-documents-copied.md` |
 
 ## Sources
 

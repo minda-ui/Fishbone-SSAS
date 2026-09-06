@@ -1,7 +1,8 @@
 # Fishbone SSAS - Knowledge Base
 
-> **Status: AUTHORITATIVE. Version 1, 2026-09-06.** Built at setup, before any source material was
-> filed, by copying the structure of the `Fishbone Commercial Properties Ltd - Knowledge Base`
+> **Status: AUTHORITATIVE. Version 2, 2026-09-06**, superseding version 1 of the same day (in `Archive/`)
+> after the first six Raw items were filed and processed. Version 1 was built at setup, before any
+> source material was filed, by copying the structure of the `Fishbone Commercial Properties Ltd - Knowledge Base`
 > (the group's most mature example, its `CLAUDE.md` version 2 of 2026-09-03 as corrected to
 > 2026-09-05) and the Smartsheet layout of the `Fishbone Holdings Ltd` workspace. Why each part is
 > the way it is, and what was deliberately left out, is in
@@ -61,6 +62,7 @@ Fishbone SSAS - Knowledge Base/
 │   ├── index.md
 │   ├── _templates/article.md
 │   ├── Assets/        <- what the scheme holds: loanbacks, bank accounts, any property
+│   ├── Employers/     <- the principal employer and any participating employer
 │   ├── Suppliers/     <- administrator, bank, accountant, valuer, solicitor
 │   ├── People/        <- trustees and members
 │   ├── Finance/       <- contributions, scheme accounts, HMRC returns, tax
@@ -97,8 +99,8 @@ files. Verbal information from a trustee or member is written up as
 cite it.
 
 **Wiki/** holds Markdown articles with the front matter in `Wiki/_templates/article.md`. Every
-article is listed in `Wiki/index.md`. Categories: Assets, Decisions, Finance, People, Processes,
-Suppliers.
+article is listed in `Wiki/index.md`. Categories: Assets, Decisions, Employers, Finance, People,
+Processes, Suppliers. `Employers/` was added 2026-09-06 with its first article.
 
 **Outputs/** are snapshots. Anything worth keeping is written into the Wiki, not left in Outputs.
 Standing always-current files are a deliberate exception to the write-once rule: they carry
@@ -278,6 +280,9 @@ If a routine's prompt ever conflicts with this list, this section wins.
   Smartsheet workspace were created by `minda@fishboneconstruction.co.uk` and shared with nobody.
   This is a point in time, not a standing state; re-check before sharing anything further, and see
   section 5's proposed quarterly sweep.
+- **Every PDF in `Raw/` is Drive-only and is never committed to git**, whatever it contains: the six
+  filed on 2026-09-06 include signatures and a phone number, and the ones still to come are bank
+  and administrator documents.
 - A pension scheme's records are personal data about its members by nature. Treat every member,
   trustee, benefit, contribution and bank document as `sensitive: true`. Bank statements and
   member documents stay Drive-only and are never copied into git.
@@ -313,61 +318,66 @@ articles and the dated change-log entries.
 
 ---
 
-## 7. Scheme snapshot and open questions (as of 2026-09-06)
+## 7. Scheme snapshot and open questions (as of 2026-09-06, after Session 2)
 
-**Nothing in this section has been verified from a document filed in this knowledge base.** It is
-a starting orientation assembled from pointers found elsewhere on Drive and in Smartsheet during
-setup, so that the first processing session knows where to look. Every line is `(unverified)`
-until the document behind it is in `Raw/` and cited by a Wiki article. Recount every figure.
+The Wiki is the authoritative record; start at `Wiki/index.md`. This section is a one-screen
+orientation, refreshed when a Raw item changes the picture. Lines marked **verified** are cited in
+a Wiki article from a document in `Raw/`; lines marked `(unverified)` are pointers found elsewhere
+and must be recounted before use.
 
-- **What it is.** The Fishbone group's small self-administered pension scheme (SSAS). The Fishbone
-  Group knowledge base's stub (`Fishbone Group/Wiki/Org-Fishbone-SSAS.md`, 2026-09-03) records its
-  intended role as an internal financing vehicle for group lending. Formal scheme name, HMRC
-  Pension Scheme Tax Reference, trustees, administrator and scheme year end are **not recorded
-  anywhere found so far**.
-- **Known asset: loanback to Fishbone Commercial Properties Ltd.** Reference `K0555` per the Loans
-  wiki on Drive. That wiki's facility page (21/08/2026, updated 04/09/2026) states original
-  principal 41,500, 5.5 percent tracking base rate, 60 months, 790.13 a month, final payment
-  28/04/2030, and a balance of 31,495.87 as at 21/08/2026; the FCP accounts to 30/04/2025 show a
-  secured loan of 41,500; the FCP bank statements show 790.13 leaving around the 29th of each
-  month. Security stated as 145 High Street East, Wallsend (owner statement 26/08/2026, recorded in
-  the Loans wiki). The FCP knowledge base flags that the March 2025 valuation of that security
-  assumed structural repairs that are still in progress. **The loan agreement itself is not on
-  file anywhere found.** Whether HMRC loanback conditions (security, rate, term, amount against
-  scheme assets) are met has not been checked.
-- **Bank.** The scheme's account appears to be with Metro Bank: a "Metro Bank account" folder sits
-  in the scheme's legacy Drive folder, and Fishbone Properties Ltd's Starling statements show
-  weekly 35.00 payments to "Metro SSAS Account" referenced with a member's name, which look like
-  employer contributions `(unverified)`.
-- **Where the legacy papers are.** Drive folder `Collaboration Space / Other / Staff (SSAS)`
-  (id `1Q7C8BIAD9pGfoBa9a-RF-EmGdS7xXqw0`, owned by `anastasia@fishboneconstruction.co.uk`,
-  created November 2024) holds, per a listing on 2026-09-06: `Trust deed.pdf`,
-  `Board minutes.pdf`, `Credit score report.pdf`, `EP Minda.pdf`, `EP Andrej.pdf`,
-  `Document_2021-11-01_103325.pdf`, and sub-folders `Certificates`, `Redeclaration`,
-  `Metro Bank account`, `2023`, `Minda`, `Irina`, `Andrejus`, `New folder`. None has been read.
-  A sibling folder `Fishbone Pension Fund` was recorded as empty on 2026-09-03. Three loan
-  agreement PDFs dated 2019 and 2021 sit loose in `Collaboration Space / Other`; whether they are
-  scheme loans is unknown.
+- **What it is (verified).** Fishbone SSAS, an occupational and investment-regulated pension
+  scheme registered with HMRC on 03/12/2021, PSTR 20005255RF, established by Fishbone Drylining
+  Ltd (company number 07948220 per the trust deed, 07948020 per the TPR form; one is wrong), now
+  Fishbone Construction Ltd per the sister knowledge bases `(unverified)`. Member trustees
+  M Gaudiesius and A Prutkovas; corporate trustee Empowered Trustees Ltd (12291059); scheme
+  administrator Empowered Pensions Ltd, East Grinstead. The trust deed and board resolution on
+  file are **unsigned, undated copies** and the rules are not attached. Scheme year end unknown.
+  Articles: `Processes/scheme-establishment-2021`, `Finance/hmrc-registration`,
+  `Employers/fishbone-construction-ltd`, `People/*`, `Suppliers/empowered-pensions`.
+- **Bank (verified in part).** Metro Bank pension scheme account, opening request signed by both
+  member trustees 31/10/2021. Account number, opening date and every statement are not on file.
+  Fishbone Properties Ltd's Starling statements, in that company's knowledge base, show weekly
+  35.00 payments to "Metro SSAS Account" referenced with a member's name `(unverified)`.
+- **Employer compliance (verified).** The principal employer's TPR re-declaration at its
+  re-enrolment date 07/11/2023 lists the SSAS (EPSR 12018880) and Aviva (EPSR TK074521), with 2
+  staff both already members. Two drafts on file, no submission receipt. **Next re-enrolment date
+  is November 2026.**
+- **Known asset: loanback to Fishbone Commercial Properties Ltd `(unverified, nothing on file)`.**
+  Reference `K0555` per the Loans wiki on Drive, which states original principal 41,500, 5.5
+  percent tracking base rate, 60 months, 790.13 a month, final payment 28/04/2030, balance
+  31,495.87 as at 21/08/2026; the FCP accounts to 30/04/2025 show a secured loan of 41,500 and its
+  bank statements show 790.13 leaving around the 29th of each month; security stated as 145 High
+  Street East, Wallsend (owner statement 26/08/2026), whose March 2025 valuation assumed repairs
+  still in progress. **The loan agreement is not on file anywhere found**, and the authorised
+  employer loan conditions have not been checked.
+- **Where the legacy papers are.** The master is OneDrive `Documents/SSAS` on the
+  `info@fishbonedrylining` account (ids in `Wiki/Processes/knowledge-base-operations.md`); Google
+  Drive `Collaboration Space / Other / Staff (SSAS)` (`1Q7C8BIAD9pGfoBa9a-RF-EmGdS7xXqw0`) is a
+  partial copy of November 2024. Six scheme-level documents were copied into `Raw/` on 2026-09-06.
+  **Still only on OneDrive and not copyable by the tooling:** `Admistration Agreement.pdf`,
+  `SASS price list.pdf`, `Schemes rules.pdf`, `The Pension Regulator Certificate.pdf`. Everything
+  else there is member-personal (payslips, ID documents, contribution schedules, transfers) and
+  stays out by the owner's instruction. Three loan agreement PDFs dated 2019 and 2021 sit loose in
+  `Collaboration Space / Other`; whether they are scheme loans is unknown.
 
 **Open questions, in priority order.**
-1. The governing documents: trust deed and rules, HMRC registration letter and PSTR, current
-   trustees, scheme administrator, scheme year end. Copy them into `Raw/` and build
-   `Wiki/People/` and `Wiki/Finance/` from them.
-2. The loanback agreement with Fishbone Commercial Properties Ltd: principal, rate, term,
-   security, repayment schedule, and the charge over 145 High Street East. Then the first
-   `FSS 0001` row and the first `Wiki/Assets/` article.
-3. Metro Bank statements from the scheme's opening to date, so contributions, loan repayments and
-   fees can be reconciled.
-4. Who the members are, what each has contributed, and whether the weekly 35.00 payments from
-   Fishbone Properties Ltd are contributions and for whom.
-5. Whether the scheme has filed its HMRC Pension Scheme Returns and Event Reports, and who does
-   the scheme's accounts.
-6. Whether the 2019 and 2021 loan agreements in `Collaboration Space / Other` are scheme loans.
+1. The four OneDrive-only scheme documents above: a person drags them into `Raw/`.
+2. The executed trust deed and the rules, the scheme year end, and the filing history (Pension
+   Scheme Returns, Event Reports): ask Empowered Pensions Ltd.
+3. The loanback agreement with Fishbone Commercial Properties Ltd and the charge over 145 High
+   Street East; then the first `FSS 0001` row and the first `Wiki/Assets/` article, and a check
+   against the authorised employer loan conditions.
+4. Metro Bank account details and statements from opening to date.
+5. Who the members are (the trustees, and apparently a third employee whose papers fill the
+   `Irina/` folder), what each has contributed, and whether Fishbone Properties Ltd is a
+   participating employer.
+6. Which company number is right, 07948220 or 07948020, and the Companies House record of the
+   name change to Fishbone Construction Ltd.
 7. Whether the trustees know that the valuation supporting the loanback's security assumed
    repairs that are not complete.
 
 ---
 
-*Standing context for the Fishbone SSAS knowledge base. Version 1, 2026-09-06, created at setup
-from the Fishbone Commercial Properties Ltd model. See
+*Standing context for the Fishbone SSAS knowledge base. Version 2, 2026-09-06, after the first Raw
+items; version 1 created the same day at setup from the Fishbone Commercial Properties Ltd model. See
 `Wiki/Decisions/2026-09-06-kb-structure-and-recount-rule.md`.*
