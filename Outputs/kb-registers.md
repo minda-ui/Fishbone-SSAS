@@ -100,6 +100,7 @@ Metro Bank statements; accounts and returns for 2022-23 onwards. The four docume
 | 2026-09-06 | `CLAUDE.md` replaced by version 3; `knowledge-base-operations.md` gained a history line | Session 3: section 7 refreshed for the loanback, the fourth trustee and the folder episode; section 5's weekly-sync prerequisite now met |
 | 2026-09-06 | Added `Finance/transfers-in.md`, `Finance/contributions.md`, `Employers/fishbone-properties-ltd.md` (second `Employers/` article), `Finance/scheme-accounts-and-returns.md` (draft stub); twelve articles updated; `index.md` rebuilt | Session 4: 23 Raw items from the `SSAS` folder, then the Gmail findings; Fishbone Properties Ltd split out of the principal employer's article because it is a different company with its own participation question |
 | 2026-09-06 | `CLAUDE.md` replaced by version 4; `knowledge-base-operations.md` gained Gmail as a source and a history line | Session 4: Gmail proved to hold most of the missing documents; section 7 refreshed; the email citation convention recorded |
+| 2026-09-07 | `CLAUDE.md` replaced by version 5; `knowledge-base-operations.md` gained a history line | The signed loan agreement reached `Raw/`: section 0's Gmail paragraph, section 5's loanback-monitor prerequisite and section 7's loanback bullet and open question 1 refreshed |
 
 ## Outputs produced
 
