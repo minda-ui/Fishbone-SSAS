@@ -1,9 +1,11 @@
 # Fishbone SSAS - Knowledge Base
 
-> **Status: AUTHORITATIVE. Version 6, 2026-09-07**, superseding version 5 of the same day (in `Archive/`)
-> after the heads of terms, loan application, trustees' board minute and repayment schedule were
-> saved from Gmail into `Raw/` and read. Version 5, earlier the same day, followed the signed
-> loan agreement. Version 4 followed
+> **Status: AUTHORITATIVE. Version 7, 2026-09-07**, superseding version 6 of the same day (in `Archive/`)
+> after a pass through the open questions: the principal employer's company number and change of
+> name settled from Companies House's emails, the 2019 and 2021 loan agreements identified as
+> Holdings-to-Properties loans, and a consolidated letter to the administrator drafted. Version 6
+> followed the heads of terms, loan application, board minute and repayment schedule; version 5
+> the signed loan agreement. Version 4 followed
 > the extraction of 23 more scheme documents from the owner's `SSAS` folder and the first search
 > of the owner's Gmail. Version 3 followed the loanback security documents;
 > version 2 followed the first six Raw items; version 1 was built at setup, before any
@@ -341,7 +343,7 @@ articles and the dated change-log entries.
 
 ---
 
-## 7. Scheme snapshot and open questions (as of 2026-09-07, after the loan pack was filed)
+## 7. Scheme snapshot and open questions (as of 2026-09-07, after the open-questions pass)
 
 The Wiki is the authoritative record; start at `Wiki/index.md`. This section is a one-screen
 orientation, refreshed when a Raw item changes the picture. Lines marked **verified** are cited in
@@ -355,9 +357,10 @@ elsewhere and must be recounted before use.
   administrator asked for them back undated so its director could date them `(email)`),
   commencement 28/10/2021, registered with HMRC on 03/12/2021 (PSTR 20005255RF) and with The
   Pensions Regulator on 04/08/2022 (PSR 12018880, two members at 03/12/2021). Established by
-  Fishbone Drylining Ltd, company number 07948220 on three documents (07948020 on the November
-  2023 re-declaration is the odd one out), now Fishbone Construction Ltd per the sister knowledge
-  bases `(unverified)`. Trustees: M Gaudiesius, A Prutkovas, **I Fedonina (joined 05/01/2024, on
+  Fishbone Drylining Ltd, company number 07948220 (the November 2023 re-declaration's 07948020 is
+  a typing error), **renamed Fishbone Construction Ltd by special resolution notified to Companies
+  House on 31/10/2024** `(email: Companies House's own acknowledgements; the certificate is not on
+  file)`. Trustees: M Gaudiesius, A Prutkovas, **I Fedonina (joined 05/01/2024, on
   the bank mandate May 2024; her deed of appointment is at the administrator, not on file)** and
   Empowered Trustees Ltd (12291059). Administrator Empowered Pensions (Empowered Pensions Ltd
   04735293; Empowered Administration Ltd 14471886 trading as Empowered Pensions from 2025;
@@ -419,9 +422,12 @@ elsewhere and must be recounted before use.
   (id `1jSFpIOcKb7yANA0hJVtjWb_80rMfvo5c`, 139 files), originally OneDrive `Documents/SSAS`. All
   scheme-level documents in it are now in `Raw/` (36 files); everything left is member-personal
   and stays out by the owner's instruction. Google Drive `Collaboration Space / Other / Staff
-  (SSAS)` (`1Q7C8BIAD9pGfoBa9a-RF-EmGdS7xXqw0`) is an older partial copy. Three loan agreement
+  (SSAS)` (`1Q7C8BIAD9pGfoBa9a-RF-EmGdS7xXqw0`) is an older partial copy. ~~Three loan agreement
   PDFs dated 2019 and 2021 sit loose in `Collaboration Space / Other`; whether they are scheme
-  loans is unknown. The owner's Gmail is the third source (section 1).
+  loans is unknown.~~ Read 2026-09-07: they are loans **from Fishbone Holdings Ltd to Fishbone
+  Properties Ltd** (283,000 at 3.8 percent, 01/05/2019; 20,000 at 6 percent, 15/10/2021), now
+  registered in the Fishbone Holdings Ltd knowledge base as FH0000010 and FH0000011; nothing to do
+  with the scheme. The owner's Gmail is the third source (section 1).
 
 **Open questions, in priority order.**
 1. **Save the remaining Gmail attachments into `Raw/`** per
@@ -430,7 +436,10 @@ elsewhere and must be recounted before use.
    (A6 to A9), the signed Metro Bank transfer form (A10), the two Deeds of Adherence, the 2021-22
    accounts, the 2021 establishment pack, the fee schedule and invoices. Then the `FSS 0001` row
    and `FSS0000001` onwards. Separately, **ask the administrator to confirm in writing that the
-   level-payment schedule governs** despite the agreement's equal-capital wording.
+   level-payment schedule governs** despite the agreement's equal-capital wording. A consolidated
+   letter to Empowered covering this and questions 2 to 8 below sits **unsent in the owner's Gmail
+   drafts** (created 2026-09-07; text in
+   `Outputs/change-log-2026-09-07-outstanding-items-pass.md`); sending it is the owner's decision.
 2. **The 50 percent test at 16/04/2025**: the scheme's actual value then, from the
    administrator's loan file or the bank balance; the quotation arithmetic gives 49.8 percent.
 3. **The third trustee and Fishbone Properties Ltd**: her deed of appointment (at the
@@ -444,16 +453,19 @@ elsewhere and must be recounted before use.
 7. RMT Accountants' figure for the loan (40,147.80) against the trustees' 41,500.
 8. The executed and dated trust deed and rules (at the administrator); the administration
    agreement's terms (a person needs to read the 8.8 MB scan).
-9. Which company number is right (three documents say 07948220), and the Companies House record
-   of the name change to Fishbone Construction Ltd.
-10. Whether the 2019 and 2021 loan agreements in `Collaboration Space / Other` are scheme loans,
-    and whether the trustees know the security's valuation assumed repairs not complete.
+9. ~~Which company number is right (three documents say 07948220), and the Companies House record
+   of the name change to Fishbone Construction Ltd.~~ Answered 2026-09-07 from Companies House's
+   emails (07948220; NM01 notified 31/10/2024); still wanted: the change-of-name certificate, and
+   whether HMRC, TPR and the administrator were told.
+10. ~~Whether the 2019 and 2021 loan agreements in `Collaboration Space / Other` are scheme loans,~~
+    Answered 2026-09-07: Holdings-to-Properties loans, not the scheme's. Still open: whether the
+    trustees know the security's valuation assumed repairs not complete.
 
 ---
 
-*Standing context for the Fishbone SSAS knowledge base. Version 6, 2026-09-07, after the loan
-pack (heads of terms, application, board minute, repayment schedule) was filed; version 5,
-earlier that day, followed the signed loan agreement; version 4 followed the `SSAS` folder extraction and the first Gmail
+*Standing context for the Fishbone SSAS knowledge base. Version 7, 2026-09-07, after the pass
+through the open questions; version 6, earlier that day, followed the loan pack, and version 5 the
+signed loan agreement; version 4 followed the `SSAS` folder extraction and the first Gmail
 search, version 3 the loanback security and governing documents, version 2 the first Raw items,
 and version 1 was created at setup from the Fishbone Commercial Properties Ltd model. See
 `Wiki/Decisions/2026-09-06-kb-structure-and-recount-rule.md`.*

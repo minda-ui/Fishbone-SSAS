@@ -4,7 +4,7 @@ category: Employers
 status: active
 sensitive: false
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - ../../Raw/Trust deed (Fishbone SSAS, copied from Drive Staff (SSAS) legacy folder 2026-09-06).pdf
   - ../../Raw/Board minutes (Fishbone Drylining Ltd resolution to establish the scheme, copied from Drive Staff (SSAS) legacy folder 2026-09-06).pdf
@@ -13,6 +13,8 @@ sources:
   - ../../Raw/Fishbone Drylining Ltd employment and sponsoring-employer letter - A Prutkovas, 2023-05-17 (2023-Andrejus - To whom it may concern.pdf, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).pdf
   - ../../Raw/Photograph of the trust deed page 3 executed by Fishbone Drylining Ltd and signed by both member trustees before a witness, 2021-10-14 (20211014_100915.jpg, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).jpg
   - https://mail.google.com/mail/u/0/#all/1935307698813a83 (Gmail: request for repayment of expenses to Fishbone Drylining Ltd, 22/11/2024)
+  - https://mail.google.com/mail/u/0/#all/192e28038f35ee25 (Gmail: Companies House, NM01 notice of change of name received for Fishbone Drylining Ltd 07948220, 31/10/2024)
+  - https://mail.google.com/mail/u/0/#all/1a024bf301802395 (Gmail: Companies House, confirmation statement accepted for Fishbone Construction Ltd 07948220, 21/08/2026)
 related:
   - ../Processes/scheme-establishment-2021.md
   - ../People/m-gaudiesius.md
@@ -56,9 +58,19 @@ company number as 07948220; only the TPR re-declaration summary of November 2023
 **The re-declaration is the odd one out and most likely carries the typing error.** The Fishbone Holdings
 Ltd asset register (Smartsheet, workspace `6810956824110979`, row FH 0001) records "Fishbone
 Construction Ltd (formerly Fishbone Drylining Limited)" with company number 07948220, which
-supports the deed `(unverified here: cross-knowledge-base figure, not recounted from Companies
+supports the deed ~~`(unverified here: cross-knowledge-base figure, not recounted from Companies
 House)`. The current name, Fishbone Construction Ltd, likewise comes from the sister knowledge
-bases and not from any document in this one.
+bases and not from any document in this one.~~ **Settled 2026-09-07 from Companies House's own
+emails to the owner:** every WebFiling and eReminder message from July 2021 to October 2024 is
+addressed to "FISHBONE DRYLINING LTD. (07948220)"; on 31/10/2024 Companies House acknowledged an
+**NM01 notice of change of name by resolution with an RES15 special resolution** for that company
+(submission 102-664802) [^g2]; and from March 2026 the same number is addressed as "FISHBONE
+CONSTRUCTION LTD. (07948220)", with a confirmation statement accepted on 21/08/2026 [^g3]. So
+07948220 is the company number, the re-declaration's 07948020 is a typing error, and the name
+changed by special resolution notified on 31/10/2024 `(email; the acceptance email and the
+certificate of incorporation on change of name are not in the mailbox, so the effective date is
+not evidenced)`. The same emails show the company's accounting year runs from 30 April to 29
+April [^g3]. The Companies House website itself cannot be reached by the tooling.
 
 The TPR re-declaration lists two pension schemes used by the employer for automatic enrolment:
 Aviva (EPSR TK074521) and Fishbone SSAS (EPSR 12018880) [^3] p.3. See
@@ -83,10 +95,14 @@ a "2 Day SSAS and Business Strategy Workshop", under the trustee-expenses declar
 
 ## Open questions
 
-- Confirm the company number from Companies House; three documents now say 07948220 against one
-  saying 07948020.
-- Confirm the change of name from Fishbone Drylining Ltd to Fishbone Construction Ltd from a
-  Companies House certificate.
+- ~~Confirm the company number from Companies House; three documents now say 07948220 against one
+  saying 07948020.~~ Answered 2026-09-07: 07948220, per Companies House's emails [^g2] [^g3].
+- ~~Confirm the change of name from Fishbone Drylining Ltd to Fishbone Construction Ltd from a
+  Companies House certificate.~~ Evidenced 2026-09-07 by the NM01 acknowledgement of 31/10/2024
+  [^g2]; the certificate of incorporation on change of name, with the effective date, would
+  complete it.
+- Whether HMRC, The Pensions Regulator and the scheme administrator were told of the change of
+  name, so that the scheme's records name the principal employer correctly.
 - Is Fishbone Properties Ltd a participating employer, and is there a deed of participation under
   rule 12.1? If not, on what basis is its employee a member?
 - What the principal employer has actually contributed to the SSAS, and from which account.
@@ -99,6 +115,7 @@ a "2 Day SSAS and Business Strategy Workshop", under the trustee-expenses declar
 | 2026-09-06 | TPR scheme registration figures; company number now three to one; participating employer question sharpened; payroll label | `Outputs/change-log-2026-09-06-loan-security-and-governing-documents.md` |
 | 2026-09-06 | Deed execution photograph, sponsoring-employer letter; Fishbone Properties Ltd split into its own article | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
 | 2026-09-06 | Expense reimbursement request of November 2024 found in Gmail | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
+| 2026-09-07 | Company number and change of name settled from Companies House's emails; new question on notifying HMRC, TPR and the administrator | `Outputs/change-log-2026-09-07-outstanding-items-pass.md` |
 
 ## Sources
 
@@ -109,3 +126,5 @@ a "2 Day SSAS and Business Strategy Workshop", under the trustee-expenses declar
 [^5]: [Photograph of the trust deed execution page, 14/10/2021](<../../Raw/Photograph of the trust deed page 3 executed by Fishbone Drylining Ltd and signed by both member trustees before a witness, 2021-10-14 (20211014_100915.jpg, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).jpg>)
 [^6]: [Fishbone Drylining Ltd employment and sponsoring-employer letter, 17/05/2023](<../../Raw/Fishbone Drylining Ltd employment and sponsoring-employer letter - A Prutkovas, 2023-05-17 (2023-Andrejus - To whom it may concern.pdf, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).pdf>)
 [^g1]: [Gmail: "Request for repayment of expenses in relation to Fishbone SSAS", 22/11/2024](https://mail.google.com/mail/u/0/#all/1935307698813a83) `(email)`
+[^g2]: [Gmail: "(NM01) Notice of change of name by resolution received for FISHBONE DRYLINING LTD.", Companies House WebFiling, 31/10/2024](https://mail.google.com/mail/u/0/#all/192e28038f35ee25) `(email)`
+[^g3]: [Gmail: "Confirmation statement accepted for FISHBONE CONSTRUCTION LTD." (07948220), Companies House WebFiling, 21/08/2026; and the accounts reminders of 20/03/2026 and 15/04/2026 for the year 30/04/2024 to 29/04/2025](https://mail.google.com/mail/u/0/#all/1a024bf301802395) `(email)`
