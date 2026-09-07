@@ -1,11 +1,13 @@
 # Fishbone SSAS - Knowledge Base
 
-> **Status: AUTHORITATIVE. Version 8, 2026-09-07**, superseding version 7 of the same day (in
-> `Archive/`) after the Land Registry official copies for TY59507 and the administrator's scheme
-> valuation as at 5 April 2025 were filed and read: the loanback's 50 percent test is now verified
-> at 49.58 percent, the 1,791.00 reimbursement to the principal employer is confirmed paid, and the
-> mortgage's charges register carries a further-advances obligation not yet traced to the deed's
-> unread clauses. Version 7 followed a pass through the open questions: the principal employer's
+> **Status: AUTHORITATIVE. Version 9, 2026-09-07**, superseding version 8 of the same day (in
+> `Archive/`) after Companies House's Form MR01, registration certificate and full certified copy
+> of the mortgage deed were filed and read: checklist item A6 is closed, and the charges register's
+> further-advances entry is resolved as the deed's own standard clause 4.2, not a revolving
+> facility. Version 8 followed the Land Registry official copies for TY59507 and the
+> administrator's scheme valuation as at 5 April 2025: the loanback's 50 percent test verified at
+> 49.58 percent and the 1,791.00 reimbursement to the principal employer confirmed paid. Version 7
+> followed a pass through the open questions: the principal employer's
 > company number and change of name settled from Companies House's emails, the 2019 and 2021 loan
 > agreements identified as Holdings-to-Properties loans, and a consolidated letter to the
 > administrator drafted. Version 6 followed the heads of terms, loan application, board minute and
@@ -347,7 +349,7 @@ articles and the dated change-log entries.
 
 ---
 
-## 7. Scheme snapshot and open questions (as of 2026-09-07, after the Land Registry and valuation filing)
+## 7. Scheme snapshot and open questions (as of 2026-09-07, after the Companies House MR01 filing)
 
 The Wiki is the authoritative record; start at `Wiki/index.md`. This section is a one-screen
 orientation, refreshed when a Raw item changes the picture. Lines marked **verified** are cited in
@@ -393,11 +395,12 @@ elsewhere and must be recounted before use.
   31,495.87 after the 28/08/2026 payment; that is what the borrower pays. **The agreement's
   clause 7 describes equal capital instalments instead**, so the contract wording and the
   schedule differ; the trustees should have the administrator confirm which governs. **Charge
-  registered at Companies House (certificate emailed 08/05/2025, still not on file) and at the
-  Land Registry (charge dated 29/04/2025, entered 18/07/2025; the official copy, title plan and
-  completion sheet are on file since 2026-09-07)**, verified. The register also notes the chargees
-  are under an obligation to make further advances (s.49(3) Land Registration Act 2002), not yet
-  traced to the mortgage deed's unread clauses 6.11-29. A repayment schedule was sent to RMT
+  registered at Companies House (Form MR01, certificate given 08/05/2025) and at the
+  Land Registry (charge dated 29/04/2025, entered 18/07/2025)**, all on file and verified since
+  2026-09-07, including a full certified copy of the mortgage deed via the Companies House
+  filing. The register's note that the chargees are under an obligation to make further advances
+  (s.49(3) Land Registration Act 2002) is the deed's own clause 4.2, a standard covenant tied to
+  the Maximum Amount, not a revolving facility. A repayment schedule was sent to RMT
   Accountants 17/12/2025 `(email)`. **The 50 percent test is verified at 49.58 percent**: the
   administrator's own scheme valuation puts the net assets at 83,701.24 on 5 April 2025, eleven
   days before the agreement, and no bank movement is evidenced between then and Drawdown. The
@@ -443,14 +446,15 @@ elsewhere and must be recounted before use.
 
 **Open questions, in priority order.**
 1. **Save the remaining Gmail attachments into `Raw/`** per
-   `Outputs/attachments-to-download-from-gmail.md`: items A1 to A5 arrived 2026-09-07 (the loan
-   pack) and ~~A7 to A9~~ (the Land Registry official copies) arrived the same day. Next: **the
-   Companies House certificate (A6)**, the signed Metro Bank transfer form (A10), the two Deeds of
-   Adherence, the 2021-22 accounts, the 2021 establishment pack, the fee schedule and invoices.
-   Then the `FSS 0001` row and `FSS0000001` onwards. Separately, **ask the administrator to
-   confirm in writing that the level-payment schedule governs** despite the agreement's
-   equal-capital wording, and **what the Land Registry's "obligation to make further advances"
-   refers to**. A consolidated letter to Empowered covering the level-payment question and
+   `Outputs/attachments-to-download-from-gmail.md`: items A1 to A9 all arrived 2026-09-07 (the
+   loan pack, the Land Registry official copies, and the Companies House Form MR01 with
+   certificate and full certified deed). Next: **the signed Metro Bank transfer form (A10)**, the
+   two Deeds of Adherence, the 2021-22 accounts, the 2021 establishment pack, the fee schedule and
+   invoices. Then the `FSS 0001` row and `FSS0000001` onwards. Separately, **ask the administrator
+   to confirm in writing that the level-payment schedule governs** despite the agreement's
+   equal-capital wording. (The Land Registry's "obligation to make further advances" no longer
+   needs asking about: it is the deed's own clause 4.2, read 2026-09-07.) A consolidated letter to
+   Empowered covering the level-payment question and
    questions 2 to 8 below sits **unsent in the owner's Gmail drafts** (created 2026-09-07; text in
    `Outputs/change-log-2026-09-07-outstanding-items-pass.md`); sending it is the owner's decision.
 2. ~~**The 50 percent test at 16/04/2025**~~ Answered 2026-09-07: the administrator's own scheme
@@ -483,9 +487,10 @@ elsewhere and must be recounted before use.
 
 ---
 
-*Standing context for the Fishbone SSAS knowledge base. Version 8, 2026-09-07, after the Land
-Registry official copies and the administrator's scheme valuation as at 5 April 2025 were filed;
-version 7, earlier that day, followed the pass through the open questions; version 6 followed the
+*Standing context for the Fishbone SSAS knowledge base. Version 9, 2026-09-07, after Companies
+House's Form MR01, certificate and full certified mortgage deed were filed; version 8, earlier
+that day, followed the Land Registry official copies and the administrator's scheme valuation as
+at 5 April 2025; version 7 followed the pass through the open questions; version 6 followed the
 loan pack, and version 5 the signed loan agreement; version 4 followed the `SSAS` folder
 extraction and the first Gmail search, version 3 the loanback security and governing documents,
 version 2 the first Raw items, and version 1 was created at setup from the Fishbone Commercial

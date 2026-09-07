@@ -19,6 +19,7 @@ sources:
   - ../../Raw/Registration Completion Sheet - EDOC REGISTRATION - TY59507.pdf
   - ../../Raw/2025-04-05 Fishbone SSAS Scheme Valuation Prepared.pdf
   - ../../Raw/2025-04-05 Fishbone SSAS Portfolio Valuation.pdf
+  - ../../Raw/13687238_mr01_2025-05-08.pdf
   - https://mail.google.com/mail/u/0/#all/1963deba41414b6b (Gmail: Signable confirmation, loan agreement signed, 16/04/2025)
   - https://mail.google.com/mail/u/0/#all/195ed15bd4149079 (Gmail: Empowered Lending, rate and default rate requested, 31/03 to 01/04/2025)
   - https://mail.google.com/mail/u/0/#all/19614f0e4ba798b9 (Gmail: Dollman & Pritchard instructed, 07/04 to 16/04/2025)
@@ -54,7 +55,8 @@ final payment date and the property valuation relied on are all now verified fro
 **From 2026-09-07 the Land Registry official copy, title plan and registration completion sheet
 for TY59507 are also on file** [^17] [^18] [^19], as is the administrator's own scheme valuation
 as at 5 April 2025 [^20] [^21], which verifies the scheme's net asset value for the 50 percent
-test below. The Companies House registration certificate is still only an email attachment; see
+test below. **The Companies House Form MR01, registration certificate and a full certified copy
+of the mortgage deed arrived the same day** [^23], closing the last item on the loanback part of
 `Outputs/attachments-to-download-from-gmail.md`.
 
 Asset Register id: none yet. When issued it will be `FSS 0001` with `Asset class` "Loanback
@@ -100,12 +102,12 @@ receivable", `Loan type` "SSAS loanback", `Counterparty` Fishbone Commercial Pro
 | How the rate was set | the owner asked on 01/04/2025 to "amend the loan interest rate to 5.5% and set the default rate to 8.25%", with capital repaid monthly; heads of terms signed through Signable 07/04/2025; the agreement carries exactly those rates | [^5] `(email; the signed heads of terms are an attachment, not on file)`, [^12] |
 | Loan agreement signed | Signable "Document signed confirmation" of 16/04/2025; the attached signed agreement was saved into `Raw/` on 2026-09-07 | [^6] `(email)`, [^12] |
 | Borrower's status with the scheme | Empowered Pensions sent a Deed of Adherence for Fishbone Commercial Properties Ltd on 09/04/2025 (fee 250 plus VAT, wet signature) and on 14/04/2025 said the company was already an adhered company | [^7] `(email; deed not on file)` |
-| Charge registered at Companies House | Dollman & Pritchard emailed the registration certificate on 08/05/2025 | [^8] `(email; certificate not on file)` |
+| Charge registered at Companies House (verified) | Form MR01, charge code 1368 7238 0001, date of creation 29/04/2025, received for filing 02/05/2025, certified by the Registrar 08/05/2025; persons entitled the four trustees; brief description "145 High Street East ... (part of title number TY59507)"; "Contains fixed charge(s)" and "Contains negative pledge" | [^23] pp.1-2 |
 | Restriction registered at HM Land Registry | "REGISTRATION COMPLETED" from Dollman & Pritchard 26/01/2026 with the Official Copy of the Register, Title Plan and Completion Sheet for TY59507 attached; a 25.00 balance was returned to the borrower 30/01/2026 | [^9] `(email; official copies not on file)` |
 | Repayment schedule | `Fishbone Loanback Repayment Schedule.pdf` attached to the group bookkeeper's email to RMT Accountants of 17/12/2025; RMT had understood the loan to be 40,147.80 (the net advance), which the trustees' own figure of 41,500 contradicts | [^10] `(email; schedule not on file)` |
 | Title TY59507 (freehold) | Fishbone Commercial Properties Ltd (13687238) has been registered proprietor since 30/05/2023, price paid 22/05/2023 was 140,000.00; the title covers 145 High Street East **and 2 and 2A Ferndale Avenue, Wallsend**, of which only 145 High Street East is charged to the scheme (confirmed by the owner 08/04/2025, [^11]); a 125-year lease from 25/09/1996 over part of 2 Ferndale Avenue is noted against the title (title TY324602) and an 1905 conveyance carries building-scheme restrictive covenants, both pre-dating the scheme and unconnected to it | [^17] pp.1-2 |
 | Charge registered at HM Land Registry (verified) | Entered 18/07/2025 against a charge dated 29 April 2025; proprietors Mindaugas Gaudiesius, Irina Fedonina, Andrejus Prutkovas and Empowered Trustees Ltd (12291059) "as trustees of The Fishbone SSAS" (home addresses on the register, not repeated here); a Form P-style restriction on disposals without the chargees' written consent was entered the same day. Solicitors' matter ref RCS/TY59507; completion confirmed to Dollman & Pritchard 24/01/2026 | [^17] pp.1-2, [^19] |
-| Further-advances entry on the register | The register records that "the proprietor of the Charge dated 29 April 2025 ... is under an obligation to make further advances", with priority under s.49(3) Land Registration Act 2002 | [^17] p.2 |
+| Further-advances entry on the register (resolved) | The register's note tracks clause 4.2 of the mortgage deed itself: "The Lender covenants with the Borrower that it shall perform its obligations to make advances to the Borrower under the Secured Documents (including any obligation to make available further advances). At no time shall any borrowing from the Lender to the Borrower exceed the Maximum Amount." Standard priority-preservation wording (s.49(3) Land Registration Act 2002); it does not evidence a revolving facility, and the loan agreement on file is a single drawdown | [^17] p.2, [^23] cl. 4.2 |
 | Scheme's net asset value at 5 April 2025 (verified) | **83,701.24**, entirely a Metro Bank deposit balance; the loan (advanced 29/04/2025) shows at nil cost and nil value because it had not yet been drawn at the valuation date | [^20] p.4, [^21] |
 | Scheme's income and expenditure, year to 5 April 2025 | Contributions 245.00 (all Irina Fedonina's employer contributions); bank interest 846; fees 1,660; other expenditure 1,791 (see [Fishbone Construction Ltd](../Employers/fishbone-construction-ltd.md)); net movement a decrease of 2,360; opening net assets 86,062, closing 83,701 | [^22] pp.2-3 |
 
@@ -160,8 +162,9 @@ completion statement [^2] [^3]. The borrower therefore received 40,147.80 net bu
 solicitors emailed the Companies House registration certificate on 08/05/2025 [^8], within the
 21-day window from 29/04/2025, and on 26/01/2026 reported the Land Registry registration completed,
 attaching the official copy, title plan and completion sheet for TY59507 [^9]. **The three Land
-Registry documents themselves were saved into `Raw/` on 2026-09-07** [^17] [^18] [^19]; the
-Companies House certificate is still evidenced by correspondence only `(email)`. The register
+Registry documents were saved into `Raw/` on 2026-09-07** [^17] [^18] [^19], and **the Companies
+House filing itself (Form MR01, the certificate, and Companies House's own certified copy of the
+full mortgage deed) arrived in `Raw/` later the same day** [^23]. The register
 shows the charge dated 29 April 2025 entered on 18/07/2025 in favour of the four trustees, with a
 restriction on further disposals without their written consent, and records the solicitors'
 official copy as issued 24/01/2026 [^17] p.2, [^19] — two days ahead of the email that reported it
@@ -172,18 +175,30 @@ and the register's restriction charge that part only, tinted pink on the title p
 [^1] Sch. 1, [^11], [^17] p.1, [^18]. The freehold has been Fishbone Commercial Properties Ltd's
 since 30/05/2023 (price 140,000.00); the title also carries a 2018-vintage title plan revision,
 an 1905 building-scheme covenant and a 125-year lease of part of 2 Ferndale Avenue from 1996, none
-of which affect the scheme's security over 145 High Street East [^17]. **The register also records
-that the chargees are "under an obligation to make further advances"** (s.49(3) Land Registration
-Act 2002) [^17] p.2, a term not identified in the parts of the mortgage deed read so far (clauses
-6.11-29 were not summarised, section below); this is a new open question.
+of which affect the scheme's security over 145 High Street East [^17]. ~~The register also records
+that the chargees are "under an obligation to make further advances" (s.49(3) Land Registration
+Act 2002), a term not identified in the parts of the mortgage deed read so far.~~ **Resolved
+2026-09-07**: it is clause 4.2 of the deed, "Further advances" — a standard covenant that any
+advances the Lender does make stay within the Maximum Amount, not evidence of a revolving facility
+[^23] cl. 4.2.
 
-**The deed.** The trustees are the Lender. The Secured Liabilities are everything owed under the
-Loan Agreement and any other loan agreement between the same parties [^1] p.6. Events of default
-include non-payment, breach, insolvency and a value-of-assets test [^1] pp.4-5. The Lender's
-maximum exposure is tied to the scheme's own value, not to a fixed sum [^1] p.6. Clauses 6.11 to
-29 (representations, general and property covenants, powers of the Lender, enforcement,
-receivers, costs, release, notices; PDF pages 14 to 39) were not summarised in this session. The
-plan referred to in Schedule 1 is not part of the scanned copy.
+**The deed, in full from 2026-09-07.** The Companies House filing includes a clean, certified copy
+of the whole 44-page deed, not only the scanned pages read on 2026-09-06 [^23]. The trustees are
+the Lender. The Secured Liabilities are everything owed under the Loan Agreement and any other
+loan agreement between the same parties [^1] p.6. Events of default include non-payment, breach,
+insolvency and a value-of-assets test [^1] pp.4-5. The Lender's maximum exposure is tied to the
+scheme's own value, not to a fixed sum [^1] p.6. Clauses 5 to 12 are standard lender-protection
+terms read this session: no discharge of the Borrower's liability by the Lender's own dealings
+(cl. 5), the Borrower's representations and warranties, repeated throughout the Security Period
+(cl. 6), general covenants including a negative pledge and preservation of the Charged Assets
+(cl. 7), property covenants on repair, alterations, development, insurance and leasing (cl. 8),
+and the security becoming enforceable, and enforceable by receiver, on any Event of Default
+(cl. 10-12), all unremarkable for this kind of facility. **Clauses 13 to 29** (powers of a
+receiver, delegation, application of proceeds, costs and indemnity, further assurance, power of
+attorney, release, assignment, set-off, amendments, boilerplate, notices, governing law) were
+still not read this session. Schedule 1 ("Property") is the title plan itself, now on file [^23]
+p.48, matching the Land Registry's own copy [^18] — the plan referred to in Schedule 1, missing
+from the 2026-09-06 scan, is no longer missing.
 
 **Both sides of the table.** The two directors who signed for the borrower are two of the four
 trustees who signed for the lender, on the agreement [^12] p.14 as on the deed [^1] pp.40, 42,
@@ -230,8 +245,9 @@ Ltd; the trustees' side has a board minute and indemnity letter among the Signab
 - ~~Evidence that the charge was registered at Companies House against company 13687238 (form
   MR01, within 21 days of 29/04/2025) and that the Form P restriction was entered on title TY59507.~~
   Both evidenced by the solicitors' emails of 08/05/2025 and 26/01/2026 [^8] [^9]; the Land
-  Registry official copy, title plan and completion sheet were filed 2026-09-07 [^17] [^18] [^19].
-  The Companies House certificate is still an email attachment only.
+  Registry official copy, title plan and completion sheet were filed 2026-09-07 [^17] [^18] [^19],
+  and the Companies House Form MR01, certificate and full certified deed followed the same day
+  [^23]. Checklist item A6 is now closed.
 - ~~**The 50 percent test at April 2025 looks tight**~~ Answered 2026-09-07 from the
   administrator's own valuation: the scheme's net assets were 83,701.24 on 5 April 2025, so the
   loan is 49.58 percent, verified and under the limit but not by much [^20] [^21].
@@ -239,9 +255,14 @@ Ltd; the trustees' side has a board minute and indemnity letter among the Signab
 - The valuation of 145 High Street East relied on for the loan (145,000.00 per the heads of
   terms [^13]; the report is in the FCP knowledge base), and whether the repairs it assumed are
   complete.
-- **The register's "obligation to make further advances"** (s.49(3) Land Registration Act 2002)
-  [^17] p.2: what it refers to, since the loan agreement on file describes a single drawdown with
-  nothing redrawable [^12] cl. 7.9, not a revolving or further-advance facility.
+- ~~**The register's "obligation to make further advances"**~~ Resolved 2026-09-07: it is clause
+  4.2 of the mortgage deed, a standard covenant capping any advances at the Maximum Amount, read
+  from the Companies House filing [^23]; not evidence of a revolving facility.
+- **Clauses 13 to 29 of the mortgage deed** (powers of a receiver, delegation, application of
+  proceeds, costs and indemnity, further assurance, power of attorney, release, assignment,
+  set-off, amendments, boilerplate, notices, governing law) were not read even from the full
+  certified copy filed 2026-09-07 [^23]; clauses 5 to 12 were read and are unremarkable
+  lender-protection terms.
 - The repayment record from the scheme's Metro Bank statements: none is on file as a bank
   document, though the administrator's own transaction list for the year to 05/04/2025 [^20] p.6
   covers everything up to the loan's drawdown; the year of the loan itself (to 05/04/2026) is
@@ -259,6 +280,7 @@ Ltd; the trustees' side has a board minute and indemnity letter among the Signab
 | 2026-09-07 | Signed loan agreement LA01801 filed and read: parties, 5.50 percent flat, 8.25 percent default, five years from Drawdown, equal capital instalments, fees, covenants, events of default, signatures; HMRC table and Loans-wiki comparison rewritten; repayment-basis question opened | `Outputs/change-log-2026-09-07-loan-agreement-filed.md` |
 | 2026-09-07 | Heads of terms, loan application, board minute and indemnity letter, and repayment schedule filed and read: valuation 145,000, level annuity 790.13 to 28/04/2030 confirmed as what is run, Loans-wiki figures traced to the schedule, HMRC security-value and equal-instalments rows updated, clause 7 discrepancy and three smaller questions opened | `Outputs/change-log-2026-09-07-loan-pack-filed.md` |
 | 2026-09-07 | Land Registry official copy, title plan and completion sheet filed and read: charge registration dated and detailed, further-advances entry flagged; administrator's scheme valuation as at 5/4/2025 filed, 50 percent test answered as verified (49.58 percent) | `Outputs/change-log-2026-09-07-land-registry-and-scheme-valuation.md` |
+| 2026-09-07 | Companies House Form MR01, certificate and the full certified mortgage deed filed (checklist A6 closed): further-advances question resolved (deed clause 4.2), clauses 5-12 read and found unremarkable, Schedule 1 plan confirmed on file | `Outputs/change-log-2026-09-07-companies-house-mr01-filed.md` |
 
 ## Sources
 
@@ -284,3 +306,4 @@ Ltd; the trustees' side has a board minute and indemnity letter among the Signab
 [^20]: [Scheme Valuation prepared as at 5th April 2025 for the trustees of the Fishbone SSAS, Empowered Pensions, scheme ref K0555, 9 pages, read as page images](<../../Raw/2025-04-05 Fishbone SSAS Scheme Valuation Prepared.pdf>) - contents p.2; client information p.3; portfolio valuation p.4; revaluation movement p.5; Metro Bank transaction list p.6; member information pp.7-9 (member-personal detail not repeated)
 [^21]: [Portfolio Valuation for Fishbone SSAS at 05/04/2025, Empowered Pensions, 1 page](<../../Raw/2025-04-05 Fishbone SSAS Portfolio Valuation.pdf>) - a standalone copy of [^20] p.4
 [^22]: [Fishbone SSAS Statement of Account for the year ended 05/04/2025, Empowered Pensions, 3 pages: Statement of Income and Expenditure, Balance Sheet at 05/04/2025](<../../Raw/2025-04-05 Fishbone SSAS Statement of Account.pdf>)
+[^23]: [Companies House Form MR01, Registration of a Charge, company 13687238, received for filing 02/05/2025, with the Certificate of the Registration of a Charge (given 08/05/2025) and Companies House's own certified copy of the full Legal Mortgage dated 29 April 2025, 48 PDF pages, read as page images](<../../Raw/13687238_mr01_2025-05-08.pdf>) - MR01 form PDF p.1; certificate PDF p.2; deed title page PDF p.3; deed contents PDF pp.4-5; deed clauses 2 to 13 PDF pp.12-29 (the deed's own page numbers run 3 behind the PDF's); execution PDF pp.43-47; Schedule 1 (title plan) PDF p.48
