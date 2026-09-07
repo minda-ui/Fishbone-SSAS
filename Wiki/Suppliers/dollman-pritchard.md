@@ -4,11 +4,12 @@ category: Suppliers
 status: active
 sensitive: false
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - ../../Raw/Receipted Invoice.pdf
   - ../../Raw/Completion Statement.pdf
   - ../../Raw/Legal Mortgage 29 April 2025.pdf
+  - ../../Raw/FishboneSSAS_Loanback(£41.5k)_LA01801_2025-04-xx.pdf
 related:
   - ../Assets/loanback-fishbone-commercial-properties.md
   - ../Suppliers/empowered-pensions.md
@@ -38,11 +39,13 @@ statement lists their legal-charge fee, a bank transfer fee, a company search, i
 for three names, office copy entries, winding-up, OS1 and land charges searches, a Companies House
 filing fee and a Land Registration fee [^2]. The invoice and the completion statement reconcile:
 the 108.00 difference is the third identity check and the registration and search fees that
-appear only on the statement. Which party bore the cost in substance is a question for the loan
-agreement, which is not on file; on the face of the statement the borrower received the net sum.
+appear only on the statement. ~~Which party bore the cost in substance is a question for the loan
+agreement, which is not on file.~~ The loan agreement, filed 2026-09-07, puts legal fees for the
+security on the borrower (clause 8.2), which matches the statement: the borrower received the
+net sum and owes the gross [^4].
 
-The firm is the obvious holder of the loan agreement dated 16 April 2025 and of any evidence that
-the charge was registered. See
+The firm was copied in when the loan agreement completed on Signable on 16/04/2025 [^4] p.15 and
+emailed the registration evidence in May 2025 and January 2026 (see the loanback article). See
 [Loanback to Fishbone Commercial Properties Ltd](../Assets/loanback-fishbone-commercial-properties.md).
 
 ## Open questions
@@ -50,16 +53,19 @@ the charge was registered. See
 - Who instructed the firm, and whether Empowered Pensions Ltd's "Empowered Pensions loan
   Typeform" process was used (the administrator's fee schedule says it provides the appointed
   solicitor with the signed loan documents).
-- Whether the firm holds the loan agreement and the registration confirmations.
+- ~~Whether the firm holds the loan agreement and the registration confirmations.~~ Answered
+  2026-09-07: the agreement is on file, and the confirmations are in Gmail awaiting filing.
 
 ## Changes
 
 | Date | Change | Change-log ref |
 |---|---|---|
 | 2026-09-06 | Created from the three Raw items in the front matter | `Outputs/change-log-2026-09-06-loan-security-and-governing-documents.md` |
+| 2026-09-07 | Fee allocation and holder of the agreement settled from the filed loan agreement | `Outputs/change-log-2026-09-07-loan-agreement-filed.md` |
 
 ## Sources
 
 [^1]: [Receipted invoice no. 33194, 16/04/2025](<../../Raw/Receipted Invoice.pdf>)
 [^2]: [Completion Statement, ref AJA/FIS53.1](<../../Raw/Completion Statement.pdf>)
 [^3]: [Legal Mortgage dated 29 April 2025](<../../Raw/Legal Mortgage 29 April 2025.pdf>) cover
+[^4]: [Loan Agreement LA01801, 16 Apr 2025](<../../Raw/FishboneSSAS_Loanback(£41.5k)_LA01801_2025-04-xx.pdf>) p.7 cl. 8, p.15

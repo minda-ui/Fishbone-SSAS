@@ -1,8 +1,9 @@
 # Fishbone SSAS - Knowledge Base
 
-> **Status: AUTHORITATIVE. Version 4, 2026-09-06**, superseding version 3 of the same day (in `Archive/`)
-> after 23 more scheme documents were extracted from the owner's `SSAS` folder and the owner's
-> Gmail was searched for the first time. Version 3 followed the loanback security documents;
+> **Status: AUTHORITATIVE. Version 5, 2026-09-07**, superseding version 4 of 2026-09-06 (in `Archive/`)
+> after the signed loan agreement was saved from Gmail into `Raw/` and read. Version 4 followed
+> the extraction of 23 more scheme documents from the owner's `SSAS` folder and the first search
+> of the owner's Gmail. Version 3 followed the loanback security documents;
 > version 2 followed the first six Raw items; version 1 was built at setup, before any
 > source material was filed, by copying the structure of the `Fishbone Commercial Properties Ltd - Knowledge Base`
 > (the group's most mature example, its `CLAUDE.md` version 2 of 2026-09-03 as corrected to
@@ -38,10 +39,13 @@ from. If it cannot be recounted, say so and mark it `(unverified)`. The rule and
 behind it are in `Wiki/Decisions/2026-09-06-kb-structure-and-recount-rule.md`.
 
 **Gmail holds documents the Wiki lists as missing.** The owner's mailbox was searched on
-2026-09-06 (Session 4 entry): the signed loan agreement, the repayment schedule, the Companies
-House and Land Registry registration documents, two Deeds of Adherence and the 2021-22 accounts
-exist there as attachments. The Gmail connector reads bodies but **cannot download attachments**,
-so until a person saves them into `Raw/` they are cited as `(email)` and remain "not on file".
+2026-09-06 (Session 4 entry): the repayment schedule, the Companies House and Land Registry
+registration documents, two Deeds of Adherence and the 2021-22 accounts exist there as
+attachments (the signed loan agreement did too, and was saved on 2026-09-07). The Gmail connector
+reads bodies but **cannot download attachments**, so until a person saves them into `Raw/` they
+are cited as `(email)` and remain "not on file". The working list, with filenames and thread
+links, is `Outputs/attachments-to-download-from-gmail.md`; it is ticked and replaced as items
+arrive.
 Do not treat an email citation as equal to a filed document, and never send, reply to or forward
 mail (section 6a).
 
@@ -256,7 +260,7 @@ name, schedule and connectors, and remove the "proposed" marker.
 
 | Proposed routine | Cadence | Would do | Prerequisite |
 |---|---|---|---|
-| Loanback monitor | Monthly | Confirm the borrower's monthly payment arrived in the scheme's bank account on time, recompute the balance against the agreement's schedule, flag any late or missing payment, flag the approach of the final payment date, and flag if the security's valuation basis has lapsed. Read-only. | The loan agreement of 16/04/2025 and Metro Bank statements in `Raw/`. The security deed is on file (2026-09-06); the agreement and the statements are not. |
+| Loanback monitor | Monthly | Confirm the borrower's monthly payment arrived in the scheme's bank account on time, recompute the balance against the agreement's schedule, flag any late or missing payment, flag the approach of the final payment date, and flag if the security's valuation basis has lapsed. Read-only. | The loan agreement of 16/04/2025 and Metro Bank statements in `Raw/`. The security deed (2026-09-06) and the agreement (2026-09-07) are on file; the statements and the repayment schedule are not. |
 | Compliance calendar | Monthly | From the Wiki: scheme year end, HMRC Pension Scheme Return and Event Report deadlines, trustee meeting cadence, any registration or declaration renewals. Rewrites `Outputs/risk-register.md`. Read-only. | Trust deed, HMRC registration and the administrator's timetable in `Raw/`. |
 | Weekly Smartsheet sync | Weekly | Section 3a resync of the asset register into the Wiki. | ~~A `Wiki/Assets/` article exists.~~ Met 2026-09-06 (`Wiki/Assets/loanback-fishbone-commercial-properties.md`). Still needs an `FSS 0001` row to sync against, and the routine has not been created. |
 | Document register and tasks append | On demand | Let automation *append* rows and comments to the Document Register and Tasks, never edit or delete a row, never set a status. | An explicit owner decision on the section 6a append exception. Not decided. |
@@ -335,7 +339,7 @@ articles and the dated change-log entries.
 
 ---
 
-## 7. Scheme snapshot and open questions (as of 2026-09-06, after Session 4)
+## 7. Scheme snapshot and open questions (as of 2026-09-07, after the loan agreement was filed)
 
 The Wiki is the authoritative record; start at `Wiki/index.md`. This section is a one-screen
 orientation, refreshed when a Raw item changes the picture. Lines marked **verified** are cited in
@@ -362,16 +366,20 @@ elsewhere and must be recounted before use.
   `Processes/scheme-rules`, `Finance/hmrc-registration`, `Finance/tpr-scheme-registration-2022`,
   `Finance/scheme-accounts-and-returns` (draft), `Employers/*`, `People/*`,
   `Suppliers/empowered-pensions`.
-- **Known asset: loanback to Fishbone Commercial Properties Ltd (verified in part).** 41,500 lent
-  under a loan agreement dated 16/04/2025 (**signed through Signable that day; the copy is a Gmail
-  attachment, not in `Raw/`**), secured by a first legal mortgage dated 29/04/2025 over 145 High
+- **Known asset: loanback to Fishbone Commercial Properties Ltd (verified in the main).** 41,500
+  lent under **loan agreement LA01801 made 16/04/2025, on file since 2026-09-07**: 5.50 percent
+  flat (no base-rate link), 8.25 percent default rate, repayable within five years of drawdown by
+  equal capital instalments with interest monthly in arrears, early repayment without penalty,
+  set-up and transaction fees of 395.00 and the legal costs borne by the borrower, ten events of
+  default including a change of control, signed through Signable by all four trustees and by the
+  borrower's two directors. Secured by a first legal mortgage dated 29/04/2025 over 145 High
   Street East, Wallsend NE28 7RL (part of title TY59507), executed by all four trustees and by the
   borrower (13687238) acting by M Gaudiesius and A Prutkovas; the deed caps borrowing at 50
   percent of the scheme's value. Completion costs 1,352.20, net advance 40,147.80, solicitors
-  Dollman & Pritchard (ref AJA/FIS53.1). Terms: 5.5 percent and an 8.25 percent default rate
-  requested by the owner 01/04/2025 with monthly capital repayments `(email)`; the Loans wiki's
-  60 months, 790.13 a month, final payment 28/04/2030, balance 31,495.87 at 21/08/2026
-  `(unverified)`. **Charge registered at Companies House (certificate emailed 08/05/2025) and the
+  Dollman & Pritchard (ref AJA/FIS53.1). Drawdown on or about 24/04/2025 `(email)`, so the term
+  ends about 24/04/2030. **The Loans wiki's 790.13 a month is a level annuity figure and does not
+  follow from the agreement's equal-capital clause**; which basis is actually run, and the
+  balance of 31,495.87 at 21/08/2026, stay `(unverified)` until the repayment schedule is filed. **Charge registered at Companies House (certificate emailed 08/05/2025) and the
   Land Registry (completed 26/01/2026)** `(email; documents not on file)`. A repayment schedule
   was sent to RMT Accountants 17/12/2025 `(email)`. **The 50 percent test at April 2025 computes
   at about 49.8 percent** of the two directors' quoted transfer values, because the third
@@ -410,11 +418,14 @@ elsewhere and must be recounted before use.
   loans is unknown. The owner's Gmail is the third source (section 1).
 
 **Open questions, in priority order.**
-1. **Save the fifteen Gmail attachments into `Raw/`** (Session 4 entry, Part B table): the loan
-   agreement and heads of terms, the repayment schedule, the Companies House certificate, the
-   Land Registry official copy and plan, the two Deeds of Adherence, the 2021-22 accounts, the
-   2021 establishment pack, the fee schedule and invoices. Then the HMRC loan test in full, the
-   `FSS 0001` row, and `FSS0000001` onwards.
+1. **Save the remaining Gmail attachments into `Raw/`** per
+   `Outputs/attachments-to-download-from-gmail.md` (the loan agreement, item A1, arrived
+   2026-09-07): next the repayment schedule, the heads of terms with the loan application and
+   the trustees' board minute, the Companies House certificate, the Land Registry official copies,
+   the two Deeds of Adherence, the 2021-22 accounts, the 2021 establishment pack, the fee schedule
+   and invoices. The repayment schedule also settles **which repayment basis is run** (the
+   agreement's equal capital instalments, or the level 790.13 a month the borrower pays) and so
+   the HMRC equal-instalments test. Then the `FSS 0001` row and `FSS0000001` onwards.
 2. **The 50 percent test at 16/04/2025**: the scheme's actual value then, from the
    administrator's loan file or the bank balance; the quotation arithmetic gives 49.8 percent.
 3. **The third trustee and Fishbone Properties Ltd**: her deed of appointment (at the
@@ -435,8 +446,8 @@ elsewhere and must be recounted before use.
 
 ---
 
-*Standing context for the Fishbone SSAS knowledge base. Version 4, 2026-09-06, after the `SSAS`
-folder extraction and the first Gmail search; version 3 followed the loanback security and
-governing documents, version 2 the first Raw items, and version 1 was created the same day at
-setup from the Fishbone Commercial Properties Ltd model. See
+*Standing context for the Fishbone SSAS knowledge base. Version 5, 2026-09-07, after the signed
+loan agreement was filed; version 4 followed the `SSAS` folder extraction and the first Gmail
+search, version 3 the loanback security and governing documents, version 2 the first Raw items,
+and version 1 was created at setup from the Fishbone Commercial Properties Ltd model. See
 `Wiki/Decisions/2026-09-06-kb-structure-and-recount-rule.md`.*

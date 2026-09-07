@@ -14,6 +14,7 @@ correction is a new entry that references the old one.
 
 | Date | Entry | File |
 |---|---|---|
+| 2026-09-07 | Loan agreement filed - the owner saved the signed loan agreement LA01801 from Gmail into `Raw/` (first item of the download checklist); read in full; loanback article gains the contract terms (5.50 percent flat, 8.25 percent default, five years from drawdown, equal capital instalments, fees, covenants, events of default, signatures); HMRC test updated; repayment-basis question opened; four other articles corrected; `CLAUDE.md` version 5 | `Outputs/change-log-2026-09-07-loan-agreement-filed.md` |
 | 2026-09-07 | Attachments download list - every Gmail thread from Sessions 4 and 5 re-opened and the attachment filenames listed in one checklist (`Outputs/attachments-to-download-from-gmail.md`): 24 files to save plus 8 Xero invoices behind links, 26 already on file or member-personal; a board minute and indemnity letter for the loan found among the Signable files; no article changed | `Outputs/change-log-2026-09-07-attachments-download-list.md` |
 | 2026-09-07 | Session 5 addendum - Every scheme-related sent email from 2021 to 2026 listed; initial board meeting January 2022, intention to contribute from February 2023 and the first director's 2023 Aviva safeguarding steps added to four articles, and six missing reciprocal links repaired across five articles; no reply approving the 2021-22 accounts, no reply on the deed originals, no onward sending of the Aviva declaration | `Outputs/change-log-2026-09-07-email-outstanding-items-addendum.md` |
 | 2026-09-07 | Session 5 - Gmail checked for outstanding scheme items: three threads end on an unanswered request (Deed of Adherence originals, the Aviva declaration for the third member, the 1,791.00 expense claim); administrator's fees are deducted from the scheme account; no accounts, returns or board meetings from the administrator since 2023 appear in the mailbox; read-only, no article changed | `Outputs/change-log-2026-09-07-email-outstanding-items.md` |
@@ -29,6 +30,7 @@ Status: `pending` = registered, not started; `partial` = started, work remains (
 
 | Raw path | Processed (date) | Status | Wiki articles created / updated | Notes |
 |---|---|---|---|---|
+| `Raw/FishboneSSAS_Loanback(£41.5k)_LA01801_2025-04-xx.pdf` | 2026-09-07 | done | Assets/loanback-fishbone-commercial-properties, Finance/hmrc-registration, People/empowered-trustees, Suppliers/dollman-pritchard | Signed Loan Agreement LA01801 made 16 Apr 2025, Empowered Pensions Limited template, 16 pages with text layer (14 pages of agreement, 2 of Signable audit trail); saved by the owner from the Signable email of 16/04/2025 (checklist item A1). Read by text extraction and page images. Carries the members' home addresses (p.3) and the signers' IP addresses (pp.15-16): sensitive, not quoted. 430,685 bytes. Drive id `1NMpsFUMZqvQCitzG58s7PLQR3gNQpCcm`. Drive only. |
 | `Raw/README.md` | 2026-09-06 | skipped | none | Folder guide explaining `Raw/` to a human; structural file, not source material. Registered so section 3b Detect stops re-flagging it. |
 | `Outputs/README.md` | 2026-09-06 | skipped | none | Folder guide explaining `Outputs/`; not an output and not source material. |
 | `Outputs/kb-registers.md` | 2026-09-06 | skipped | none | This file. A standing index, not source material and not a deliverable. |
@@ -72,8 +74,9 @@ Status: `pending` = registered, not started; `partial` = started, work remains (
 | `Raw/Photograph of the scheme rules page 16 signed by both member trustees, 2021-10-14 (20211014_100954.jpg, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).jpg` | 2026-09-06 | done | Processes/scheme-rules, Processes/scheme-establishment-2021 | Rules p.16 signed by both member trustees; corporate trustee's line blank. 1,965,723 bytes. Drive id `1Keg6LZ7kU61wLlxFuIQ4OZMvOj1HIygu`. Drive only. |
 
 Documents known to exist but **not on file**. Located in the owner's Gmail on 2026-09-06 as
-attachments a person must save into `Raw/` (the Session 4 entry lists the threads): the signed
-loan agreement of 16/04/2025 and heads of terms; the loanback repayment schedule; the Companies
+attachments a person must save into `Raw/` (the Session 4 entry lists the threads; the working
+checklist is `Outputs/attachments-to-download-from-gmail.md`): ~~the signed loan agreement of
+16/04/2025~~ (filed 2026-09-07) and heads of terms; the loanback repayment schedule; the Companies
 House registration certificate (08/05/2025) and the Land Registry official copy, title plan and
 completion sheet for TY59507 (26/01/2026); the Deeds of Adherence for Fishbone Properties Ltd
 and Fishbone Commercial Properties Ltd; the annual accounts for 2021-22 and the Metro Bank

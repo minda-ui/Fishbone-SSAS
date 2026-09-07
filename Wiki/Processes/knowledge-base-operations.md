@@ -4,7 +4,7 @@ category: Processes
 status: active
 sensitive: false
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - ../../Outputs/change-log-2026-09-06-initial-setup.md
 related:
@@ -139,6 +139,9 @@ scheme.
   filed document and is superseded once the document reaches `Raw/`. Search results over about
   60 KB and long threads are written to the session's tool-results folder and parsed with
   Python. Phone photographs (JPEG) are decoded with PyMuPDF because PIL is not installed.
+- 2026-09-07: the owner saved the first attachment from the download checklist
+  (`Outputs/attachments-to-download-from-gmail.md`) into `Raw/`: the signed loan agreement
+  LA01801. Processed the same day; the checklist is ticked and replaced as items arrive.
 
 ## Open questions
 
@@ -152,6 +155,7 @@ scheme.
 | 2026-09-06 | Employers folder id, OneDrive source, history line | `Outputs/change-log-2026-09-06-legacy-scheme-documents-copied.md` |
 | 2026-09-06 | History line: the owner uploaded the whole OneDrive master into `Raw/` and moved it out again to the My Drive root (`1jSFpIOcKb7yANA0hJVtjWb_80rMfvo5c`); the four scheme documents were copied from it by id; Drive downloads above about 8 MB fail in the connector | `Outputs/change-log-2026-09-06-loan-security-and-governing-documents.md` |
 | 2026-09-06 | History line: Session 4's 23 copies and the first Gmail search; the email citation convention and the connector's attachment limit | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
+| 2026-09-07 | History line: the first Gmail attachment saved by the owner and processed | `Outputs/change-log-2026-09-07-loan-agreement-filed.md` |
 
 ## Sources
 

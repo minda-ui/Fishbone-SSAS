@@ -4,8 +4,9 @@ category: People
 status: active
 sensitive: false
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
+  - ../../Raw/FishboneSSAS_Loanback(£41.5k)_LA01801_2025-04-xx.pdf
   - ../../Raw/Trust deed (Fishbone SSAS, copied from Drive Staff (SSAS) legacy folder 2026-09-06).pdf
   - ../../Raw/Board minutes (Fishbone Drylining Ltd resolution to establish the scheme, copied from Drive Staff (SSAS) legacy folder 2026-09-06).pdf
   - ../../Raw/Legal Mortgage 29 April 2025.pdf
@@ -54,8 +55,9 @@ through its director Lars Ian Singleton, is the first evidence on file of it act
 
 - Is Empowered Trustees Ltd still the corporate trustee, and under what terms?
 - ~~Does the corporate trustee have to sign for the loanback?~~ Answered 2026-09-06: rule 6.3.1
-  requires its written agreement, and it executed the mortgage deed. Whether it also gave a
-  separate written agreement to the loan itself is not evidenced.
+  requires its written agreement, and it executed the mortgage deed. ~~Whether it also gave a
+  separate written agreement to the loan itself is not evidenced.~~ It did: Lars Singleton signed
+  the loan agreement LA01801 for Empowered Trustees Ltd through Signable on 11/04/2025 [^6].
 
 ## Changes
 
@@ -64,6 +66,7 @@ through its director Lars Ian Singleton, is the first evidence on file of it act
 | 2026-09-06 | Created from the two Raw items in the front matter | `Outputs/change-log-2026-09-06-legacy-scheme-documents-copied.md` |
 | 2026-09-06 | Mortgage execution, TPR register entry, rule 6.3 | `Outputs/change-log-2026-09-06-loan-security-and-governing-documents.md` |
 | 2026-09-06 | Bank mandate role | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
+| 2026-09-07 | Corporate trustee's signature on the loan agreement recorded | `Outputs/change-log-2026-09-07-loan-agreement-filed.md` |
 
 ## Sources
 
@@ -71,4 +74,5 @@ through its director Lars Ian Singleton, is the first evidence on file of it act
 [^2]: [Board minutes, unsigned and undated](<../../Raw/Board minutes (Fishbone Drylining Ltd resolution to establish the scheme, copied from Drive Staff (SSAS) legacy folder 2026-09-06).pdf>)
 [^3]: [Legal Mortgage dated 29 April 2025](<../../Raw/Legal Mortgage 29 April 2025.pdf>) p.3, p.43
 [^4]: [TPR scheme registration, 04/08/2022](<../../Raw/TPR scheme registration certificate 2022-08-04 PSR 12018880 (The Pension Regulator Certificate.pdf, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).pdf>) p.4
+[^6]: [Loan Agreement LA01801, 16 Apr 2025, signature page and Signable audit trail](<../../Raw/FishboneSSAS_Loanback(£41.5k)_LA01801_2025-04-xx.pdf>) pp.14-15
 [^5]: [Metro Bank mandate for adding trustees, 2024](<../../Raw/Metro Bank pension scheme account mandate adding a trustee 2024-05 (Metro Bank account - Sign form.pdf, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).pdf>)

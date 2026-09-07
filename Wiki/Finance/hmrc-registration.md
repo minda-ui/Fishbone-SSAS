@@ -4,7 +4,7 @@ category: Finance
 status: active
 sensitive: false
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - ../../Raw/HMRC notification of registration 2021-12-06 (Certificates - Fishbone SSAS.pdf, copied from Drive Staff (SSAS) legacy folder 2026-09-06).pdf
 related:
@@ -49,8 +49,10 @@ conditions (security, interest rate, term, amount not exceeding 50 percent of sc
 equal instalments). The security deed, completion statement and solicitors' invoice for that
 loan are now on file and the conditions are tested, as far as they can be, in
 [Loanback to Fishbone Commercial Properties Ltd](../Assets/loanback-fishbone-commercial-properties.md);
-the loan agreement itself is still not on file, so the rate, term and instalment tests remain
-`(unverified)`. The PSTR appears as the "HMRC approval number" on the scheme's
+~~the loan agreement itself is still not on file, so the rate, term and instalment tests remain
+`(unverified)`.~~ Corrected 2026-09-07: the agreement is on file; the rate (5.50 percent flat)
+and term (five years from drawdown) are verified there, and the equal-instalments test turns on
+which repayment basis is actually run, which the unfiled repayment schedule will show. The PSTR appears as the "HMRC approval number" on the scheme's
 [TPR registration](../Finance/tpr-scheme-registration-2022.md).
 
 The administrator's email of 19/01/2023 shows the first annual accounts were drawn to
@@ -72,6 +74,7 @@ by the administrator. See [Scheme accounts and returns](../Finance/scheme-accoun
 | 2026-09-06 | Created from the Raw item in the front matter | `Outputs/change-log-2026-09-06-legacy-scheme-documents-copied.md` |
 | 2026-09-06 | Loanback conditions now pointed at the Assets article; TPR cross-link | `Outputs/change-log-2026-09-06-loan-security-and-governing-documents.md` |
 | 2026-09-06 | Scheme year end and the first accounts inferred from the administrator's email of 19/01/2023; link to the accounts article | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
+| 2026-09-07 | Loan test paragraph corrected now the loan agreement is on file | `Outputs/change-log-2026-09-07-loan-agreement-filed.md` |
 
 ## Sources
 
