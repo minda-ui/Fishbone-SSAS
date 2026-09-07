@@ -1,8 +1,12 @@
 # Fishbone SSAS - Knowledge Base
 
-> **Status: AUTHORITATIVE. Version 9, 2026-09-07**, superseding version 8 of the same day (in
-> `Archive/`) after Companies House's Form MR01, registration certificate and full certified copy
-> of the mortgage deed were filed and read: checklist item A6 is closed, and the charges register's
+> **Status: AUTHORITATIVE. Version 10, 2026-09-07**, superseding version 9 of the same day (in
+> `Archive/`) after the signed Metro Bank transfer form was filed and read: checklist item A10 is
+> closed (A11 was not needed), the loan's Drawdown date of 24/04/2025 is now verified rather than
+> resting on an email description, and a new question is open on whether the account's
+> two-signature mandate was met, since the form carries only one signature. Version 9 followed
+> Companies House's Form MR01, registration certificate and full certified copy
+> of the mortgage deed being filed and read: checklist item A6 is closed, and the charges register's
 > further-advances entry is resolved as the deed's own standard clause 4.2, not a revolving
 > facility. Version 8 followed the Land Registry official copies for TY59507 and the
 > administrator's scheme valuation as at 5 April 2025: the loanback's 50 percent test verified at
@@ -349,7 +353,7 @@ articles and the dated change-log entries.
 
 ---
 
-## 7. Scheme snapshot and open questions (as of 2026-09-07, after the Companies House MR01 filing)
+## 7. Scheme snapshot and open questions (as of 2026-09-07, after the Metro Bank transfer form filing)
 
 The Wiki is the authoritative record; start at `Wiki/index.md`. This section is a one-screen
 orientation, refreshed when a Raw item changes the picture. Lines marked **verified** are cited in
@@ -410,8 +414,12 @@ elsewhere and must be recounted before use.
   member trustees 31/10/2021; 2024 mandate on file adding the third trustee, signing rule one
   member trustee plus one authorised administrator together, single signature under 1,500;
   account number on the mandate, never quoted. Bank details were sent by the administrator on
-  19/01/2023 `(email)`. The loan advance left on the administrator's transfer request form
-  24/04/2025 `(email)`. **No bank-issued statement is on file**, but the administrator's own
+  19/01/2023 `(email)`. **The loan advance left the account on 24/04/2025**, verified since
+  2026-09-07 from the signed Metro Bank transfer form itself (Faster Payment, £41,500 to Dollman &
+  Pritchard Solicitors, ref AJA/FIS53.1, signed by M Gaudiesius alone); whether the account's
+  two-signature mandate (one member trustee plus one authorised administrator, above 1,500) was
+  met some other way is not shown on the form. **No bank-issued statement is on file**, but the
+  administrator's own
   transaction list for the year to 05/04/2025 (filed 2026-09-07) reproduces every entry on the
   account for that year: opening 86,061.69, closing 83,701.24, fees, interest and Irina Fedonina's
   contributions itemised. The year of the loanback itself (to 05/04/2026) is not yet covered.
@@ -446,10 +454,11 @@ elsewhere and must be recounted before use.
 
 **Open questions, in priority order.**
 1. **Save the remaining Gmail attachments into `Raw/`** per
-   `Outputs/attachments-to-download-from-gmail.md`: items A1 to A9 all arrived 2026-09-07 (the
-   loan pack, the Land Registry official copies, and the Companies House Form MR01 with
-   certificate and full certified deed). Next: **the signed Metro Bank transfer form (A10)**, the
-   two Deeds of Adherence, the 2021-22 accounts, the 2021 establishment pack, the fee schedule and
+   `Outputs/attachments-to-download-from-gmail.md`: items A1 to A10 all arrived 2026-09-07 (the
+   loan pack, the Land Registry official copies, the Companies House Form MR01 with certificate
+   and full certified deed, and the signed Metro Bank transfer form); A11 was not needed, so
+   **checklist group A (the loanback) is now closed**. Next: **the two Deeds of Adherence**, the
+   2021-22 accounts, the 2021 establishment pack, the fee schedule and
    invoices. Then the `FSS 0001` row and `FSS0000001` onwards. Separately, **ask the administrator
    to confirm in writing that the level-payment schedule governs** despite the agreement's
    equal-capital wording. (The Land Registry's "obligation to make further advances" no longer
@@ -484,13 +493,19 @@ elsewhere and must be recounted before use.
 10. ~~Whether the 2019 and 2021 loan agreements in `Collaboration Space / Other` are scheme loans,~~
     Answered 2026-09-07: Holdings-to-Properties loans, not the scheme's. Still open: whether the
     trustees know the security's valuation assumed repairs not complete.
+11. **New 2026-09-07.** The signed Metro Bank transfer form for the 41,500 loan advance carries
+    only one signature (M Gaudiesius, Primary Applicant); the 2024 mandate requires a member
+    trustee and an authorised administrator together for a payment over 1,500, and Metro Bank's
+    own form has no administrator signature line to check that against. Whether the
+    administrator's part of the mandate was met some other way is not evidenced on the form.
 
 ---
 
-*Standing context for the Fishbone SSAS knowledge base. Version 9, 2026-09-07, after Companies
-House's Form MR01, certificate and full certified mortgage deed were filed; version 8, earlier
-that day, followed the Land Registry official copies and the administrator's scheme valuation as
-at 5 April 2025; version 7 followed the pass through the open questions; version 6 followed the
+*Standing context for the Fishbone SSAS knowledge base. Version 10, 2026-09-07, after the signed
+Metro Bank transfer form for the loan advance was filed; version 9, earlier that day, followed
+Companies House's Form MR01, certificate and full certified mortgage deed being filed; version 8,
+earlier still, followed the Land Registry official copies and the administrator's scheme valuation
+as at 5 April 2025; version 7 followed the pass through the open questions; version 6 followed the
 loan pack, and version 5 the signed loan agreement; version 4 followed the `SSAS` folder
 extraction and the first Gmail search, version 3 the loanback security and governing documents,
 version 2 the first Raw items, and version 1 was created at setup from the Fishbone Commercial

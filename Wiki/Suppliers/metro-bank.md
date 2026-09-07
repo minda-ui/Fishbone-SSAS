@@ -11,6 +11,7 @@ sources:
   - https://mail.google.com/mail/u/0/#all/185cac58624ac168 (Gmail: Metro Bank details sent password-protected, 19/01/2023)
   - https://mail.google.com/mail/u/0/#all/18f96c6847c23028 (Gmail: Missing form, mandate and certified identity for the third trustee, 20/05 to 29/05/2024)
   - https://mail.google.com/mail/u/0/#all/1966210241eff884 (Gmail: Transfer of funds, Metro Bank transfer request form for the loanback, 23/04 to 24/04/2025)
+  - ../../Raw/Emailing Metro SSAS 2404.pdf
 related:
   - ../Processes/scheme-establishment-2021.md
   - ../People/m-gaudiesius.md
@@ -42,7 +43,8 @@ mandate that added the third trustee and set the signing rule.
 | Documents the bank requires for a new trustee | a deed of appointment, and certified identity and address evidence | [^2] p.5 |
 | Bank details | sent to the owner by the administrator on 19/01/2023 as a password-protected document (password: the PSTR); not repeated here | [^3] `(email; attachment not on file)` |
 | How the 2024 mandate was lodged | the owner emailed the signed mandate to the administrator on 20/05/2024; the administrator asked for certified identity and proof of address for the new trustee (24/05/2024), received copies the same day, and on 29/05/2024 said it had "sent off all documentation/deeds necessary to add Irina as an authorised signatory"; the bank's confirmation is not in the mailbox | [^4] `(email)` |
-| How the loan advance was paid | Empowered Lending sent a password-protected "Metro Bank transfer request form" on 23/04/2025 for the transfer of the 41,500 to Dollman & Pritchard's client account, to be signed by the owner after verbally verifying the solicitors' bank details; the signed form (`Metro SSAS 2404.pdf`) was returned 24/04/2025 and the verification confirmed | [^5] `(email; form not on file)` |
+| How the loan advance was paid | Empowered Lending sent a password-protected "Metro Bank transfer request form" on 23/04/2025 for the transfer of the 41,500 to Dollman & Pritchard's client account, to be signed by the owner after verbally verifying the solicitors' bank details; the signed form was returned 24/04/2025 and the verification confirmed | [^5] |
+| The signed transfer form itself (verified) | Metro Bank "Outward Payment Instruction (Faster Payment & CHAPs)": customer Fishbone SSAS, Faster Payment, £41,500 to Dollman & Pritchard Solicitors (business account), payment reference AJA/FIS53.1, signed by the Primary Applicant only, M Gaudiesius, dated 24.04.2025; the Secondary Applicant line and the bank's own internal-use section (page 2) are blank in this copy | [^6] |
 
 ## Details
 
@@ -64,11 +66,17 @@ Member" form says a trustee must authorise payments over 1,500.00 and that the s
 member trustee and one authorised administrator together, with the 1,500.00 single-signature
 threshold, "as per board minute" [^2] p.5. That board minute is not on file.
 
-The 41,500 loan to Fishbone Commercial Properties Ltd left this account on or about 24/04/2025
-to the solicitors' client account, on the administrator's transfer request form signed by one
-member trustee [^5]; the solicitors advanced the net sum on completion, 29/04/2025
+The 41,500 loan to Fishbone Commercial Properties Ltd left this account on 24/04/2025 to the
+solicitors' client account, on the Metro Bank transfer form signed by one member trustee, now
+verified on file [^6]; the solicitors advanced the net sum on completion, 29/04/2025
 `(email; no statement on file)`; see
 [Loanback to Fishbone Commercial Properties Ltd](../Assets/loanback-fishbone-commercial-properties.md).
+
+The form itself raises a question the email trail does not answer: the account's 2024 mandate
+requires one member trustee and one authorised administrator to sign together for a payment over
+1,500, but this form has only the trustee's signature (the Secondary Applicant line and the
+bank's internal-use boxes on page 2 are blank in this copy) [^2] p.5, [^6]. How the
+administrator's part of the mandate was met is not shown on the form.
 
 ## Open questions
 
@@ -76,6 +84,10 @@ member trustee [^5]; the solicitors advanced the net sum on completion, 29/04/20
 - Statements from opening to date, so contributions and loanback repayments can be reconciled.
 - ~~Whether the corporate trustee is a signatory.~~ Answered 2026-09-06: yes, through its director,
   on the 2024 mandate. The board minute the mandate refers to is still wanted.
+- **Whether the 41,500 transfer met the two-signature mandate.** The signed transfer form carries
+  only the trustee's signature; whether an authorised administrator's part was satisfied some
+  other way (Empowered Lending's own release process, per the email trail) is not evidenced on the
+  form itself. Not resolved by guessing.
 
 ## Changes
 
@@ -86,6 +98,7 @@ member trustee [^5]; the solicitors advanced the net sum on completion, 29/04/20
 | 2026-09-06 | 2024 mandate filed: third trustee added, signing rule, bank's document requirements | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
 | 2026-09-06 | Bank-details email of 2023, the 2024 mandate lodgement and the 2025 transfer request for the loan advance found in Gmail | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
 | 2026-09-07 | Reciprocal `related:` links repaired | `Outputs/change-log-2026-09-07-email-outstanding-items-addendum.md` |
+| 2026-09-07 | Signed Metro Bank transfer form filed (checklist A10 closed): Drawdown date verified, single-signature question opened | `Outputs/change-log-2026-09-07-metro-bank-transfer-form-filed.md` |
 
 ## Sources
 
@@ -93,4 +106,5 @@ member trustee [^5]; the solicitors advanced the net sum on completion, 29/04/20
 [^2]: [Metro Bank Pension Scheme Account Mandate for adding trustees, 9 pages, scan with text layer, file dated 20/05/2024](<../../Raw/Metro Bank pension scheme account mandate adding a trustee 2024-05 (Metro Bank account - Sign form.pdf, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).pdf>)
 [^3]: [Gmail: "Contributions and Annual Accounts", Empowered Pensions, 19/01/2023](https://mail.google.com/mail/u/0/#all/185cac58624ac168) `(email; attachment not on file)`
 [^4]: [Gmail: "Missing form", owner and Empowered Pensions, 20/05 to 29/05/2024](https://mail.google.com/mail/u/0/#all/18f96c6847c23028) `(email; the identity documents attached are member-personal and are not filed)`
-[^5]: [Gmail: "Transfer of funds - Fishbone SSAS to Fishbone Commercial Properties Ltd (£41,500.00) - LA01801", Empowered Lending, 23/04 to 24/04/2025](https://mail.google.com/mail/u/0/#all/1966210241eff884) `(email; form not on file)`
+[^5]: [Gmail: "Transfer of funds - Fishbone SSAS to Fishbone Commercial Properties Ltd (£41,500.00) - LA01801", Empowered Lending, 23/04 to 24/04/2025](https://mail.google.com/mail/u/0/#all/1966210241eff884)
+[^6]: [Metro Bank "Outward Payment Instruction (Faster Payment & CHAPs)", 2 pages, read as page images](<../../Raw/Emailing Metro SSAS 2404.pdf>) - form (customer, payment and beneficiary details, signature) PDF p.2 ("pg 1"); security call-back and bank internal-use section, blank, PDF p.1 ("pg 2"). Carries the scheme's debit account number and the solicitors' sort code and account number: sensitive, not quoted

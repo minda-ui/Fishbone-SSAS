@@ -20,6 +20,7 @@ sources:
   - ../../Raw/2025-04-05 Fishbone SSAS Scheme Valuation Prepared.pdf
   - ../../Raw/2025-04-05 Fishbone SSAS Portfolio Valuation.pdf
   - ../../Raw/13687238_mr01_2025-05-08.pdf
+  - ../../Raw/Emailing Metro SSAS 2404.pdf
   - https://mail.google.com/mail/u/0/#all/1963deba41414b6b (Gmail: Signable confirmation, loan agreement signed, 16/04/2025)
   - https://mail.google.com/mail/u/0/#all/195ed15bd4149079 (Gmail: Empowered Lending, rate and default rate requested, 31/03 to 01/04/2025)
   - https://mail.google.com/mail/u/0/#all/19614f0e4ba798b9 (Gmail: Dollman & Pritchard instructed, 07/04 to 16/04/2025)
@@ -142,8 +143,8 @@ signed by the four trustees on 10 and 11/04/2025 and completed on 16/04/2025, th
 [^12] pp.14-16; the solicitors' invoice has a tax point of 16/04/2025 [^3]; the mortgage deed is
 dated 29 April 2025 [^1] cover; the completion statement is undated but carries the same matter
 reference [^2]. Drawdown under the agreement is the day the money left the scheme's account,
-which the administrator's transfer request puts at 24/04/2025 `(email)`, with completion to the
-borrower on 29/04/2025. So the five-year deadline in clause 7.1 falls on or about 24/04/2030 and
+which the signed Metro Bank transfer instruction confirms as 24/04/2025, verified [^24], with
+completion to the borrower on 29/04/2025. So the five-year deadline in clause 7.1 falls on or about 24/04/2030 and
 the first repayment was due by about 24/05/2025; the borrower's payments on about the 29th of
 each month, recorded in the sister knowledge base, and the Loans wiki's final payment date of
 28/04/2030 are consistent with that to within the few days between transfer and completion.
@@ -268,6 +269,14 @@ Ltd; the trustees' side has a board minute and indemnity letter among the Signab
   covers everything up to the loan's drawdown; the year of the loan itself (to 05/04/2026) is
   still needed.
 - Whether the loan was reported to HMRC where an Event Report requires it.
+- **The signed Metro Bank transfer form carries only one signature.** The 2024 account mandate
+  requires one member trustee and one authorised administrator to sign together for a payment
+  above 1,500 (see [Metro Bank](../Suppliers/metro-bank.md)); the form for this 41,500 transfer
+  has only the "Primary Applicant" line completed (M Gaudiesius, 24.04.2025), the "Secondary
+  Applicant" line blank, and the bank's own internal-use boxes on page 2 (ID&V, T24 input, payment
+  authorised) all unticked in this copy [^24]. Whether the administrator's part of the mandate was
+  satisfied some other way (e.g. Empowered Lending releasing the funds after its own verification,
+  as the email trail describes) is not evidenced on the form itself; not resolved by guessing.
 
 ## Changes
 
@@ -281,6 +290,7 @@ Ltd; the trustees' side has a board minute and indemnity letter among the Signab
 | 2026-09-07 | Heads of terms, loan application, board minute and indemnity letter, and repayment schedule filed and read: valuation 145,000, level annuity 790.13 to 28/04/2030 confirmed as what is run, Loans-wiki figures traced to the schedule, HMRC security-value and equal-instalments rows updated, clause 7 discrepancy and three smaller questions opened | `Outputs/change-log-2026-09-07-loan-pack-filed.md` |
 | 2026-09-07 | Land Registry official copy, title plan and completion sheet filed and read: charge registration dated and detailed, further-advances entry flagged; administrator's scheme valuation as at 5/4/2025 filed, 50 percent test answered as verified (49.58 percent) | `Outputs/change-log-2026-09-07-land-registry-and-scheme-valuation.md` |
 | 2026-09-07 | Companies House Form MR01, certificate and the full certified mortgage deed filed (checklist A6 closed): further-advances question resolved (deed clause 4.2), clauses 5-12 read and found unremarkable, Schedule 1 plan confirmed on file | `Outputs/change-log-2026-09-07-companies-house-mr01-filed.md` |
+| 2026-09-07 | Signed Metro Bank transfer form filed (checklist A10 closed): Drawdown date of 24/04/2025 verified rather than resting on email; single-signature question opened | `Outputs/change-log-2026-09-07-metro-bank-transfer-form-filed.md` |
 
 ## Sources
 
@@ -307,3 +317,4 @@ Ltd; the trustees' side has a board minute and indemnity letter among the Signab
 [^21]: [Portfolio Valuation for Fishbone SSAS at 05/04/2025, Empowered Pensions, 1 page](<../../Raw/2025-04-05 Fishbone SSAS Portfolio Valuation.pdf>) - a standalone copy of [^20] p.4
 [^22]: [Fishbone SSAS Statement of Account for the year ended 05/04/2025, Empowered Pensions, 3 pages: Statement of Income and Expenditure, Balance Sheet at 05/04/2025](<../../Raw/2025-04-05 Fishbone SSAS Statement of Account.pdf>)
 [^23]: [Companies House Form MR01, Registration of a Charge, company 13687238, received for filing 02/05/2025, with the Certificate of the Registration of a Charge (given 08/05/2025) and Companies House's own certified copy of the full Legal Mortgage dated 29 April 2025, 48 PDF pages, read as page images](<../../Raw/13687238_mr01_2025-05-08.pdf>) - MR01 form PDF p.1; certificate PDF p.2; deed title page PDF p.3; deed contents PDF pp.4-5; deed clauses 2 to 13 PDF pp.12-29 (the deed's own page numbers run 3 behind the PDF's); execution PDF pp.43-47; Schedule 1 (title plan) PDF p.48
+[^24]: [Metro Bank "Outward Payment Instruction (Faster Payment & CHAPs)", customer Fishbone SSAS, £41,500 to Dollman & Pritchard Solicitors, ref AJA/FIS53.1, signed by M Gaudiesius (Primary Applicant only) 24.04.2025, 2 pages, read as page images](<../../Raw/Emailing Metro SSAS 2404.pdf>) - form (customer details, payment details, beneficiary, signature) PDF p.2 ("pg 1"); security call-back and bank internal-use section, blank, PDF p.1 ("pg 2"). Carries the scheme's debit account number and the solicitors' sort code and account number: sensitive, not quoted
