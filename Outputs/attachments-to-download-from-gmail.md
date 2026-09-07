@@ -1,6 +1,6 @@
 # Attachments to download from Gmail into `Raw/`
 
-**Standing output, current as of 2026-09-07 (A1 saved).** Built at the owner's request from the Session 4 entry
+**Standing output, current as of 2026-09-07 (A1 to A5 saved).** Built at the owner's request from the Session 4 entry
 (`Outputs/change-log-2026-09-06-ssas-folder-extraction.md`, Part B) and the Session 5 addendum
 (`Outputs/change-log-2026-09-07-email-outstanding-items-addendum.md`), with every thread re-opened
 on 2026-09-07 so that the filenames below are the ones Gmail shows. The Gmail connector reads
@@ -27,10 +27,10 @@ version.
 | Saved | # | File to download | Where | Why |
 |---|---|---|---|---|
 | [x] 2026-09-07 | A1 | `FishboneSSAS_Loanback(£41.5k)_LA01801_2025-04-xx.pdf` | Signable, "Document signed confirmation", 16/04/2025, [1963deba41414b6b](https://mail.google.com/mail/u/0/#all/1963deba41414b6b) (also a Signable download link in the body) | the signed loan agreement: the missing document at the top of every open-questions list |
-| [ ] | A2 | `FishboneSSAS_Loanback(£41.5k)_HoTs_2025-04-xx.pdf` | Signable, 07/04/2025, [1960f6545eaafaac](https://mail.google.com/mail/u/0/#all/1960f6545eaafaac) | signed heads of terms: rate, default rate, repayment basis |
-| [ ] | A3 | `FishboneSSAS_Loanback(£41.5k)_LoanApp_2025-03-17.pdf` | same message as A2 | the loan application of 17/03/2025 |
-| [ ] | A4 | `FishboneSSAS_Loanback(£41.5k)_BrdMin&IndemnLttr-2025-04-xx.pdf` | same message as A2 | trustees' board minute approving the loan and the indemnity letter: the trustee decision the rules require |
-| [ ] | A5 | `Fishbone Loanback Repayment Schedule.pdf` | bookkeeper to RMT Accountants, 17/12/2025, [19b2bebb75994919](https://mail.google.com/mail/u/0/#all/19b2bebb75994919) | the instalment schedule to monitor repayments against |
+| [x] 2026-09-07 | A2 | `FishboneSSAS_Loanback(£41.5k)_HoTs_2025-04-xx.pdf` | Signable, 07/04/2025, [1960f6545eaafaac](https://mail.google.com/mail/u/0/#all/1960f6545eaafaac) | signed heads of terms: rate, default rate, repayment basis |
+| [x] 2026-09-07 | A3 | `FishboneSSAS_Loanback(£41.5k)_LoanApp_2025-03-17.pdf` | same message as A2 | the loan application of 17/03/2025 |
+| [x] 2026-09-07 | A4 | `FishboneSSAS_Loanback(£41.5k)_BrdMin&IndemnLttr-2025-04-xx.pdf` | same message as A2 | trustees' board minute approving the loan and the indemnity letter: the trustee decision the rules require |
+| [x] 2026-09-07 | A5 | `Fishbone Loanback Repayment Schedule.pdf` | bookkeeper to RMT Accountants, 17/12/2025, [19b2bebb75994919](https://mail.google.com/mail/u/0/#all/19b2bebb75994919) | the instalment schedule to monitor repayments against |
 | [ ] | A6 | `Companies House Certificate.pdf` | Dollman & Pritchard, 08/05/2025, [19681349080e39a1](https://mail.google.com/mail/u/0/#all/19681349080e39a1) (second message in the thread) | evidence the charge is registered against company 13687238 |
 | [ ] | A7 | `Official Copy of Register - EDOC REGISTRATION - TY59507.pdf` | Dollman & Pritchard, "REGISTRATION COMPLETED", 26/01/2026, [19bfa3258b50f266](https://mail.google.com/mail/u/0/#all/19bfa3258b50f266) | the title register showing the restriction |
 | [ ] | A8 | `Official Copy of Title Plan - EDOC REGISTRATION - TY59507.pdf` | same message as A7 | the plan the mortgage's Schedule 1 refers to |
@@ -81,7 +81,7 @@ version.
 
 | Group | Files to save | Already on file or not to be filed |
 |---|---|---|
-| A. Loanback | 11 (A1 to A11), **A1 saved 2026-09-07** | 3 (A12) |
+| A. Loanback | 11 (A1 to A11), **A1 to A5 saved 2026-09-07** | 3 (A12) |
 | B. Deeds | 3 | 0 |
 | C. Accounts and fees | 2 attachments plus 8 Xero invoices behind links | 0 |
 | D. Establishment | 4 (D1 to D3, two files in D3) | 8 (D4, D5) |

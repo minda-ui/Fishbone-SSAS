@@ -7,6 +7,10 @@ created: 2026-09-06
 updated: 2026-09-07
 sources:
   - ../../Raw/FishboneSSAS_Loanback(£41.5k)_LA01801_2025-04-xx.pdf
+  - ../../Raw/FishboneSSAS_Loanback(£41.5k)_HoTs_2025-04-xx.pdf
+  - ../../Raw/FishboneSSAS_Loanback(£41.5k)_LoanApp_2025-03-17.pdf
+  - ../../Raw/FishboneSSAS_Loanback(£41.5k)_BrdMin&IndemnLttr-2025-04-xx.pdf
+  - ../../Raw/Fishbone Loanback Repayment Schedule.pdf
   - ../../Raw/Legal Mortgage 29 April 2025.pdf
   - ../../Raw/Completion Statement.pdf
   - ../../Raw/Receipted Invoice.pdf
@@ -38,12 +42,12 @@ The scheme's one known investment: a loan of 41,500 to Fishbone Commercial Prope
 group company, secured by a first legal mortgage over 145 High Street East, Wallsend. The
 security deed, the solicitors' completion statement, their receipted invoice and, **from
 2026-09-07, the signed loan agreement itself** (LA01801, dated 16 April 2025, 16 pages including
-the Signable audit trail) are on file [^12]. The rate, default rate, term and repayment mechanism
-are now verified from the agreement; the instalment amount and final payment date still rest on
-the group's Loans wiki and the repayment schedule that is not yet filed, so they stay
-`(unverified)`. The heads of terms, the loan application, the trustees' board minute for the loan,
-the Companies House certificate, the Land Registry official copies and the repayment schedule
-still exist only as email attachments; see `Outputs/attachments-to-download-from-gmail.md`.
+the Signable audit trail) are on file [^12], and since later the same day so are the **heads of
+terms** [^13], the **loan application** [^14], the **trustees' board minute and indemnity letter**
+[^15] and the **repayment schedule** [^16]. Rate, default rate, term, instalment, payment dates,
+final payment date and the property valuation relied on are all now verified from documents.
+The Companies House certificate and the Land Registry official copies still exist only as email
+attachments; see `Outputs/attachments-to-download-from-gmail.md`.
 
 Asset Register id: none yet. When issued it will be `FSS 0001` with `Asset class` "Loanback
 receivable", `Loan type` "SSAS loanback", `Counterparty` Fishbone Commercial Properties Ltd.
@@ -68,6 +72,14 @@ receivable", `Loan type` "SSAS loanback", `Counterparty` Fishbone Commercial Pro
 | Security under the agreement | Schedule 2: "Full Legal Mortgage, Blanket Charge, 145 High Street East, Wallsend, NE28 7RL [Land Registry Title Number TY59507]"; Schedule 3 adds covenants to keep the property repaired and insured and not to dispose of or charge it without consent; cl. 10.2 lets the Lender satisfy any debt from the sale of any other property it holds a charge over | [^12] p.10 Sch. 2, pp.11-13 Sch. 3, p.7 cl. 10 |
 | Events of default | ten in Schedule 1: any breach, security ceasing to be effective, cross-default, material adverse change, failure to insure, insolvency, arrangement with creditors, winding-up or receivership, enforcement against assets, and **a change of control of the Borrower** | [^12] p.9 Sch. 1 |
 | Borrower's covenants | no other borrowing, guarantees or security without consent; notify any default; keep the Lender informed; no disposal of substantial assets or change of business; pay trade creditors on time; keep proper books | [^12] pp.5-6 cl. 4 |
+| Heads of terms | Empowered Lending "Loanback Heads of Terms" EP/LB/60, completed 07/04/2025: loan 41,500.00; interest rate **10.00 struck through and 5.50 written in**, default rate 10.00 struck through and 8.25 in; 60 months; capital and interest monthly; purpose "Bridging loan to purchase property", within the borrower's SIC code; security a first-ranking fixed charge on property; legal fees paid by the borrower; Empowered Lending's default solicitor; 10-working-day service level; webform date 17/02/2025 | [^13] p.1 |
+| Property valuation relied on | **145,000.00** for 145 High Street East (TY59507), evidenced by `145_High_Street_East-_Wallsend-_NE28_7RL.pdf` and a GOV.UK title summary of 17/03/2025 uploaded with the application; the valuation file itself is not in this knowledge base (the FCP knowledge base holds the March 2025 valuation). The loan is 28.6 percent of that value by recount | [^13] p.1, [^14] pp.4-5 |
+| "Residential property fit for habitation?" | answered "Yes" on the heads of terms and the application, although the loan is described as commercial elsewhere | [^13] p.1, [^14] p.5 |
+| Loan application | Empowered Lending web form V2.2024, 11 pages, with the lender's guidance: a valuation no older than six months, a RICS site valuation recommended, an estate agent's opinion not accepted, the valuation to be addressed to the trustees; application fee 350.00; 150.00 per round of changes to the heads of terms; the trustees acknowledge the HMRC unauthorised-payment risk of the fixed-charge route; the corporate trustee "will act as Security Agent" and hold the security in a nominee | [^14] pp.3-4, 6-7 |
+| Trustees' board minute | meeting dated 18/03/2025 "held at" the administrator's Felcourt office, all four trustees present, M Gaudiesius in the chair: the loan agreed per the heads of terms; all of the borrower's directors to sign the loan documents; Companies House record confirmed current; the borrower's articles permit the borrowing; the borrower confirmed solvent. Signed for the scheme by the three member trustees and Empowered Trustees Ltd and for the borrower by its two directors, all through Signable on 04/04/2025 | [^15] p.1 |
+| Indemnity letter | dated 18/03/2025 to Lars Singleton: the board has considered the risks, accepts that no FCA-regulated advice was given by Empowered Pensions Ltd or Empowered Trustees Ltd, proceeds on condition that trustee liabilities are limited to the scheme's assets, and instructs Empowered Pensions Ltd to implement the investment. Signed by the three member trustees 04/04/2025 (home addresses on the letter, not repeated) | [^15] p.2 |
+| Repayment schedule | Empowered "Loan Calculation results", client ref K0555, "for period 29/04/2025 to 29/04/2030 (60 months or 5 years)", header "Base Rate = 5.00, New interest rate is 5.50%": **60 level payments of 790.13** (the last 790.48) on the 29th of each month from 29/05/2025 to 29/01/2026 and on the 28th from 28/02/2026 to **28/04/2030**, each split into capital and interest on the reducing balance; opening balance 41,500.00, closing 0.00 | [^16] pp.1-2 |
+| Schedule arithmetic (recount) | the interest column is 0.44717 percent a month, the monthly equivalent of 5.5 percent a year compounded annually, on the balance after the previous payment; a level annuity at that rate over 60 months is 790.13 exactly; total payable 47,408.15, of which interest 5,908.15; balance after the 28/08/2026 payment 31,495.87 | recomputed from [^16] |
 | Signatures on the agreement | electronically through Signable: M Gaudiesius, A Prutkovas and I Fedonina as member trustees and Lars Singleton for Empowered Trustees Ltd on 10 and 11/04/2025; M Gaudiesius and A Prutkovas again as directors of the Borrower 10/04/2025; the envelope completed by Empowered Lending's loans administrator on 16/04/2025, the date the agreement bears, with Dollman & Pritchard copied in | [^12] pp.14-16 |
 | Security deed | Legal Mortgage dated 29 April 2025, 44 numbered pages plus cover | [^1] cover, p.3 |
 | Security | first legal mortgage over "all that freehold property known as 145 High Street East, Wallsend, Tyne and Wear NE28 7RL forming part only of the land registered at HM Land Registry under title number TY59507, as shown coloured blue on the attached plan"; fixed charges over insurance policies, contracts and licences; assignment of insurance proceeds | [^1] p.9 cl. 3, p.39 Sch. 1 |
@@ -86,17 +98,27 @@ receivable", `Loan type` "SSAS loanback", `Counterparty` Fishbone Commercial Pro
 
 Terms from the group's Loans wiki on Drive (facility page 21/08/2026, reference `K0555`): interest
 5.5 percent tracking base rate; 60 months; 790.13 a month; final payment 28/04/2030; balance
-31,495.87 as at 21/08/2026. Against the agreement now on file [^12]: the 5.5 percent rate is
-right, but the agreement states it as a flat rate with no base-rate link, so "tracking base rate"
-is the Loans wiki's gloss, not the contract; 60 months is right; **790.13 a month does not follow
-from clause 7**, which produces equal capital instalments of 691.67 plus interest on the falling
-balance (881.88 in month one, declining), whereas 790.13 is within a few pounds of a level
-annuity payment on 41,500 at 5.5 percent over 60 months (792.70 by recount). Which basis the
-parties actually run is a matter for the repayment schedule sent to RMT Accountants [^10], not
-yet filed; the instalment amount, the final payment date and the balance stay `(unverified)`.
-The Fishbone Commercial Properties Ltd knowledge base records the same loan from the
-borrower's side (accounts to 30/04/2025 showing a secured loan of 41,500; bank statements showing
-790.13 leaving around the 29th of each month); link there, do not copy.
+31,495.87 as at 21/08/2026. ~~None of them evidenced by a document in this knowledge base.~~ The
+repayment schedule [^16], filed 2026-09-07, is the source of every one of them: the Loans wiki's
+`K0555` is the schedule's client reference; 790.13 and 28/04/2030 are its figures; 31,495.87 is
+its balance **after the payment of 28/08/2026** (the balance a week earlier, at 21/08/2026, was
+32,142.27, so the Loans wiki's "as at" date is loose). "Tracking base rate" is the Loans wiki's
+gloss: the agreement states 5.50 percent with no base-rate link [^12], and the schedule's header
+"Base Rate = 5.00, New interest rate is 5.50%" is a calculator parameter whose meaning is not
+explained `(unverified)`.
+
+**The schedule and the agreement do not say the same thing.** Clause 7 of the agreement [^12]
+defines each repayment as the balance divided by the repayment dates remaining, which is equal
+capital of 691.67 a month plus interest on the falling balance (881.88 in month one, declining).
+The schedule [^16] is instead a level annuity of 790.13 a month at 5.5 percent compounded
+annually, and that is what the borrower actually pays: the Fishbone Commercial Properties Ltd
+knowledge base shows 790.13 leaving its account around the 29th of each month, and its accounts
+to 30/04/2025 show a secured loan of 41,500 (link there, do not copy). Both bases repay 41,500
+over 60 months at 5.5 percent; they differ in the profile (the annuity front-loads interest and
+pays 5,908.15 in total against about 5,613 under clause 7, by recount) and in what happens if
+either side ever relies on the contract wording. Which document the parties treat as governing
+is not resolved here (section 6a of `CLAUDE.md`); it is an open question for the trustees and
+the administrator.
 
 ## Details
 
@@ -154,24 +176,31 @@ Ltd; the trustees' side has a board minute and indemnity letter among the Signab
 
 | Condition | Evidence on file | Status |
 |---|---|---|
-| Secured by a first charge over assets of at least equal value | First legal mortgage executed 29/04/2025 [^1]; no valuation on file; the FCP knowledge base flags that the March 2025 valuation assumed structural repairs still in progress | charge: verified; value: `(unverified)` |
+| Secured by a first charge over assets of at least equal value | First legal mortgage executed 29/04/2025 [^1]; the heads of terms and application declare a property value of 145,000.00, 3.5 times the loan [^13] [^14]; the valuation report itself is in the FCP knowledge base, which flags that it assumed structural repairs still in progress | charge: verified; value: verified as declared to the lender, the report `(not on file here)` |
 | Amount no more than 50 percent of the scheme's net assets | The deed's Maximum Amount is 50 percent of the scheme's value [^1] p.6; the scheme's value at 16/04/2025 is not on file. The transfer values quoted for the three members' transfers in, before contributions or growth, put the loan at about 39 to 41 percent, **but the third member's Aviva transfer had not completed by July 2025 and her Nest transfer is not evidenced as completed**, so at April 2025 the scheme most likely held only the two directors' transfers, against which 41,500 is about 49.8 percent; see [Transfers in](../Finance/transfers-in.md) | `(unverified: quoted values, not receipts)` **and close to the limit** |
 | Interest at least 1 percent above base rate | Agreement: 5.50 percent flat [^12] cl. 6.1. The Bank of England base rate on 16/04/2025 was 4.50 percent `(unverified: not from a document on file)`, so the rate met the minimum exactly at signing; HMRC's test is applied at the date the loan is made, and a flat rate cannot fall below it afterwards | verified as to the rate; the base-rate comparison `(unverified)` |
 | Term no more than five years | Agreement: repayable no later than five years from Drawdown [^12] cl. 7.1 | verified |
-| Equal instalments of capital and interest | Agreement clause 7 produces equal **capital** instalments with interest on the reducing balance, so the total paid falls each year; the Loans wiki's level 790.13 a month would meet the test but is not what clause 7 says. Which one the repayment schedule follows decides this | **open**: `(unverified until the repayment schedule is filed)` |
+| Equal instalments of capital and interest | The repayment schedule [^16] is 60 level payments of 790.13 (the last 790.48), so the amount repaid in each year of the term is equal, which is what the condition asks; it is what the borrower pays. Agreement clause 7 [^12] describes equal capital instalments instead, which would not give equal annual totals | met **as run on the schedule**; the agreement's wording differs (see above) |
 
 ## Open questions
 
 - ~~The **loan agreement dated 16 April 2025**: principal, rate, term, repayment schedule, default
   interest. Dollman & Pritchard (ref AJA/FIS53.1) or Empowered Pensions Ltd should hold it.
   The signed copy is attached to the Signable email of 16/04/2025 [^6]; a person needs to save it
-  into `Raw/`.~~ Filed 2026-09-07 [^12]. Still wanted: the heads of terms, loan application and
-  the trustees' board minute and indemnity letter [^5], and the repayment schedule [^10].
-- **Which repayment basis is actually run**: clause 7's equal capital instalments (881.88 falling
-  to about 695 a month) or the level 790.13 a month the Loans wiki and the borrower's bank
-  statements show. If the latter, the schedule departs from the agreement's wording and should
-  be reconciled with the administrator; if the former, the HMRC equal-instalments condition needs
-  looking at. The repayment schedule sent to RMT on 17/12/2025 [^10] answers it.
+  into `Raw/`.~~ Filed 2026-09-07 [^12], followed the same day by the heads of terms, the
+  application, the board minute and indemnity letter and the repayment schedule [^13] to [^16].
+- ~~**Which repayment basis is actually run**~~ Answered 2026-09-07: the level annuity of 790.13
+  a month per the administrator's schedule [^16]. **Still open: the agreement's clause 7 says
+  equal capital instalments.** The trustees should ask the administrator to confirm in writing
+  that the schedule governs, or to correct the agreement, so that the contract and the payments
+  match.
+- The schedule's header "Base Rate = 5.00": what the calculator means by it, given the Bank of
+  England base rate was 4.50 percent in April 2025 `(unverified)`.
+- "Residential property fit for habitation: Yes" on the heads of terms and application [^13]
+  [^14], for a loan elsewhere described as commercial; whether that answer was intended.
+- The application says Empowered Trustees Ltd would hold the security as Security Agent through a
+  nominee [^14] p.7; the executed mortgage names the four trustees directly as Lender [^1] p.3.
+  Which is right in practice, and whether it matters for the taxable-property rules.
 - The Borrower's board minute required by clause 2.1(b) [^12]: whether it exists, in the Fishbone
   Commercial Properties Ltd knowledge base.
 - ~~Evidence that the charge was registered at Companies House against company 13687238 (form
@@ -183,8 +212,9 @@ Ltd; the trustees' side has a board minute and indemnity letter among the Signab
   transfers). The scheme's actual value at 16/04/2025, from the Metro Bank balance or the
   administrator's loan file, would settle it.
 - RMT Accountants understood the loan to be 40,147.80; the borrower's accounts should carry 41,500.
-- The valuation of 145 High Street East relied on for the loan, and whether the repairs it
-  assumed are complete.
+- The valuation of 145 High Street East relied on for the loan (145,000.00 per the heads of
+  terms [^13]; the report is in the FCP knowledge base), and whether the repairs it assumed are
+  complete.
 - The scheme's value at 16/04/2025, to test the 50 percent limit.
 - The repayment record from the scheme's Metro Bank statements (none on file).
 - Whether the loan was reported to HMRC where an Event Report requires it.
@@ -198,6 +228,7 @@ Ltd; the trustees' side has a board minute and indemnity letter among the Signab
 | 2026-09-06 | Loan process, agreement signing, charge registration at Companies House and the Land Registry, repayment schedule and borrower adherence found in Gmail; 50 percent test recomputed for April 2025 | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
 | 2026-09-07 | Reciprocal `related:` links repaired | `Outputs/change-log-2026-09-07-email-outstanding-items-addendum.md` |
 | 2026-09-07 | Signed loan agreement LA01801 filed and read: parties, 5.50 percent flat, 8.25 percent default, five years from Drawdown, equal capital instalments, fees, covenants, events of default, signatures; HMRC table and Loans-wiki comparison rewritten; repayment-basis question opened | `Outputs/change-log-2026-09-07-loan-agreement-filed.md` |
+| 2026-09-07 | Heads of terms, loan application, board minute and indemnity letter, and repayment schedule filed and read: valuation 145,000, level annuity 790.13 to 28/04/2030 confirmed as what is run, Loans-wiki figures traced to the schedule, HMRC security-value and equal-instalments rows updated, clause 7 discrepancy and three smaller questions opened | `Outputs/change-log-2026-09-07-loan-pack-filed.md` |
 
 ## Sources
 
@@ -212,4 +243,8 @@ Ltd; the trustees' side has a board minute and indemnity letter among the Signab
 [^9]: [Gmail: "REGISTRATION COMPLETED ...", Dollman & Pritchard, 26/01/2026, and "BALANCE TO BORROWER", 30/01/2026](https://mail.google.com/mail/u/0/#all/19bfa3258b50f266) `(email; official copies not on file)`
 [^10]: [Gmail: "Re: Fishbone Commercial Properties Ltd - SSAS Loan", bookkeeper to RMT Accountants, 17/12/2025, repayment schedule attached](https://mail.google.com/mail/u/0/#all/19b2bebb75994919) `(email; schedule not on file)`
 [^11]: [Gmail: "RE: Loanback Application ... LA01801", Dollman & Pritchard and owner, 07/04 to 16/04/2025: title TY59507 covers 145 High Street East and 2 & 2A Ferndale Avenue; charge over 145 High Street East only](https://mail.google.com/mail/u/0/#all/19614f0e4ba798b9) `(email)`
+[^13]: [Loanback Heads of Terms EP/LB/60, Empowered Lending, completed 07/04/2025, 4 pages with text layer (terms p.1, borrower directors p.2, Signable audit trail pp.3-4); p.1 also read as an image to confirm the struck-through 10.00 rates](<../../Raw/FishboneSSAS_Loanback(£41.5k)_HoTs_2025-04-xx.pdf>)
+[^14]: [Loanback Application V2.2024, Empowered Lending web form, submitted 17/03/2025, signed through Signable 04/04/2025, 11 pages with text layer (guidance pp.1-4, borrower and property pp.4-5, declaration and signatories pp.6-8, process map p.9, audit trail pp.10-11)](<../../Raw/FishboneSSAS_Loanback(£41.5k)_LoanApp_2025-03-17.pdf>)
+[^15]: [Board Minute of the Fishbone SSAS dated 18/03/2025 and indemnity letter of the same date to Lars Singleton, signed through Signable 04/04/2025, 4 pages with text layer (minute p.1, letter p.2, audit trail pp.3-4)](<../../Raw/FishboneSSAS_Loanback(£41.5k)_BrdMin&IndemnLttr-2025-04-xx.pdf>)
+[^16]: [Fishbone SSAS Loan Calculation results, client ref K0555, 29/04/2025 to 29/04/2030, 2 pages, read as page images and cross-checked against the text layer](<../../Raw/Fishbone Loanback Repayment Schedule.pdf>)
 [^12]: [Loan Agreement LA01801, Lender the Trustees of the Fishbone SSAS, Borrower Fishbone Commercial Properties Ltd, made on 16 Apr 2025, Empowered Pensions Limited template signed through Signable, 16 pages with text layer](<../../Raw/FishboneSSAS_Loanback(£41.5k)_LA01801_2025-04-xx.pdf>) - cover p.1; contents p.2; parties, recitals and definitions p.3; clauses 1-3 pp.4-5; clause 4 pp.5-6; clauses 5-7 pp.6-7; clauses 8-13 pp.7-8; Schedule 1 p.9; Schedule 2 p.10; Schedule 3 pp.11-13; signatures p.14; Signable audit trail pp.15-16

@@ -4,8 +4,9 @@ category: Suppliers
 status: active
 sensitive: false
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
+  - ../../Raw/FishboneSSAS_Loanback(£41.5k)_LoanApp_2025-03-17.pdf
   - ../../Raw/Board minutes (Fishbone Drylining Ltd resolution to establish the scheme, copied from Drive Staff (SSAS) legacy folder 2026-09-06).pdf
   - ../../Raw/HMRC notification of registration 2021-12-06 (Certificates - Fishbone SSAS.pdf, copied from Drive Staff (SSAS) legacy folder 2026-09-06).pdf
   - ../../Raw/TPR re-declaration summary 2023-11-07 (Redeclaration - 8. Summary and check, copied from Drive Staff (SSAS) legacy folder 2026-09-06).pdf
@@ -94,6 +95,7 @@ in 2018 and therefore `(unverified)` as current rates:
 | Annual review meeting by teleconference | | free |
 | Scheme borrowing including charge registration | completion | 250 |
 | Scheme lending: loanback set-up, service standard 10 working days | | 250 |
+| Loanback application fee actually charged in 2025 (Empowered Lending web form): 350.00, plus a 45.00 transaction fee; 150.00 for each round of changes to the heads of terms; a 10-working-day service level from a complete application to readiness to transfer funds | in advance | 350 plus 45 [^15] |
 | Scheme lending: annual facility fee | annually in advance | 500, or 250 where trustee competency is evidenced |
 | Loan extension letter | per loan | 100 |
 | Metro Bank account set-up and annual fee | | free |
@@ -139,6 +141,7 @@ trustee, [Empowered Trustees Ltd](../People/empowered-trustees.md), which execut
 | 2026-09-06 | Fee schedule, TPR contact, administration agreement on file but unread; links to the new articles | `Outputs/change-log-2026-09-06-loan-security-and-governing-documents.md` |
 | 2026-09-06 | Signed agreement page photographed; transfer handling | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
 | 2026-09-06 | Setup emails of 2021, group companies, staff, invoices, fees notice, expense claim and annual accounts email found in Gmail | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
+| 2026-09-07 | 2025 loanback application fee and change fee from the filed application | `Outputs/change-log-2026-09-07-loan-pack-filed.md` |
 
 ## Sources
 
@@ -155,4 +158,5 @@ trustee, [Empowered Trustees Ltd](../People/empowered-trustees.md), which execut
 [^11]: [Gmail: "Contributions and Annual Accounts", Eloise Martin, 19/01/2023, "End of year reports 2022 Fishbone SSAS.zip" attached](https://mail.google.com/mail/u/0/#all/185cac58624ac168) `(email; attachment not on file)`
 [^12]: [Gmail: "Empowred Pensions Fees - Good News for 2024", Lars Singleton, 30/11/2023](https://mail.google.com/mail/u/0/#all/18c1fb1bdf594f19) `(email; PDF not on file)`
 [^13]: [Gmail: "Introduction - New Scheme Administrator", 18/07/2025, and the Xero invoice notices EA-1578 to EA-5626, May 2025 to June 2026](https://mail.google.com/mail/u/0/#all/1981d4a0ae3a2806) `(email)`
+[^15]: [Loanback Application V2.2024, Empowered Lending web form, 17/03/2025, and Loan Agreement LA01801 cl. 8.1](<../../Raw/FishboneSSAS_Loanback(£41.5k)_LoanApp_2025-03-17.pdf>) pp.2, 5-6
 [^14]: [Gmail: "Request for repayment of expenses in relation to Fishbone SSAS", Lars Singleton, 22/11/2024](https://mail.google.com/mail/u/0/#all/1935307698813a83) `(email)`
