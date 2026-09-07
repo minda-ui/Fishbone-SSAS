@@ -4,7 +4,7 @@ category: Finance
 status: active
 sensitive: true
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - ../../Raw/Aviva transfer request questionnaire - M Gaudiesius, TK10976611, signed 2022-06-29 (Aviva transfer Mr Mindaugas Gaudiesius.pdf, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).pdf
   - ../../Raw/Empowered Pensions transfer-in letter and client agreement - M Gaudiesius, Aviva TK10976611, 2023-02-22 (2023 - Minda document 1.pdf, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).pdf
@@ -19,6 +19,9 @@ sources:
   - https://mail.google.com/mail/u/0/#all/188e3a07e665f8fb (Gmail: Aviva TK10976612, MoneyHelper appointment, 22/06 to 24/07/2023)
   - https://mail.google.com/mail/u/0/#all/1982bd1c68133e01 (Gmail: Aviva TK11302182, amber flags, 18/07/2025)
   - https://mail.google.com/mail/u/0/#all/19866227c0ef252e (Gmail: signed Aviva declaration returned, 01/08/2025)
+  - https://mail.google.com/mail/u/0/#all/182398461638884e (Gmail: Aviva TK10976611 transfer questionnaire returned 09/03/2023, TPR certificate sent 15/03/2023)
+  - https://mail.google.com/mail/u/0/#all/187754dca6fb7520 (Gmail: MoneyHelper safeguarding appointment booked for 15/05/2023, forwarded to Aviva)
+  - https://mail.google.com/mail/u/0/#all/1881fc0a5abc5d27 (Gmail: safeguarding summary forwarded 16/05/2023; Aviva due diligence complete 17/05/2023)
 related:
   - ../People/m-gaudiesius.md
   - ../People/a-prutkovas.md
@@ -41,7 +44,7 @@ aggregate is the best available estimate of the scheme's size for the loanback's
 
 | Member | Ceding provider and plan | Steps evidenced | Source |
 |---|---|---|---|
-| M Gaudiesius | Aviva "Designer Pension", plan TK10976611, an employer pension | Authority form signed for Empowered Pensions, photographed 14/10/2021 [^8]; Aviva transfer questionnaire signed 29/06/2022 naming Fishbone Drylining Ltd (07948220) as the establishing employer, the three trustees, and "commercial property" as the intended investment [^1]; a second questionnaire 07/03/2023 `(seen in the legacy folder, not filed)`; Empowered letter 22/02/2023 confirming a full cash transfer out arranged without advice, and client agreement signed 21/02/2023 [^2]; **completed: the administrator confirmed on 15/06/2023 that the transfer was in the scheme's Metro Bank account** and sent Aviva's closing letter on 29/06/2023 [^10] | [^1] [^2] [^8] [^10] |
+| M Gaudiesius | Aviva "Designer Pension", plan TK10976611, an employer pension | Authority form signed for Empowered Pensions, photographed 14/10/2021 [^8]; Aviva transfer questionnaire signed 29/06/2022 naming Fishbone Drylining Ltd (07948220) as the establishing employer, the three trustees, and "commercial property" as the intended investment [^1]; a second questionnaire 07/03/2023 `(seen in the legacy folder, not filed)`; Empowered letter 22/02/2023 confirming a full cash transfer out arranged without advice, and client agreement signed 21/02/2023 [^2]; Aviva first closed the request in November 2022 for want of documents and new letters of authority were signed in January 2023 [^14]; the owner returned Aviva's questionnaire on 09/03/2023, posted the HMRC certificate by recorded delivery on 24/02/2023 and emailed the TPR certificate 15/03/2023 [^15]; Aviva required a MoneyHelper safeguarding appointment, held 15/05/2023, and confirmed its due diligence complete on 17/05/2023 [^16]; **completed: the administrator confirmed on 15/06/2023 that the transfer was in the scheme's Metro Bank account** and sent Aviva's closing letter on 29/06/2023 [^10] | [^1] [^2] [^8] [^10] [^14] [^15] [^16] |
 | A Prutkovas | Aviva "Designer Pension", plan TK10976612, an employer pension | Authority form signed, photographed 14/10/2021 [^9] and again 20/01/2023 `(legacy folder)`; Aviva transfer form signed 19/03/2023, Empowered letter 14/03/2023 and client agreement, all in one scan [^3]; Aviva required a MoneyHelper safeguarding appointment (requested 07/06/2023, chased by the administrator 22/06, 07/07 and 24/07/2023, reference supplied 24/07/2023) [^11]; the administrator invoiced an Aviva transfer fee on 10/07/2023 `(email subject only)`; **completion not evidenced in the mailbox** | [^3] [^9] [^11] |
 | I Fedonina | Aviva personal pension, plan TK11302182 | Empowered letter 29/10/2024 confirming a full cash transfer out arranged without advice, Aviva transfer form signed 29/10/2024 [^4]; client agreement, hand-dated 2024 [^5]; Aviva transfer questionnaire signed 25/02/2025 naming Fishbone Properties as the employer and "purchase of commercial property" as the intended investment `(legacy folder, 9.9 MB, not filed)`; **Aviva's Transfer Out Safeguarding Team raised two amber flags on 18/07/2025** (the receiving scheme allows high-risk, unregulated and unorthodox investments, commercial property included) and asked for a signed declaration before considering the transfer further [^12]; a signed declaration was scanned and emailed on 01/08/2025 [^13]; **no completion or MoneyHelper appointment is evidenced in the mailbox** | [^4] [^5] [^12] [^13] |
 | I Fedonina | Nest workplace pension | Nest transfer-out questionnaire, employer given as Fishbone Properties Ltd, expected investment "commercial properties" [^6]; Nest's "pension scheme's declaration" page, unsigned in the copy on file [^5]; both plans listed as transfers-in on her application form of 05/01/2024 [^7] | [^5] [^6] [^7] |
@@ -106,6 +109,7 @@ either the member's answer or Aviva's letter is wrong `(unverified)`.
 |---|---|---|
 | 2026-09-06 | Created from the nine Raw items in the front matter | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
 | 2026-09-06 | Completion, safeguarding and amber-flag correspondence from Gmail; 50 percent test recomputed for April 2025 on the two directors' transfers | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
+| 2026-09-07 | First director's Aviva transfer: the 2022 closure, the 2023 questionnaire and certificates, and the MoneyHelper step, from the owner's sent mail | `Outputs/change-log-2026-09-07-email-outstanding-items-addendum.md` |
 
 ## Sources
 
@@ -122,3 +126,6 @@ either the member's answer or Aviva's letter is wrong `(unverified)`.
 [^11]: [Gmail: "Aviva Policy TK10976612 Transfer Mr Prutkovas's - Fishbone SSAS", Empowered Pensions, 22/06 to 24/07/2023](https://mail.google.com/mail/u/0/#all/188e3a07e665f8fb) `(email)`
 [^12]: [Gmail: "Fwd: FW: Aviva - Pension Transfer - Missing information request", Aviva Transfer Out Safeguarding Team, 18/07/2025, forwarded 21/07/2025](https://mail.google.com/mail/u/0/#all/1982bd1c68133e01) `(email)`
 [^13]: [Gmail: untitled, owner, 01/08/2025, "Fedonina - Declaration.pdf" sent for signature and returned scanned the same day](https://mail.google.com/mail/u/0/#all/19866227c0ef252e) `(email; attachment not on file)`
+[^14]: [Gmail: "Fishbone SSAS - Aviva Transfer", Empowered Pensions, 10/11/2022 to 21/02/2023](https://mail.google.com/mail/u/0/#all/18461503167494a6) `(email)`
+[^15]: [Gmail: "Pension Transfer", Aviva and owner, 26/07/2022 to 15/03/2023](https://mail.google.com/mail/u/0/#all/182398461638884e) `(email; questionnaire and certificates attached, not on file)`
+[^16]: [Gmail: MoneyHelper appointment 12/04/2023 and "Your Pension Safeguarding guidance appointment summary", Aviva reply 17/05/2023](https://mail.google.com/mail/u/0/#all/1881fc0a5abc5d27) `(email)`

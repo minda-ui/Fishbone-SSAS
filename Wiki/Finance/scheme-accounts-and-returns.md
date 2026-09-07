@@ -4,7 +4,7 @@ category: Finance
 status: draft
 sensitive: false
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - https://mail.google.com/mail/u/0/#all/185cac58624ac168 (Gmail: Contributions and Annual Accounts, 19/01/2023, accounts 06/04/2021 to 05/04/2022 attached)
   - https://mail.google.com/mail/u/0/#all/19dcdf43ac81436a (Gmail: Empowered Group webinar reminder, SSAS annual accounts and HMRC, 27/04/2026)
@@ -28,6 +28,7 @@ questions it opens. Status `draft` until a set of accounts or a return is filed 
 | Scheme year end | 5 April: the first accounts cover 06/04/2021 to 05/04/2022 | [^1] `(email)` |
 | First annual accounts | sent by the administrator on 19/01/2023 in `End of year reports 2022 Fishbone SSAS.zip`, password-protected with the PSTR, with a request to approve them "for submission to HMRC" by 23/01/2023 | [^1] `(email; attachment not on file)` |
 | Who prepares and files | the scheme administrator, Empowered Pensions; see [Empowered Pensions Ltd](../Suppliers/empowered-pensions.md) | [^1] |
+| Owner's approval of the 2021-22 accounts | requested by 23/01/2023; **no reply exists in the owner's sent mail**, so approval, if given, was by phone or from another address | [^1] `(absence in sent mail, checked 2026-09-07)` |
 | Later years | no accounts for 2022-23 onwards, no Pension Scheme Return, Event Report or TPR scheme return appear in the mailbox searches run on 2026-09-06 | `(absence of evidence, not evidence)` |
 
 ## Details
@@ -55,6 +56,7 @@ obligations are in [HMRC registration](../Finance/hmrc-registration.md).
 | Date | Change | Change-log ref |
 |---|---|---|
 | 2026-09-06 | Created as a draft stub from the administrator's email of 19/01/2023 found in Gmail | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
+| 2026-09-07 | Approval of the 2021-22 accounts not evidenced in sent mail | `Outputs/change-log-2026-09-07-email-outstanding-items-addendum.md` |
 
 ## Sources
 

@@ -4,7 +4,7 @@ category: Processes
 status: active
 sensitive: false
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - ../../Raw/Trust deed (Fishbone SSAS, copied from Drive Staff (SSAS) legacy folder 2026-09-06).pdf
   - ../../Raw/Board minutes (Fishbone Drylining Ltd resolution to establish the scheme, copied from Drive Staff (SSAS) legacy folder 2026-09-06).pdf
@@ -18,6 +18,8 @@ sources:
   - ../../Raw/Photograph of the Scheme Administration Agreement page 20 signed by both member trustees, 2021-10-14 (20211014_100946.jpg, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).jpg
   - https://mail.google.com/mail/u/0/#all/17c2bf31ba3afd73 (Gmail: application to join the Fishbone SSAS, 28/09/2021)
   - https://mail.google.com/mail/u/0/#all/17c35de94d0fb72c (Gmail: establishment pack sent, 30/09/2021)
+  - https://mail.google.com/mail/u/0/#all/17c7e23f8c271a2e (Gmail: signed documents emailed to the administrator, 14/10/2021)
+  - https://mail.google.com/mail/u/0/#all/17e350cf297e4b38 (Gmail: Initial SSAS Board Meeting arranged with the corporate trustee, 07/01/2022)
 related:
   - ../Employers/fishbone-construction-ltd.md
   - ../People/m-gaudiesius.md
@@ -93,11 +95,16 @@ corporate trustee's director could sign and date them [^12]. That is the set pho
 14/10/2021 and is why no copy on file carries a date: the dated originals are with the
 administrator `(email; attachments not on file)`.
 
+The owner emailed copies of the signed documents to the administrator at 09:30 on 14/10/2021,
+twenty minutes after the photographs were taken [^13]. After HMRC registration the corporate
+trustee arranged an "Initial SSAS Board Meeting" by Zoom; the owner's replies of 07/01/2022 fix
+it on or about 11/01/2022 [^14] `(email; no minutes on file)`.
+
 Sequence, from the dates that are on documents: application 28/09/2021 [^11], pack sent
 30/09/2021 [^12], governing documents signed by the company and
-the member trustees on or before 14/10/2021 (photograph timestamps) [^7] to [^10], commencement
+the member trustees on or before 14/10/2021 (photograph timestamps) [^7] to [^10] and emailed the same morning [^13], commencement
 28/10/2021 as declared to TPR [^6], bank account request 31/10/2021, HMRC registration 03/12/2021, notification 06/12/2021, TPR
-registration submitted 04/08/2022 [^6]. The resolution and the deed carry no date in any copy; the deed
+registration submitted 04/08/2022 [^6]; initial board meeting with the corporate trustee about 11/01/2022 [^14]. The resolution and the deed carry no date in any copy; the deed
 was presumably dated on delivery, on or about the commencement date, after the corporate trustee
 signed `(unverified)`. See
 [TPR scheme registration 2022](../Finance/tpr-scheme-registration-2022.md).
@@ -121,6 +128,7 @@ signed `(unverified)`. See
 | 2026-09-06 | Commencement date from the TPR registration; rules now on file | `Outputs/change-log-2026-09-06-loan-security-and-governing-documents.md` |
 | 2026-09-06 | Photographs of the signed execution pages of 14/10/2021 filed; sequence revised | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
 | 2026-09-06 | Application of 28/09/2021 and the establishment pack email of 30/09/2021 found in Gmail; the undated copies explained | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
+| 2026-09-07 | Signed documents emailed 14/10/2021 and the initial board meeting of January 2022, from the owner's sent mail | `Outputs/change-log-2026-09-07-email-outstanding-items-addendum.md` |
 
 ## Sources
 
@@ -136,3 +144,5 @@ signed `(unverified)`. See
 [^10]: [Photograph of the Scheme Administration Agreement page 20, signed by both member trustees, 14/10/2021](<../../Raw/Photograph of the Scheme Administration Agreement page 20 signed by both member trustees, 2021-10-14 (20211014_100946.jpg, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).jpg>)
 [^11]: [Gmail: "Your application to join the - Fishbone SSAS", 28/09/2021](https://mail.google.com/mail/u/0/#all/17c2bf31ba3afd73) `(email)`
 [^12]: [Gmail: "FW: Fishbone SSAS", Sacha Bullock, Empowered Pensions, 30/09/2021](https://mail.google.com/mail/u/0/#all/17c35de94d0fb72c) `(email; attachments not on file)`
+[^13]: [Gmail: "RE: FW: Fishbone SSAS", owner to Sacha Bullock, 14/10/2021, copies of the signed documents attached](https://mail.google.com/mail/u/0/#all/17c7e23f8c271a2e) `(email; attachments not on file)`
+[^14]: [Gmail: "RE: Initial SSAS Board Meeting", owner to Empowered Trustees, 07/01/2022](https://mail.google.com/mail/u/0/#all/17e350cf297e4b38) `(email)`

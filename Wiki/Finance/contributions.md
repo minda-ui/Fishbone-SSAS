@@ -4,7 +4,7 @@ category: Finance
 status: active
 sensitive: true
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - ../../Raw/Galaxy Payroll pension contributions report, Fishbone Drylining Ltd, 2022-12-02 (2023 - Dec 02 22 Pension Contributions (Fishbone).pdf, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).pdf
   - ../../Raw/Galaxy Payroll pension contributions report, Fishbone Drylining Ltd, 2023-01-04 (2023 - Jan 04 23 Pension Contributions (Fishbone).pdf, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).pdf
@@ -14,6 +14,7 @@ sources:
   - ../../Raw/Galaxy Payroll pension contributions report, Fishbone Drylining Ltd, 2023-05-03 (2023-Andrejus - May 03 23 Pension Contributions (Fishbone).pdf, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).pdf
   - ../../Raw/Fishbone Properties Ltd letter to Aviva on an employee's contributions to the SSAS, 2025-04 (Irina - Pension letter (1).pdf, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).pdf
   - https://mail.google.com/mail/u/0/#all/185cac58624ac168 (Gmail: Contributions and Annual Accounts, 19/01/2023)
+  - https://mail.google.com/mail/u/0/#all/185ca8e6fec7254b (Gmail: Contributions, owner's reply 20/01/2023)
 related:
   - ../Employers/fishbone-construction-ltd.md
   - ../Employers/fishbone-properties-ltd.md
@@ -64,7 +65,9 @@ The administrator's position on how contributions are made is in its email of 19
 is no paperwork required ... it would just be transferring your chosen amount into the Metro
 Bank account" [^8]. The same email sent the bank details, which the owner said he did not have
 at that date, so no contribution by the principal employer or its directors is likely before
-January 2023 `(inference)`.
+January 2023 `(inference)`. The owner replied on 20/01/2023: "We will start making contributions
+from 1st February" [^9]. Whether that happened, and from which account, is still unevidenced;
+the payroll reports from February to May 2023 still show only the Aviva deduction.
 
 ## Open questions
 
@@ -82,6 +85,7 @@ January 2023 `(inference)`.
 |---|---|---|
 | 2026-09-06 | Created from the seven Raw items in the front matter | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
 | 2026-09-06 | Administrator's guidance on paying contributions, 19/01/2023, found in Gmail | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
+| 2026-09-07 | Owner's stated intention to contribute from 01/02/2023, from sent mail | `Outputs/change-log-2026-09-07-email-outstanding-items-addendum.md` |
 
 ## Sources
 
@@ -93,3 +97,4 @@ January 2023 `(inference)`.
 [^6]: [Galaxy Payroll pension contributions report, pay date 03/05/2023](<../../Raw/Galaxy Payroll pension contributions report, Fishbone Drylining Ltd, 2023-05-03 (2023-Andrejus - May 03 23 Pension Contributions (Fishbone).pdf, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).pdf>)
 [^7]: [Fishbone Properties Ltd letter to Aviva, 2025, on letterhead with company number 09687012](<../../Raw/Fishbone Properties Ltd letter to Aviva on an employee's contributions to the SSAS, 2025-04 (Irina - Pension letter (1).pdf, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).pdf>)
 [^8]: [Gmail: "Contributions and Annual Accounts", Empowered Pensions, 19/01/2023](https://mail.google.com/mail/u/0/#all/185cac58624ac168) `(email)`
+[^9]: [Gmail: "Re: Contributions", owner to Eloise Martin, 20/01/2023](https://mail.google.com/mail/u/0/#all/185ca8e6fec7254b) `(email)`
