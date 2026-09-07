@@ -1,6 +1,9 @@
 # Attachments to download from Gmail into `Raw/`
 
-**Standing output, current as of 2026-09-07 (A1 to A5 saved).** Built at the owner's request from the Session 4 entry
+**Standing output, current as of 2026-09-07 (A1 to A5 and A7 to A9 saved).** Also on 2026-09-07,
+three documents not on this checklist arrived directly in `Raw/` — a Scheme Valuation, a Portfolio
+Valuation and a Statement of Account, all as at 5 April 2025 — most likely from the administrator's
+client portal rather than Gmail; see `Outputs/kb-registers.md`. Built at the owner's request from the Session 4 entry
 (`Outputs/change-log-2026-09-06-ssas-folder-extraction.md`, Part B) and the Session 5 addendum
 (`Outputs/change-log-2026-09-07-email-outstanding-items-addendum.md`), with every thread re-opened
 on 2026-09-07 so that the filenames below are the ones Gmail shows. The Gmail connector reads
@@ -32,9 +35,9 @@ version.
 | [x] 2026-09-07 | A4 | `FishboneSSAS_Loanback(£41.5k)_BrdMin&IndemnLttr-2025-04-xx.pdf` | same message as A2 | trustees' board minute approving the loan and the indemnity letter: the trustee decision the rules require |
 | [x] 2026-09-07 | A5 | `Fishbone Loanback Repayment Schedule.pdf` | bookkeeper to RMT Accountants, 17/12/2025, [19b2bebb75994919](https://mail.google.com/mail/u/0/#all/19b2bebb75994919) | the instalment schedule to monitor repayments against |
 | [ ] | A6 | `Companies House Certificate.pdf` | Dollman & Pritchard, 08/05/2025, [19681349080e39a1](https://mail.google.com/mail/u/0/#all/19681349080e39a1) (second message in the thread) | evidence the charge is registered against company 13687238 |
-| [ ] | A7 | `Official Copy of Register - EDOC REGISTRATION - TY59507.pdf` | Dollman & Pritchard, "REGISTRATION COMPLETED", 26/01/2026, [19bfa3258b50f266](https://mail.google.com/mail/u/0/#all/19bfa3258b50f266) | the title register showing the restriction |
-| [ ] | A8 | `Official Copy of Title Plan - EDOC REGISTRATION - TY59507.pdf` | same message as A7 | the plan the mortgage's Schedule 1 refers to |
-| [ ] | A9 | `Registration Completion Sheet - EDOC REGISTRATION - TY59507.pdf` | same message as A7 | HM Land Registry's confirmation of completion |
+| [x] 2026-09-07 | A7 | `Official Copy of Register - EDOC REGISTRATION - TY59507.pdf` | Dollman & Pritchard, "REGISTRATION COMPLETED", 26/01/2026, [19bfa3258b50f266](https://mail.google.com/mail/u/0/#all/19bfa3258b50f266) | the title register showing the restriction |
+| [x] 2026-09-07 | A8 | `Official Copy of Title Plan - EDOC REGISTRATION - TY59507.pdf` | same message as A7 | the plan the mortgage's Schedule 1 refers to |
+| [x] 2026-09-07 | A9 | `Registration Completion Sheet - EDOC REGISTRATION - TY59507.pdf` | same message as A7 | HM Land Registry's confirmation of completion |
 | [ ] | A10 | `Metro SSAS 2404.pdf` | owner to Empowered Lending, 24/04/2025, [1966210241eff884](https://mail.google.com/mail/u/0/#all/1966210241eff884) (the owner's own reply) | the signed transfer request that moved the 41,500 out of the scheme's account. **Contains bank details: Drive-only** |
 | [ ] | A11 | `FishboneSSAS_MetrobankForm_LA01801.zip` | Empowered Lending, 23/04/2025, same thread as A10 | the blank, password-protected form; save only if A10 is unreadable |
 | already on file | A12 | `Legal Mortgage 29 April 2025.pdf`, `Completion Statement.pdf`, `Receipted Invoice.pdf` | Dollman & Pritchard, 29/04/2025, first message of [19681349080e39a1](https://mail.google.com/mail/u/0/#all/19681349080e39a1) | the three files already in `Raw/` under these names (Session 3). Nothing to do unless a copy on file proves unreadable |
@@ -81,7 +84,7 @@ version.
 
 | Group | Files to save | Already on file or not to be filed |
 |---|---|---|
-| A. Loanback | 11 (A1 to A11), **A1 to A5 saved 2026-09-07** | 3 (A12) |
+| A. Loanback | 11 (A1 to A11), **A1 to A5 and A7 to A9 saved 2026-09-07** | 3 (A12) |
 | B. Deeds | 3 | 0 |
 | C. Accounts and fees | 2 attachments plus 8 Xero invoices behind links | 0 |
 | D. Establishment | 4 (D1 to D3, two files in D3) | 8 (D4, D5) |

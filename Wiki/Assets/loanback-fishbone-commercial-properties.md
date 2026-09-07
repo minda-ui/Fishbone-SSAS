@@ -14,6 +14,11 @@ sources:
   - ../../Raw/Legal Mortgage 29 April 2025.pdf
   - ../../Raw/Completion Statement.pdf
   - ../../Raw/Receipted Invoice.pdf
+  - ../../Raw/Official Copy of Register - EDOC REGISTRATION - TY59507.pdf
+  - ../../Raw/Official Copy of Title Plan - EDOC REGISTRATION - TY59507.pdf
+  - ../../Raw/Registration Completion Sheet - EDOC REGISTRATION - TY59507.pdf
+  - ../../Raw/2025-04-05 Fishbone SSAS Scheme Valuation Prepared.pdf
+  - ../../Raw/2025-04-05 Fishbone SSAS Portfolio Valuation.pdf
   - https://mail.google.com/mail/u/0/#all/1963deba41414b6b (Gmail: Signable confirmation, loan agreement signed, 16/04/2025)
   - https://mail.google.com/mail/u/0/#all/195ed15bd4149079 (Gmail: Empowered Lending, rate and default rate requested, 31/03 to 01/04/2025)
   - https://mail.google.com/mail/u/0/#all/19614f0e4ba798b9 (Gmail: Dollman & Pritchard instructed, 07/04 to 16/04/2025)
@@ -46,8 +51,11 @@ the Signable audit trail) are on file [^12], and since later the same day so are
 terms** [^13], the **loan application** [^14], the **trustees' board minute and indemnity letter**
 [^15] and the **repayment schedule** [^16]. Rate, default rate, term, instalment, payment dates,
 final payment date and the property valuation relied on are all now verified from documents.
-The Companies House certificate and the Land Registry official copies still exist only as email
-attachments; see `Outputs/attachments-to-download-from-gmail.md`.
+**From 2026-09-07 the Land Registry official copy, title plan and registration completion sheet
+for TY59507 are also on file** [^17] [^18] [^19], as is the administrator's own scheme valuation
+as at 5 April 2025 [^20] [^21], which verifies the scheme's net asset value for the 50 percent
+test below. The Companies House registration certificate is still only an email attachment; see
+`Outputs/attachments-to-download-from-gmail.md`.
 
 Asset Register id: none yet. When issued it will be `FSS 0001` with `Asset class` "Loanback
 receivable", `Loan type` "SSAS loanback", `Counterparty` Fishbone Commercial Properties Ltd.
@@ -95,6 +103,11 @@ receivable", `Loan type` "SSAS loanback", `Counterparty` Fishbone Commercial Pro
 | Charge registered at Companies House | Dollman & Pritchard emailed the registration certificate on 08/05/2025 | [^8] `(email; certificate not on file)` |
 | Restriction registered at HM Land Registry | "REGISTRATION COMPLETED" from Dollman & Pritchard 26/01/2026 with the Official Copy of the Register, Title Plan and Completion Sheet for TY59507 attached; a 25.00 balance was returned to the borrower 30/01/2026 | [^9] `(email; official copies not on file)` |
 | Repayment schedule | `Fishbone Loanback Repayment Schedule.pdf` attached to the group bookkeeper's email to RMT Accountants of 17/12/2025; RMT had understood the loan to be 40,147.80 (the net advance), which the trustees' own figure of 41,500 contradicts | [^10] `(email; schedule not on file)` |
+| Title TY59507 (freehold) | Fishbone Commercial Properties Ltd (13687238) has been registered proprietor since 30/05/2023, price paid 22/05/2023 was 140,000.00; the title covers 145 High Street East **and 2 and 2A Ferndale Avenue, Wallsend**, of which only 145 High Street East is charged to the scheme (confirmed by the owner 08/04/2025, [^11]); a 125-year lease from 25/09/1996 over part of 2 Ferndale Avenue is noted against the title (title TY324602) and an 1905 conveyance carries building-scheme restrictive covenants, both pre-dating the scheme and unconnected to it | [^17] pp.1-2 |
+| Charge registered at HM Land Registry (verified) | Entered 18/07/2025 against a charge dated 29 April 2025; proprietors Mindaugas Gaudiesius, Irina Fedonina, Andrejus Prutkovas and Empowered Trustees Ltd (12291059) "as trustees of The Fishbone SSAS" (home addresses on the register, not repeated here); a Form P-style restriction on disposals without the chargees' written consent was entered the same day. Solicitors' matter ref RCS/TY59507; completion confirmed to Dollman & Pritchard 24/01/2026 | [^17] pp.1-2, [^19] |
+| Further-advances entry on the register | The register records that "the proprietor of the Charge dated 29 April 2025 ... is under an obligation to make further advances", with priority under s.49(3) Land Registration Act 2002 | [^17] p.2 |
+| Scheme's net asset value at 5 April 2025 (verified) | **83,701.24**, entirely a Metro Bank deposit balance; the loan (advanced 29/04/2025) shows at nil cost and nil value because it had not yet been drawn at the valuation date | [^20] p.4, [^21] |
+| Scheme's income and expenditure, year to 5 April 2025 | Contributions 245.00 (all Irina Fedonina's employer contributions); bank interest 846; fees 1,660; other expenditure 1,791 (see [Fishbone Construction Ltd](../Employers/fishbone-construction-ltd.md)); net movement a decrease of 2,360; opening net assets 86,062, closing 83,701 | [^22] pp.2-3 |
 
 Terms from the group's Loans wiki on Drive (facility page 21/08/2026, reference `K0555`): interest
 5.5 percent tracking base rate; 60 months; 790.13 a month; final payment 28/04/2030; balance
@@ -146,12 +159,23 @@ completion statement [^2] [^3]. The borrower therefore received 40,147.80 net bu
 [^2]. ~~Neither registration is evidenced on file.~~ Corrected 2026-09-06 from Gmail: the
 solicitors emailed the Companies House registration certificate on 08/05/2025 [^8], within the
 21-day window from 29/04/2025, and on 26/01/2026 reported the Land Registry registration completed,
-attaching the official copy, title plan and completion sheet for TY59507 [^9]. The documents
-themselves are still not in `Raw/`, so the registrations are evidenced by correspondence only
-`(email)`. The solicitors' emails describe the matter as a "Blanket Charge: 145 High Street East
-and 2 & 2A Ferndale Avenue", the whole of title TY59507; the owner confirmed on 08/04/2025 that
-the charge was to be over 145 High Street East only, and the executed deed charges that part
-[^1] Sch. 1, [^11].
+attaching the official copy, title plan and completion sheet for TY59507 [^9]. **The three Land
+Registry documents themselves were saved into `Raw/` on 2026-09-07** [^17] [^18] [^19]; the
+Companies House certificate is still evidenced by correspondence only `(email)`. The register
+shows the charge dated 29 April 2025 entered on 18/07/2025 in favour of the four trustees, with a
+restriction on further disposals without their written consent, and records the solicitors'
+official copy as issued 24/01/2026 [^17] p.2, [^19] — two days ahead of the email that reported it
+[^9], not a discrepancy. The solicitors' emails describe the matter as a "Blanket Charge: 145 High
+Street East and 2 & 2A Ferndale Avenue", the whole of title TY59507; the owner confirmed on
+08/04/2025 that the charge was to be over 145 High Street East only, and both the executed deed
+and the register's restriction charge that part only, tinted pink on the title plan
+[^1] Sch. 1, [^11], [^17] p.1, [^18]. The freehold has been Fishbone Commercial Properties Ltd's
+since 30/05/2023 (price 140,000.00); the title also carries a 2018-vintage title plan revision,
+an 1905 building-scheme covenant and a 125-year lease of part of 2 Ferndale Avenue from 1996, none
+of which affect the scheme's security over 145 High Street East [^17]. **The register also records
+that the chargees are "under an obligation to make further advances"** (s.49(3) Land Registration
+Act 2002) [^17] p.2, a term not identified in the parts of the mortgage deed read so far (clauses
+6.11-29 were not summarised, section below); this is a new open question.
 
 **The deed.** The trustees are the Lender. The Secured Liabilities are everything owed under the
 Loan Agreement and any other loan agreement between the same parties [^1] p.6. Events of default
@@ -177,7 +201,7 @@ Ltd; the trustees' side has a board minute and indemnity letter among the Signab
 | Condition | Evidence on file | Status |
 |---|---|---|
 | Secured by a first charge over assets of at least equal value | First legal mortgage executed 29/04/2025 [^1]; the heads of terms and application declare a property value of 145,000.00, 3.5 times the loan [^13] [^14]; the valuation report itself is in the FCP knowledge base, which flags that it assumed structural repairs still in progress | charge: verified; value: verified as declared to the lender, the report `(not on file here)` |
-| Amount no more than 50 percent of the scheme's net assets | The deed's Maximum Amount is 50 percent of the scheme's value [^1] p.6; the scheme's value at 16/04/2025 is not on file. The transfer values quoted for the three members' transfers in, before contributions or growth, put the loan at about 39 to 41 percent, **but the third member's Aviva transfer had not completed by July 2025 and her Nest transfer is not evidenced as completed**, so at April 2025 the scheme most likely held only the two directors' transfers, against which 41,500 is about 49.8 percent; see [Transfers in](../Finance/transfers-in.md) | `(unverified: quoted values, not receipts)` **and close to the limit** |
+| Amount no more than 50 percent of the scheme's net assets | The deed's Maximum Amount is 50 percent of the scheme's value [^1] p.6. The administrator's own valuation puts the scheme's net assets at **83,701.24 on 5 April 2025** [^20] [^21], eleven days before the agreement and twenty-four before Drawdown; 41,500 is **49.58 percent** of that (recount). The Metro Bank transaction list for the year shows no further movement after 04/04/2025 [^20] p.6, so the value at 16/04/2025 was the same figure plus at most a few days' interest (about 70-75 a month, so under 3 for eleven days), which does not change the result to two decimal places | verified from the administrator's valuation, close to but under the limit |
 | Interest at least 1 percent above base rate | Agreement: 5.50 percent flat [^12] cl. 6.1. The Bank of England base rate on 16/04/2025 was 4.50 percent `(unverified: not from a document on file)`, so the rate met the minimum exactly at signing; HMRC's test is applied at the date the loan is made, and a flat rate cannot fall below it afterwards | verified as to the rate; the base-rate comparison `(unverified)` |
 | Term no more than five years | Agreement: repayable no later than five years from Drawdown [^12] cl. 7.1 | verified |
 | Equal instalments of capital and interest | The repayment schedule [^16] is 60 level payments of 790.13 (the last 790.48), so the amount repaid in each year of the term is equal, which is what the condition asks; it is what the borrower pays. Agreement clause 7 [^12] describes equal capital instalments instead, which would not give equal annual totals | met **as run on the schedule**; the agreement's wording differs (see above) |
@@ -205,18 +229,23 @@ Ltd; the trustees' side has a board minute and indemnity letter among the Signab
   Commercial Properties Ltd knowledge base.
 - ~~Evidence that the charge was registered at Companies House against company 13687238 (form
   MR01, within 21 days of 29/04/2025) and that the Form P restriction was entered on title TY59507.~~
-  Both evidenced by the solicitors' emails of 08/05/2025 and 26/01/2026 [^8] [^9]; the certificate
-  and the official copies need saving into `Raw/`.
-- **The 50 percent test at April 2025 looks tight** (about 49.8 percent of the two directors'
-  quoted transfer values, before contributions, growth, fees and the third member's later
-  transfers). The scheme's actual value at 16/04/2025, from the Metro Bank balance or the
-  administrator's loan file, would settle it.
+  Both evidenced by the solicitors' emails of 08/05/2025 and 26/01/2026 [^8] [^9]; the Land
+  Registry official copy, title plan and completion sheet were filed 2026-09-07 [^17] [^18] [^19].
+  The Companies House certificate is still an email attachment only.
+- ~~**The 50 percent test at April 2025 looks tight**~~ Answered 2026-09-07 from the
+  administrator's own valuation: the scheme's net assets were 83,701.24 on 5 April 2025, so the
+  loan is 49.58 percent, verified and under the limit but not by much [^20] [^21].
 - RMT Accountants understood the loan to be 40,147.80; the borrower's accounts should carry 41,500.
 - The valuation of 145 High Street East relied on for the loan (145,000.00 per the heads of
   terms [^13]; the report is in the FCP knowledge base), and whether the repairs it assumed are
   complete.
-- The scheme's value at 16/04/2025, to test the 50 percent limit.
-- The repayment record from the scheme's Metro Bank statements (none on file).
+- **The register's "obligation to make further advances"** (s.49(3) Land Registration Act 2002)
+  [^17] p.2: what it refers to, since the loan agreement on file describes a single drawdown with
+  nothing redrawable [^12] cl. 7.9, not a revolving or further-advance facility.
+- The repayment record from the scheme's Metro Bank statements: none is on file as a bank
+  document, though the administrator's own transaction list for the year to 05/04/2025 [^20] p.6
+  covers everything up to the loan's drawdown; the year of the loan itself (to 05/04/2026) is
+  still needed.
 - Whether the loan was reported to HMRC where an Event Report requires it.
 
 ## Changes
@@ -229,6 +258,7 @@ Ltd; the trustees' side has a board minute and indemnity letter among the Signab
 | 2026-09-07 | Reciprocal `related:` links repaired | `Outputs/change-log-2026-09-07-email-outstanding-items-addendum.md` |
 | 2026-09-07 | Signed loan agreement LA01801 filed and read: parties, 5.50 percent flat, 8.25 percent default, five years from Drawdown, equal capital instalments, fees, covenants, events of default, signatures; HMRC table and Loans-wiki comparison rewritten; repayment-basis question opened | `Outputs/change-log-2026-09-07-loan-agreement-filed.md` |
 | 2026-09-07 | Heads of terms, loan application, board minute and indemnity letter, and repayment schedule filed and read: valuation 145,000, level annuity 790.13 to 28/04/2030 confirmed as what is run, Loans-wiki figures traced to the schedule, HMRC security-value and equal-instalments rows updated, clause 7 discrepancy and three smaller questions opened | `Outputs/change-log-2026-09-07-loan-pack-filed.md` |
+| 2026-09-07 | Land Registry official copy, title plan and completion sheet filed and read: charge registration dated and detailed, further-advances entry flagged; administrator's scheme valuation as at 5/4/2025 filed, 50 percent test answered as verified (49.58 percent) | `Outputs/change-log-2026-09-07-land-registry-and-scheme-valuation.md` |
 
 ## Sources
 
@@ -248,3 +278,9 @@ Ltd; the trustees' side has a board minute and indemnity letter among the Signab
 [^15]: [Board Minute of the Fishbone SSAS dated 18/03/2025 and indemnity letter of the same date to Lars Singleton, signed through Signable 04/04/2025, 4 pages with text layer (minute p.1, letter p.2, audit trail pp.3-4)](<../../Raw/FishboneSSAS_Loanback(£41.5k)_BrdMin&IndemnLttr-2025-04-xx.pdf>)
 [^16]: [Fishbone SSAS Loan Calculation results, client ref K0555, 29/04/2025 to 29/04/2030, 2 pages, read as page images and cross-checked against the text layer](<../../Raw/Fishbone Loanback Repayment Schedule.pdf>)
 [^12]: [Loan Agreement LA01801, Lender the Trustees of the Fishbone SSAS, Borrower Fishbone Commercial Properties Ltd, made on 16 Apr 2025, Empowered Pensions Limited template signed through Signable, 16 pages with text layer](<../../Raw/FishboneSSAS_Loanback(£41.5k)_LA01801_2025-04-xx.pdf>) - cover p.1; contents p.2; parties, recitals and definitions p.3; clauses 1-3 pp.4-5; clause 4 pp.5-6; clauses 5-7 pp.6-7; clauses 8-13 pp.7-8; Schedule 1 p.9; Schedule 2 p.10; Schedule 3 pp.11-13; signatures p.14; Signable audit trail pp.15-16
+[^17]: [HM Land Registry official copy of register of title TY59507, edition date 18.07.2025, issued 24.01.2026, 3 pages, read as page images](<../../Raw/Official Copy of Register - EDOC REGISTRATION - TY59507.pdf>) - property register p.1; proprietorship and charges registers pp.1-2; schedule of restrictive covenants and notices of leases pp.2-3
+[^18]: [HM Land Registry official copy of title plan TY59507, scale 1:1250, issued 24.01.2026, 2 pages, read as page images](<../../Raw/Official Copy of Title Plan - EDOC REGISTRATION - TY59507.pdf>)
+[^19]: [HM Land Registry "Completion of registration" letter to Dollman & Pritchard (ref RCS/TY59507), 24 January 2026, 1 page](<../../Raw/Registration Completion Sheet - EDOC REGISTRATION - TY59507.pdf>)
+[^20]: [Scheme Valuation prepared as at 5th April 2025 for the trustees of the Fishbone SSAS, Empowered Pensions, scheme ref K0555, 9 pages, read as page images](<../../Raw/2025-04-05 Fishbone SSAS Scheme Valuation Prepared.pdf>) - contents p.2; client information p.3; portfolio valuation p.4; revaluation movement p.5; Metro Bank transaction list p.6; member information pp.7-9 (member-personal detail not repeated)
+[^21]: [Portfolio Valuation for Fishbone SSAS at 05/04/2025, Empowered Pensions, 1 page](<../../Raw/2025-04-05 Fishbone SSAS Portfolio Valuation.pdf>) - a standalone copy of [^20] p.4
+[^22]: [Fishbone SSAS Statement of Account for the year ended 05/04/2025, Empowered Pensions, 3 pages: Statement of Income and Expenditure, Balance Sheet at 05/04/2025](<../../Raw/2025-04-05 Fishbone SSAS Statement of Account.pdf>)

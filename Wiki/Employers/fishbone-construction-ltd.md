@@ -12,6 +12,7 @@ sources:
   - ../../Raw/TPR scheme registration certificate 2022-08-04 PSR 12018880 (The Pension Regulator Certificate.pdf, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).pdf
   - ../../Raw/Fishbone Drylining Ltd employment and sponsoring-employer letter - A Prutkovas, 2023-05-17 (2023-Andrejus - To whom it may concern.pdf, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).pdf
   - ../../Raw/Photograph of the trust deed page 3 executed by Fishbone Drylining Ltd and signed by both member trustees before a witness, 2021-10-14 (20211014_100915.jpg, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).jpg
+  - ../../Raw/2025-04-05 Fishbone SSAS Scheme Valuation Prepared.pdf
   - https://mail.google.com/mail/u/0/#all/1935307698813a83 (Gmail: request for repayment of expenses to Fishbone Drylining Ltd, 22/11/2024)
   - https://mail.google.com/mail/u/0/#all/192e28038f35ee25 (Gmail: Companies House, NM01 notice of change of name received for Fishbone Drylining Ltd 07948220, 31/10/2024)
   - https://mail.google.com/mail/u/0/#all/1a024bf301802395 (Gmail: Companies House, confirmation statement accepted for Fishbone Construction Ltd 07948220, 21/08/2026)
@@ -25,6 +26,7 @@ related:
   - ../Processes/scheme-rules.md
   - ../Employers/fishbone-properties-ltd.md
   - ../Finance/contributions.md
+  - ../Finance/scheme-accounts-and-returns.md
 ---
 
 # Fishbone Construction Ltd, formerly Fishbone Drylining Ltd (principal employer)
@@ -90,8 +92,13 @@ contributions, if any, were made outside payroll. See [Contributions](../Finance
 One transaction between the scheme and this company appears in Gmail: on 22/11/2024 a request
 was lodged with the administrator for the scheme to repay 1,791.00 to Fishbone Drylining Ltd for
 a "2 Day SSAS and Business Strategy Workshop", under the trustee-expenses declaration [^g1]
-`(email; the company's bank details in it are not repeated; payment not evidenced)`. See
-[Empowered Pensions Ltd](../Suppliers/empowered-pensions.md).
+`(email; the company's bank details in it are not repeated)`. ~~Payment not evidenced.~~
+**Paid 2026-09-07**: the administrator's own transaction list for the scheme's Metro Bank account
+records "Other Expend: DF: FISHBONE DRYLINING LTD HSBC UK BANK", 1,791.00, on 02/12/2024, ten days
+after the request [^g4] p.6 — the company's own HSBC account, not the scheme's Metro Bank account
+named elsewhere in this knowledge base. See
+[Empowered Pensions Ltd](../Suppliers/empowered-pensions.md) and
+[Scheme accounts and returns](../Finance/scheme-accounts-and-returns.md).
 
 ## Open questions
 
@@ -116,6 +123,7 @@ a "2 Day SSAS and Business Strategy Workshop", under the trustee-expenses declar
 | 2026-09-06 | Deed execution photograph, sponsoring-employer letter; Fishbone Properties Ltd split into its own article | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
 | 2026-09-06 | Expense reimbursement request of November 2024 found in Gmail | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
 | 2026-09-07 | Company number and change of name settled from Companies House's emails; new question on notifying HMRC, TPR and the administrator | `Outputs/change-log-2026-09-07-outstanding-items-pass.md` |
+| 2026-09-07 | The 1,791.00 reimbursement confirmed paid, 02/12/2024, from the administrator's transaction list | `Outputs/change-log-2026-09-07-land-registry-and-scheme-valuation.md` |
 
 ## Sources
 
@@ -128,3 +136,4 @@ a "2 Day SSAS and Business Strategy Workshop", under the trustee-expenses declar
 [^g1]: [Gmail: "Request for repayment of expenses in relation to Fishbone SSAS", 22/11/2024](https://mail.google.com/mail/u/0/#all/1935307698813a83) `(email)`
 [^g2]: [Gmail: "(NM01) Notice of change of name by resolution received for FISHBONE DRYLINING LTD.", Companies House WebFiling, 31/10/2024](https://mail.google.com/mail/u/0/#all/192e28038f35ee25) `(email)`
 [^g3]: [Gmail: "Confirmation statement accepted for FISHBONE CONSTRUCTION LTD." (07948220), Companies House WebFiling, 21/08/2026; and the accounts reminders of 20/03/2026 and 15/04/2026 for the year 30/04/2024 to 29/04/2025](https://mail.google.com/mail/u/0/#all/1a024bf301802395) `(email)`
+[^g4]: [Scheme Valuation prepared as at 5th April 2025 for the trustees of the Fishbone SSAS, Empowered Pensions, scheme ref K0555, 9 pages, read as page images](<../../Raw/2025-04-05 Fishbone SSAS Scheme Valuation Prepared.pdf>) - Metro Bank transaction list p.6

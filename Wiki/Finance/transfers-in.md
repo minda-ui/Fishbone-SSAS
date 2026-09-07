@@ -31,6 +31,7 @@ related:
   - ../Finance/contributions.md
   - ../Suppliers/metro-bank.md
   - ../Employers/fishbone-properties-ltd.md
+  - ../Finance/scheme-accounts-and-returns.md
 ---
 
 # Transfers into the scheme from members' previous pensions
@@ -58,7 +59,11 @@ timing: the first director's transfer was received in June 2023 [^10]; the secon
 still being safeguarded in July 2023 [^11]; the third member's Aviva transfer was still not
 accepted by Aviva in July 2025 [^12], so **at the loanback date of April 2025 only the two
 directors' transfers can have been in the scheme**. Their two quoted values sum to 83,405.00
-(99,956.22 less the third member's 2024 quotation), and 41,500 is 49.8 percent of that.
+(99,956.22 less the third member's 2024 quotation), close to but not the same as the
+administrator's own verified net asset figure of 83,701.24 at 5 April 2025 (the difference being
+contributions, interest and fees since the transfers, not a discrepancy); see
+[Scheme accounts and returns](../Finance/scheme-accounts-and-returns.md). On the verified figure
+41,500 is 49.58 percent, not the 49.8 percent this quotation arithmetic gives.
 
 ## Details
 
@@ -81,12 +86,13 @@ the sponsoring company; see [Fishbone Properties Ltd](../Employers/fishbone-prop
 
 For the scheme's size: the 41,500 loanback is about 39 percent of the Aviva aggregate alone and
 about 41 percent of the aggregate including Nest, before any contributions or growth. ~~So on
-these figures the 50 percent limit would have been met at April 2025.~~ Corrected the same day
+these figures the 50 percent limit would have been met at April 2025.~~ Corrected 2026-09-06
 from Gmail: the third member's transfers were not in the scheme by April 2025, so the relevant
 base is the two directors' quoted values, 83,405.00, against which the loan is about 49.8
-percent. Whether the scheme's actual value at 16/04/2025 (transfers received, plus any
-contributions and interest, less fees) exceeded 83,000 decides the test `(unverified: values,
-not receipts)`. See [Loanback](../Assets/loanback-fishbone-commercial-properties.md).
+percent. **Answered 2026-09-07 from the administrator's own scheme valuation**: net assets were
+83,701.24 on 5 April 2025, so the loan is 49.58 percent, verified. See
+[Loanback](../Assets/loanback-fishbone-commercial-properties.md) and
+[Scheme accounts and returns](../Finance/scheme-accounts-and-returns.md).
 
 Aviva's letter of 18/07/2025 also says the member told Aviva that "Barnett Waddingham" were the
 administrator charging the fees [^12]; the scheme's administrator is Empowered Pensions, so
@@ -112,6 +118,7 @@ either the member's answer or Aviva's letter is wrong `(unverified)`.
 | 2026-09-06 | Completion, safeguarding and amber-flag correspondence from Gmail; 50 percent test recomputed for April 2025 on the two directors' transfers | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
 | 2026-09-07 | First director's Aviva transfer: the 2022 closure, the 2023 questionnaire and certificates, and the MoneyHelper step, from the owner's sent mail | `Outputs/change-log-2026-09-07-email-outstanding-items-addendum.md` |
 | 2026-09-07 | Reciprocal `related:` links repaired | `Outputs/change-log-2026-09-07-email-outstanding-items-addendum.md` |
+| 2026-09-07 | 50 percent test updated from the quotation estimate (49.8 percent) to the administrator's verified scheme valuation (49.58 percent); link to Scheme accounts and returns added | `Outputs/change-log-2026-09-07-land-registry-and-scheme-valuation.md` |
 
 ## Sources
 

@@ -7,22 +7,22 @@ Maintenance rules: `../CLAUDE.md`, section 2; in full in `Processes/knowledge-ba
 Line format: `- [Title](Category/file-name.md) - one-line description`
 
 ## Assets
-- [Loanback to Fishbone Commercial Properties Ltd (secured on 145 High Street East, Wallsend)](Assets/loanback-fishbone-commercial-properties.md) - 41,500 lent April 2025 under a first legal mortgage; deed, completion statement and invoice on file; the signed agreement, schedule and registration documents are in Gmail, not yet in Raw/; 50 percent test close
+- [Loanback to Fishbone Commercial Properties Ltd (secured on 145 High Street East, Wallsend)](Assets/loanback-fishbone-commercial-properties.md) - 41,500 lent April 2025 under a first legal mortgage; agreement, heads of terms, application, board minute, repayment schedule and Land Registry official copies all on file; 50 percent test verified at 49.58 percent; the agreement's clause 7 still differs from the schedule actually run
 
 ## Decisions
 - [Decision: how this knowledge base is structured, and why every figure is recounted](Decisions/2026-09-06-kb-structure-and-recount-rule.md) - the folder and category choices, the `FSS` prefix, the Smartsheet clone, and the standing recount rule
 
 ## Employers
-- [Fishbone Construction Ltd, formerly Fishbone Drylining Ltd (principal employer)](Employers/fishbone-construction-ltd.md) - established the scheme; company number 07948220 on three documents against 07948020 on one; payroll pension ran to Aviva in 2022-23
+- [Fishbone Construction Ltd, formerly Fishbone Drylining Ltd (principal employer)](Employers/fishbone-construction-ltd.md) - established the scheme; company number 07948220 settled from Companies House's emails (renamed by resolution notified 31/10/2024); payroll pension ran to Aviva in 2022-23; the 1,791.00 reimbursement of November 2024 confirmed paid
 - [Fishbone Properties Ltd (employer of the third member; participation not evidenced)](Employers/fishbone-properties-ltd.md) - company 09687012; employs the third member and says it contributes; a Deed of Adherence was in progress April to June 2025, completion not evidenced
 
 ## Finance
 - [Contributions to the scheme](Finance/contributions.md) - payroll pension reports of 2022-23 labelled Aviva; two employer letters claim SSAS contributions; nothing shows a contribution received
 - [HMRC registration (PSTR 20005255RF)](Finance/hmrc-registration.md) - registered 03/12/2021 as an occupational and investment-regulated scheme; standing obligations from the registration letter; year end 5 April
-- [Scheme accounts and returns (year end 5 April)](Finance/scheme-accounts-and-returns.md) - draft stub: accounts for 2021-22 exist as an email attachment; nothing on file; filing history unknown
+- [Scheme accounts and returns (year end 5 April)](Finance/scheme-accounts-and-returns.md) - active: the year to 05/04/2025 is verified on file (net assets 83,701.24); 2021-22 exists only as an email attachment; 2022-23 and 2023-24 not on file; filing history unknown
 - [TPR automatic enrolment re-declaration, 7 November 2023](Finance/tpr-re-declaration-2023.md) - the employer's re-declaration naming the SSAS; two draft copies; submission not evidenced
 - [TPR scheme registration (PSR 12018880), 4 August 2022](Finance/tpr-scheme-registration-2022.md) - scheme details, two members, three trustees and the employer as registered with The Pensions Regulator; commencement 28/10/2021
-- [Transfers into the scheme from members' previous pensions](Finance/transfers-in.md) - three Aviva plans and one Nest plan; the first received June 2023, the others not evidenced as received; the 50 percent test at April 2025 recomputed at about 49.8 percent
+- [Transfers into the scheme from members' previous pensions](Finance/transfers-in.md) - three Aviva plans and one Nest plan; the first received June 2023, the others not evidenced as received; the 50 percent test verified at 49.58 percent from the administrator's scheme valuation
 
 ## People
 - [A Prutkovas (member trustee)](People/a-prutkovas.md) - member trustee and director of the principal employer; signed the loanback security on both sides
