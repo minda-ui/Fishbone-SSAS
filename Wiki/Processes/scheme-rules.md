@@ -4,7 +4,7 @@ category: Processes
 status: active
 sensitive: false
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - ../../Raw/SSAS Scheme Rules - Empowered Pensions (Schemes rules.pdf, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).pdf
   - ../../Raw/Photograph of the scheme rules page 16 signed by both member trustees, 2021-10-14 (20211014_100954.jpg, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).jpg
@@ -15,6 +15,7 @@ related:
   - ../Assets/loanback-fishbone-commercial-properties.md
   - ../People/i-fedonina.md
   - ../Employers/fishbone-construction-ltd.md
+  - ../Employers/fishbone-properties-ltd.md
 ---
 
 # Scheme rules (Empowered Pension Ltd SSAS Scheme Rules)
@@ -79,6 +80,7 @@ trustees, so the executed deed and rules belong together; see
 |---|---|---|
 | 2026-09-06 | Created from the Raw item in the front matter | `Outputs/change-log-2026-09-06-loan-security-and-governing-documents.md` |
 | 2026-09-06 | Photograph of the signed page 16 filed | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
+| 2026-09-07 | Reciprocal `related:` links repaired | `Outputs/change-log-2026-09-07-email-outstanding-items-addendum.md` |
 
 ## Sources
 

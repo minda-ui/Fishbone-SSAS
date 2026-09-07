@@ -30,6 +30,7 @@ related:
   - ../Assets/loanback-fishbone-commercial-properties.md
   - ../Finance/contributions.md
   - ../Suppliers/metro-bank.md
+  - ../Employers/fishbone-properties-ltd.md
 ---
 
 # Transfers into the scheme from members' previous pensions
@@ -110,6 +111,7 @@ either the member's answer or Aviva's letter is wrong `(unverified)`.
 | 2026-09-06 | Created from the nine Raw items in the front matter | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
 | 2026-09-06 | Completion, safeguarding and amber-flag correspondence from Gmail; 50 percent test recomputed for April 2025 on the two directors' transfers | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
 | 2026-09-07 | First director's Aviva transfer: the 2022 closure, the 2023 questionnaire and certificates, and the MoneyHelper step, from the owner's sent mail | `Outputs/change-log-2026-09-07-email-outstanding-items-addendum.md` |
+| 2026-09-07 | Reciprocal `related:` links repaired | `Outputs/change-log-2026-09-07-email-outstanding-items-addendum.md` |
 
 ## Sources
 

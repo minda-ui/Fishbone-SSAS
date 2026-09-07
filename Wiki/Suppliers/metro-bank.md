@@ -4,7 +4,7 @@ category: Suppliers
 status: active
 sensitive: true
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - ../../Raw/Metro Bank pension scheme account opening - signature page 2021-10-31 (Document_2021-11-01_103325.pdf, copied from Drive Staff (SSAS) legacy folder 2026-09-06).pdf
   - ../../Raw/Metro Bank pension scheme account mandate adding a trustee 2024-05 (Metro Bank account - Sign form.pdf, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).pdf
@@ -21,6 +21,7 @@ related:
   - ../People/empowered-trustees.md
   - ../Finance/transfers-in.md
   - ../Finance/contributions.md
+  - ../Finance/scheme-accounts-and-returns.md
 ---
 
 # Metro Bank (scheme bank account)
@@ -84,6 +85,7 @@ member trustee [^5]; the solicitors advanced the net sum on completion, 29/04/20
 | 2026-09-06 | Mandate wording from the administrator's template, fee schedule, loan advance pointer | `Outputs/change-log-2026-09-06-loan-security-and-governing-documents.md` |
 | 2026-09-06 | 2024 mandate filed: third trustee added, signing rule, bank's document requirements | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
 | 2026-09-06 | Bank-details email of 2023, the 2024 mandate lodgement and the 2025 transfer request for the loan advance found in Gmail | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
+| 2026-09-07 | Reciprocal `related:` links repaired | `Outputs/change-log-2026-09-07-email-outstanding-items-addendum.md` |
 
 ## Sources
 

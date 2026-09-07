@@ -4,7 +4,7 @@ category: Assets
 status: active
 sensitive: false
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - ../../Raw/Legal Mortgage 29 April 2025.pdf
   - ../../Raw/Completion Statement.pdf
@@ -27,6 +27,8 @@ related:
   - ../Suppliers/empowered-pensions.md
   - ../Suppliers/metro-bank.md
   - ../Finance/transfers-in.md
+  - ../Employers/fishbone-properties-ltd.md
+  - ../Finance/scheme-accounts-and-returns.md
 ---
 
 # Loanback to Fishbone Commercial Properties Ltd (secured on 145 High Street East, Wallsend)
@@ -158,6 +160,7 @@ exercise the investment and lending powers (rule 6.3.1); Empowered Trustees Ltd 
 | 2026-09-06 | Created from the three Raw items in the front matter; first article in `Assets/` | `Outputs/change-log-2026-09-06-loan-security-and-governing-documents.md` |
 | 2026-09-06 | 50 percent test estimated from the transfer values | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
 | 2026-09-06 | Loan process, agreement signing, charge registration at Companies House and the Land Registry, repayment schedule and borrower adherence found in Gmail; 50 percent test recomputed for April 2025 | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
+| 2026-09-07 | Reciprocal `related:` links repaired | `Outputs/change-log-2026-09-07-email-outstanding-items-addendum.md` |
 
 ## Sources
 

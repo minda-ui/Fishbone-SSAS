@@ -4,7 +4,7 @@ category: Employers
 status: active
 sensitive: false
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-09-07
 sources:
   - ../../Raw/Fishbone Properties Ltd employment letter - I Fedonina, 2024-11-04 (Irina - To Whom it may concern.pdf, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).pdf
   - ../../Raw/Fishbone Properties Ltd letter to Aviva on an employee's contributions to the SSAS, 2025-04 (Irina - Pension letter (1).pdf, copied from owner's OneDrive SSAS folder via Drive 2026-09-06).pdf
@@ -18,6 +18,7 @@ related:
   - ../Finance/transfers-in.md
   - ../Processes/scheme-rules.md
   - ../Assets/loanback-fishbone-commercial-properties.md
+  - ../People/m-gaudiesius.md
 ---
 
 # Fishbone Properties Ltd (employer of the third member; participation not evidenced)
@@ -77,6 +78,7 @@ which the sister session recorded as showing weekly 35.00 payments to "Metro SSA
 |---|---|---|
 | 2026-09-06 | Created from the three Raw items in the front matter | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
 | 2026-09-06 | Deed of Adherence correspondence of April to June 2025 found in Gmail | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
+| 2026-09-07 | Reciprocal `related:` links repaired | `Outputs/change-log-2026-09-07-email-outstanding-items-addendum.md` |
 
 ## Sources
 
