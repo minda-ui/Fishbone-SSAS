@@ -14,6 +14,7 @@ correction is a new entry that references the old one.
 
 | Date | Entry | File |
 |---|---|---|
+| 2026-09-08 | Open-questions pass 2 - RMT's loan figure and the valuation's unmet special assumption answered from the FCP sister knowledge base; the Metro Bank transfer-form email thread read in full, explaining but not resolving the single-signature question; questions 3, 5, 8 and 9 checked again in Gmail without progress; `CLAUDE.md` version 11 | `Outputs/change-log-2026-09-08-open-questions-pass-2.md` |
 | 2026-09-07 | Metro Bank transfer form filed - checklist item A10 arrived as `Emailing Metro SSAS 2404.pdf`: the signed Outward Payment Instruction that moved the 41,500 loan advance, verifying the Drawdown date of 24/04/2025; checklist A11 not needed; a new question opened on whether the account's two-signature mandate was met, since only the Primary Applicant signed | `Outputs/change-log-2026-09-07-metro-bank-transfer-form-filed.md` |
 | 2026-09-07 | Companies House MR01 filed - checklist item A6 arrived as `13687238_mr01_2025-05-08.pdf`: Form MR01, the registration certificate and a complete certified copy of the mortgage deed; the deed's clause 4.2 resolves the Land Registry's "further advances" question as standard boilerplate, and Schedule 1's plan is confirmed on file; clauses 5-12 read, 13-29 still not | `Outputs/change-log-2026-09-07-companies-house-mr01-filed.md` |
 | 2026-09-07 | Land Registry and scheme valuation - ten new items in `Raw/`: three HM Land Registry official copies for TY59507 (charge registered 18/07/2025, further-advances obligation flagged, freehold and lease history) and three administrator documents dated 5 April 2025 (scheme valuation, portfolio valuation, statement of account) verifying the scheme's net assets at 83,701.24 and the 1,791.00 reimbursement as paid 02/12/2024; four byte-identical duplicate uploads skipped; the 50 percent test and the reimbursement question answered; three articles updated | `Outputs/change-log-2026-09-07-land-registry-and-scheme-valuation.md` |
@@ -129,6 +130,7 @@ Metro Bank statements; accounts and returns for 2022-23 onwards. The four docume
 | 2026-09-07 | `CLAUDE.md` replaced by version 8 | Land Registry documents and the 5 April 2025 scheme valuation filed: section 7's loanback bullet, Bank bullet and open questions 1, 2 and 6 refreshed |
 | 2026-09-07 | `CLAUDE.md` replaced by version 9 | Companies House Form MR01 and certified deed filed: section 7's loanback bullet and open question 1 refreshed; the further-advances question closed |
 | 2026-09-07 | `CLAUDE.md` replaced by version 10 | Signed Metro Bank transfer form filed: section 7's loanback bullet and open question 1 refreshed; checklist A10 closed, A11 marked not needed; a new single-signature question opened |
+| 2026-09-08 | `CLAUDE.md` replaced by version 11 | Open-questions pass 2: section 7's loanback bullet and open questions 3, 7, 9 and 10 refreshed from the FCP knowledge base and Gmail; question 11 updated with the full email thread |
 
 ## Outputs produced
 

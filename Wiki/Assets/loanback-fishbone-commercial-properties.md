@@ -4,7 +4,7 @@ category: Assets
 status: active
 sensitive: false
 created: 2026-09-06
-updated: 2026-09-07
+updated: 2026-09-08
 sources:
   - ../../Raw/FishboneSSAS_Loanback(£41.5k)_LA01801_2025-04-xx.pdf
   - ../../Raw/FishboneSSAS_Loanback(£41.5k)_HoTs_2025-04-xx.pdf
@@ -28,6 +28,9 @@ sources:
   - https://mail.google.com/mail/u/0/#all/19bfa3258b50f266 (Gmail: Dollman & Pritchard, HM Land Registry registration completed, 26/01/2026)
   - https://mail.google.com/mail/u/0/#all/19b2bebb75994919 (Gmail: bookkeeper to RMT Accountants with the repayment schedule attached, 17/12/2025)
   - https://mail.google.com/mail/u/0/#all/195f547bc88cc4d4 (Gmail: Empowered Pensions, Deed of Adherence for the borrower, 02/04 to 14/04/2025)
+  - https://mail.google.com/mail/u/0/#all/1966210241eff884 (Gmail: Transfer of funds, Metro Bank transfer request form for the loanback, 23/04 to 24/04/2025, read in full)
+  - https://drive.google.com/file/d/1Tlf9pndkek5nqpoUPSbplHj9R7WwwwZ1 (Fishbone Commercial Properties Ltd - Knowledge Base, Finance/fishbone-ssas-loan.md)
+  - https://drive.google.com/file/d/1sR_WDAisSt19tAtNxEk8o4_mBtHH-obz (Fishbone Commercial Properties Ltd - Knowledge Base, Finance/property-valuation-2025.md)
 related:
   - ../Suppliers/dollman-pritchard.md
   - ../People/m-gaudiesius.md
@@ -216,7 +219,7 @@ Ltd; the trustees' side has a board minute and indemnity letter among the Signab
 
 | Condition | Evidence on file | Status |
 |---|---|---|
-| Secured by a first charge over assets of at least equal value | First legal mortgage executed 29/04/2025 [^1]; the heads of terms and application declare a property value of 145,000.00, 3.5 times the loan [^13] [^14]; the valuation report itself is in the FCP knowledge base, which flags that it assumed structural repairs still in progress | charge: verified; value: verified as declared to the lender, the report `(not on file here)` |
+| Secured by a first charge over assets of at least equal value | First legal mortgage executed 29/04/2025 [^1]; the heads of terms and application declare a property value of 145,000.00, 3.5 times the loan [^13] [^14]; the valuation report itself is in the FCP knowledge base, which records the special assumption (all structural repairs carried out and certified) as still unmet, completion now estimated 01/11/2026, and the valuation's three-month validity as lapsed since 05/06/2025 [^25] | charge: verified; value: verified as declared to the lender, but resting on a lapsed valuation whose special assumption is unmet, the report `(not on file here)` |
 | Amount no more than 50 percent of the scheme's net assets | The deed's Maximum Amount is 50 percent of the scheme's value [^1] p.6. The administrator's own valuation puts the scheme's net assets at **83,701.24 on 5 April 2025** [^20] [^21], eleven days before the agreement and twenty-four before Drawdown; 41,500 is **49.58 percent** of that (recount). The Metro Bank transaction list for the year shows no further movement after 04/04/2025 [^20] p.6, so the value at 16/04/2025 was the same figure plus at most a few days' interest (about 70-75 a month, so under 3 for eleven days), which does not change the result to two decimal places | verified from the administrator's valuation, close to but under the limit |
 | Interest at least 1 percent above base rate | Agreement: 5.50 percent flat [^12] cl. 6.1. The Bank of England base rate on 16/04/2025 was 4.50 percent `(unverified: not from a document on file)`, so the rate met the minimum exactly at signing; HMRC's test is applied at the date the loan is made, and a flat rate cannot fall below it afterwards | verified as to the rate; the base-rate comparison `(unverified)` |
 | Term no more than five years | Agreement: repayable no later than five years from Drawdown [^12] cl. 7.1 | verified |
@@ -252,10 +255,21 @@ Ltd; the trustees' side has a board minute and indemnity letter among the Signab
 - ~~**The 50 percent test at April 2025 looks tight**~~ Answered 2026-09-07 from the
   administrator's own valuation: the scheme's net assets were 83,701.24 on 5 April 2025, so the
   loan is 49.58 percent, verified and under the limit but not by much [^20] [^21].
-- RMT Accountants understood the loan to be 40,147.80; the borrower's accounts should carry 41,500.
-- The valuation of 145 High Street East relied on for the loan (145,000.00 per the heads of
+- ~~RMT Accountants understood the loan to be 40,147.80; the borrower's accounts should carry
+  41,500.~~ Answered 2026-09-08 from the FCP knowledge base: the borrower's own annual accounts
+  for the 18 months to 30/04/2025 record the secured loan at **41,500** (7,436 due within one
+  year, 34,064 after) [^25], matching the trustees' figure, not RMT's understanding of 40,147.80.
+  RMT's figure appears to be a misreading of the net advance as the balance owed; not raised with
+  RMT (section 6a).
+- ~~The valuation of 145 High Street East relied on for the loan (145,000.00 per the heads of
   terms [^13]; the report is in the FCP knowledge base), and whether the repairs it assumed are
-  complete.
+  complete.~~ Answered in part 2026-09-08 from the FCP knowledge base: the repairs are **not**
+  complete, now expected 01/11/2026, and the valuation's special assumption has been unmet since
+  before this loan was even made (three-month validity lapsed 05/06/2025) [^25] [^26]. Whether the
+  trustees have been formally told is still open there too, but two of the four trustees
+  (M Gaudiesius, A Prutkovas) are also the borrower's own directors overseeing the repair
+  programme, so the knowledge is on both sides of the table by their own account [^26]; the
+  professional trustee's (Empowered Trustees Ltd's) position is not on file either side.
 - ~~**The register's "obligation to make further advances"**~~ Resolved 2026-09-07: it is clause
   4.2 of the mortgage deed, a standard covenant capping any advances at the Maximum Amount, read
   from the Companies House filing [^23]; not evidence of a revolving facility.
@@ -274,9 +288,13 @@ Ltd; the trustees' side has a board minute and indemnity letter among the Signab
   above 1,500 (see [Metro Bank](../Suppliers/metro-bank.md)); the form for this 41,500 transfer
   has only the "Primary Applicant" line completed (M Gaudiesius, 24.04.2025), the "Secondary
   Applicant" line blank, and the bank's own internal-use boxes on page 2 (ID&V, T24 input, payment
-  authorised) all unticked in this copy [^24]. Whether the administrator's part of the mandate was
-  satisfied some other way (e.g. Empowered Lending releasing the funds after its own verification,
-  as the email trail describes) is not evidenced on the form itself; not resolved by guessing.
+  authorised) all unticked in this copy [^24]. **Read in full 2026-09-08**: Empowered Lending's own
+  release process asked only for the owner to verbally verify Dollman & Pritchard's bank details
+  by phone and then sign "in the box above your name" — singular, no second signatory contemplated
+  — and confirm in writing that the verification was done, which the owner did on 24/04/2025 [^27].
+  That satisfies Empowered Lending's own control, but it is not the bank mandate's member-trustee-
+  plus-administrator signature; whether the administrator's side of the mandate was met some other
+  way is still not evidenced on the form itself or in this thread; not resolved by guessing.
 
 ## Changes
 
@@ -291,6 +309,7 @@ Ltd; the trustees' side has a board minute and indemnity letter among the Signab
 | 2026-09-07 | Land Registry official copy, title plan and completion sheet filed and read: charge registration dated and detailed, further-advances entry flagged; administrator's scheme valuation as at 5/4/2025 filed, 50 percent test answered as verified (49.58 percent) | `Outputs/change-log-2026-09-07-land-registry-and-scheme-valuation.md` |
 | 2026-09-07 | Companies House Form MR01, certificate and the full certified mortgage deed filed (checklist A6 closed): further-advances question resolved (deed clause 4.2), clauses 5-12 read and found unremarkable, Schedule 1 plan confirmed on file | `Outputs/change-log-2026-09-07-companies-house-mr01-filed.md` |
 | 2026-09-07 | Signed Metro Bank transfer form filed (checklist A10 closed): Drawdown date of 24/04/2025 verified rather than resting on email; single-signature question opened | `Outputs/change-log-2026-09-07-metro-bank-transfer-form-filed.md` |
+| 2026-09-08 | Open-questions pass: RMT-vs-trustees loan figure and the valuation's unmet special assumption answered from the FCP knowledge base; the transfer-form thread read in full, explaining (not fully resolving) the single-signature question | `Outputs/change-log-2026-09-08-open-questions-pass-2.md` |
 
 ## Sources
 
@@ -318,3 +337,6 @@ Ltd; the trustees' side has a board minute and indemnity letter among the Signab
 [^22]: [Fishbone SSAS Statement of Account for the year ended 05/04/2025, Empowered Pensions, 3 pages: Statement of Income and Expenditure, Balance Sheet at 05/04/2025](<../../Raw/2025-04-05 Fishbone SSAS Statement of Account.pdf>)
 [^23]: [Companies House Form MR01, Registration of a Charge, company 13687238, received for filing 02/05/2025, with the Certificate of the Registration of a Charge (given 08/05/2025) and Companies House's own certified copy of the full Legal Mortgage dated 29 April 2025, 48 PDF pages, read as page images](<../../Raw/13687238_mr01_2025-05-08.pdf>) - MR01 form PDF p.1; certificate PDF p.2; deed title page PDF p.3; deed contents PDF pp.4-5; deed clauses 2 to 13 PDF pp.12-29 (the deed's own page numbers run 3 behind the PDF's); execution PDF pp.43-47; Schedule 1 (title plan) PDF p.48
 [^24]: [Metro Bank "Outward Payment Instruction (Faster Payment & CHAPs)", customer Fishbone SSAS, £41,500 to Dollman & Pritchard Solicitors, ref AJA/FIS53.1, signed by M Gaudiesius (Primary Applicant only) 24.04.2025, 2 pages, read as page images](<../../Raw/Emailing Metro SSAS 2404.pdf>) - form (customer details, payment details, beneficiary, signature) PDF p.2 ("pg 1"); security call-back and bank internal-use section, blank, PDF p.1 ("pg 2"). Carries the scheme's debit account number and the solicitors' sort code and account number: sensitive, not quoted
+[^25]: [Fishbone Commercial Properties Ltd - Knowledge Base, Finance/fishbone-ssas-loan.md](https://drive.google.com/file/d/1Tlf9pndkek5nqpoUPSbplHj9R7WwwwZ1) - Key facts: balance at 2025-04-30; Details: valuation special assumption unmet, cross-directorship of two trustees `(cross-entity fact, linked not copied, section 6b of CLAUDE.md)`
+[^26]: [Fishbone Commercial Properties Ltd - Knowledge Base, Finance/property-valuation-2025.md](https://drive.google.com/file/d/1sR_WDAisSt19tAtNxEk8o4_mBtHH-obz) - Key facts: special assumption and validity; Open questions: whether the lender has been told `(cross-entity fact, linked not copied)`
+[^27]: [Gmail: "Transfer of funds - Fishbone SSAS to Fishbone Commercial Properties Ltd (£41,500.00) - LA01801", Empowered Lending and owner, 23/04 to 24/04/2025, read in full](https://mail.google.com/mail/u/0/#all/1966210241eff884) `(email)` - Empowered Lending's instructions (verbal verification, single signature "in the box above your name"), the returned signed form, and the owner's written confirmation of verbal verification

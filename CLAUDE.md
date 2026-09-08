@@ -1,7 +1,15 @@
 # Fishbone SSAS - Knowledge Base
 
-> **Status: AUTHORITATIVE. Version 10, 2026-09-07**, superseding version 9 of the same day (in
-> `Archive/`) after the signed Metro Bank transfer form was filed and read: checklist item A10 is
+> **Status: AUTHORITATIVE. Version 11, 2026-09-08**, superseding version 10 of 2026-09-07 (in
+> `Archive/`) after a second open-questions pass: the FCP sister knowledge base's own records
+> answer question 7 (the borrower's accounts carry 41,500, not RMT's understood 40,147.80) and
+> most of question 10's residual (the valuation's special assumption is confirmed still unmet, now
+> due 01/11/2026, and two of the four trustees are also the borrower's own directors); the
+> transfer-form email thread read in full explains, without fully resolving, question 11's
+> single-signature point (Empowered Lending's own process asked for one signature plus a verbal
+> bank-detail callback, not a second physical signature). Questions 3, 5, 8 and 9's certificate and
+> notification points were checked again and remain open. Version 10 followed the signed Metro
+> Bank transfer form being filed and read: checklist item A10 is
 > closed (A11 was not needed), the loan's Drawdown date of 24/04/2025 is now verified rather than
 > resting on an email description, and a new question is open on whether the account's
 > two-signature mandate was met, since the form carries only one signature. Version 9 followed
@@ -353,7 +361,7 @@ articles and the dated change-log entries.
 
 ---
 
-## 7. Scheme snapshot and open questions (as of 2026-09-07, after the Metro Bank transfer form filing)
+## 7. Scheme snapshot and open questions (as of 2026-09-08, after the second open-questions pass)
 
 The Wiki is the authoritative record; start at `Wiki/index.md`. This section is a one-screen
 orientation, refreshed when a Raw item changes the picture. Lines marked **verified** are cited in
@@ -408,7 +416,14 @@ elsewhere and must be recounted before use.
   Accountants 17/12/2025 `(email)`. **The 50 percent test is verified at 49.58 percent**: the
   administrator's own scheme valuation puts the net assets at 83,701.24 on 5 April 2025, eleven
   days before the agreement, and no bank movement is evidenced between then and Drawdown. The
-  March 2025 valuation of the security assumed repairs still in progress (FCP knowledge base).
+  March 2025 valuation of the security assumed repairs still in progress; **confirmed 2026-09-08
+  from the FCP knowledge base**: the special assumption remains unmet, completion now due
+  01/11/2026, and the valuation's three-month validity lapsed 05/06/2025. Two of the four trustees
+  (M Gaudiesius, A Prutkovas) are also the borrower's own directors overseeing the repairs, so the
+  knowledge is on both sides of the table by the FCP knowledge base's own account, though no
+  formal notice to the trustees is on file either side. **RMT Accountants' understanding of the
+  loan as 40,147.80 (the net advance) is answered**: the borrower's own accounts for the 18 months
+  to 30/04/2025 record it at **41,500**, matching the trustees' figure (FCP knowledge base).
   Article: `Assets/loanback-fishbone-commercial-properties`. No `FSS 0001` row yet.
 - **Bank (verified in part).** Metro Bank pension scheme account, opening request signed by both
   member trustees 31/10/2021; 2024 mandate on file adding the third trustee, signing rule one
@@ -473,6 +488,7 @@ elsewhere and must be recounted before use.
    answer.
 3. **The third trustee and Fishbone Properties Ltd**: her deed of appointment (at the
    administrator), whether the Deed of Adherence was completed, whether TPR and HMRC were told.
+   Checked again in Gmail 2026-09-08: no new evidence: still needs the administrator directly.
 4. Whether the two other transfers in (second director, third member) completed, and when; the
    "Barnett Waddingham" answer given to Aviva.
 5. Metro Bank statements from opening to date, so contributions, the advance and the repayments
@@ -483,26 +499,41 @@ elsewhere and must be recounted before use.
    and authorised.~~ Answered 2026-09-07: paid 02/12/2024, per the administrator's Metro Bank
    transaction list. Whether it was formally authorised beyond the trustee-expenses declaration
    is not addressed by that record.
-7. RMT Accountants' figure for the loan (40,147.80) against the trustees' 41,500.
+7. ~~RMT Accountants' figure for the loan (40,147.80) against the trustees' 41,500.~~ Answered
+   2026-09-08 from the FCP knowledge base: the borrower's own accounts for the 18 months to
+   30/04/2025 record the secured loan at 41,500, matching the trustees; RMT's understanding of
+   40,147.80 (the net advance) was not raised with RMT (section 6a).
 8. The executed and dated trust deed and rules (at the administrator); the administration
-   agreement's terms (a person needs to read the 8.8 MB scan).
+   agreement's terms (a person needs to read the 8.8 MB scan; download failed again 2026-09-08,
+   "session expired").
 9. ~~Which company number is right (three documents say 07948220), and the Companies House record
    of the name change to Fishbone Construction Ltd.~~ Answered 2026-09-07 from Companies House's
    emails (07948220; NM01 notified 31/10/2024); still wanted: the change-of-name certificate, and
-   whether HMRC, TPR and the administrator were told.
+   whether HMRC, TPR and the administrator were told (checked again 2026-09-08: only a client-facing
+   announcement letter of 20/11/2024 found, no certificate and no HMRC/TPR/administrator trail).
 10. ~~Whether the 2019 and 2021 loan agreements in `Collaboration Space / Other` are scheme loans,~~
-    Answered 2026-09-07: Holdings-to-Properties loans, not the scheme's. Still open: whether the
-    trustees know the security's valuation assumed repairs not complete.
-11. **New 2026-09-07.** The signed Metro Bank transfer form for the 41,500 loan advance carries
-    only one signature (M Gaudiesius, Primary Applicant); the 2024 mandate requires a member
+    Answered 2026-09-07: Holdings-to-Properties loans, not the scheme's. ~~Still open: whether the
+    trustees know the security's valuation assumed repairs not complete.~~ Answered in part
+    2026-09-08 from the FCP knowledge base: the assumption is still unmet (completion now due
+    01/11/2026); two of the four trustees are also the borrower's directors overseeing the repair
+    programme, so the knowledge is on both sides of the table by that knowledge base's own account,
+    though no formal notice to the trustees (or from the professional trustee) is on file either
+    side.
+11. **The signed Metro Bank transfer form for the 41,500 loan advance carries
+    only one signature** (M Gaudiesius, Primary Applicant); the 2024 mandate requires a member
     trustee and an authorised administrator together for a payment over 1,500, and Metro Bank's
-    own form has no administrator signature line to check that against. Whether the
-    administrator's part of the mandate was met some other way is not evidenced on the form.
+    own form has no administrator signature line to check that against. **Read in full
+    2026-09-08**: Empowered Lending's own release process asked only for a verbal bank-detail
+    verification callback plus the one signature, not a second physical signature, which explains
+    the form but does not show whether the bank mandate's own two-signature requirement was
+    separately met.
 
 ---
 
-*Standing context for the Fishbone SSAS knowledge base. Version 10, 2026-09-07, after the signed
-Metro Bank transfer form for the loan advance was filed; version 9, earlier that day, followed
+*Standing context for the Fishbone SSAS knowledge base. Version 11, 2026-09-08, after a second
+open-questions pass drawing on the FCP sister knowledge base and a full re-read of the transfer-
+form email thread; version 10, the day before, followed the signed
+Metro Bank transfer form for the loan advance being filed; version 9, earlier that day, followed
 Companies House's Form MR01, certificate and full certified mortgage deed being filed; version 8,
 earlier still, followed the Land Registry official copies and the administrator's scheme valuation
 as at 5 April 2025; version 7 followed the pass through the open questions; version 6 followed the
