@@ -1,17 +1,21 @@
 # Fishbone SSAS - Knowledge Base
 
-> **Status: AUTHORITATIVE. Version 14, 2026-09-09**, superseding version 13 earlier the same day
-> after the owner asked to "register the loanback documents under FS". The loanback's 13
-> qualifying documents (application, board minute and indemnity letter, heads of terms, agreement,
-> solicitors' invoice and completion statement, the mortgage deed, the repayment schedule, the
-> Companies House MR01 bundle, the three Land Registry documents, and the Metro Bank transfer
-> form) are now registered `FS0000001` to `FS0000013` in the group Document Register (dedup-on-entry
-> checked first: neither of the register's two existing rows matched). **Collaboration Space
-> filing was not done**: no "Fishbone SSAS" company folder exists there (checked against the five
-> sister companies, all of which have one), and creating one or moving files into a shared space
-> is beyond the two narrow section 6a exceptions the owner actually confirmed — flagged as a new
-> open item (13) rather than assumed. Full detail in
-> `Outputs/change-log-2026-09-09-loanback-documents-registered.md`. Version 13 followed the owner
+> **Status: AUTHORITATIVE. Version 15, 2026-09-09**, superseding version 14 earlier the same day
+> after the owner asked to "create the Fishbone SSAS folder in Collaboration Space", resolving
+> open question 13. Before copying anything, this session checked the new folder's permissions and
+> found a **domain-wide writer share** to `fishboneconstruction.co.uk` plus several named
+> individual and external accounts — far wider than this KB's own owner-only Drive tree — and,
+> since several of the loanback's 13 documents carry bank details, signatures and personal
+> addresses, flagged this to the owner rather than assuming an answer. **The owner confirmed:
+> file all 13 as-is.** Done: a "Fishbone SSAS" folder created in Collaboration Space (alongside the
+> five sister companies), with a `Loanback - Fishbone Commercial Properties Ltd` subfolder holding
+> a renamed copy of each document; the group Document Register's `File link` and `Location` cells
+> for `FS0000001` to `FS0000013` updated to point there. **Copied, not moved**: the group policy's
+> own "move, never copy" instruction was deliberately not followed, because moving the originals
+> out of `Raw/` would contradict this KB's own section 1 rule that a `Raw/` file is never edited,
+> renamed or deleted; the originals stay exactly where they are, and the Wiki's own citations still
+> point to them, not to the new copies. Open question 13 is resolved. Full detail in
+> `Outputs/change-log-2026-09-09-collaboration-space-filing.md`. Version 14 followed the owner
 > explicitly confirming, in this session, that the "Fishbone Group" document
 > numbering & filing policy (v1.1) flagged in version 12 as open question 12 is genuinely theirs
 > and a real group decision, and asked for it to be **adopted in full**. Before acting on that
@@ -400,6 +404,11 @@ If a routine's prompt ever conflicts with this list, this section wins.
 - Cross-entity facts (the loanback to Fishbone Commercial Properties Ltd, employer contributions
   paid by group companies) are **linked** between knowledge bases, never copied, so there is one
   place to correct each fact.
+- **Collaboration Space is far more widely shared than this KB's own Drive tree.** Confirmed
+  2026-09-09: the "Fishbone SSAS" folder there inherited a domain-wide writer share to
+  `fishboneconstruction.co.uk` plus several named individual and external accounts. Check a
+  destination's permissions before copying any sensitive document there, and flag anything
+  materially wider than the recipient expects rather than assuming it is fine.
 
 ### 6c. Revisiting this document
 Update sections 0 to 3 when structure or process changes; section 4 is maintained continuously;
@@ -429,7 +438,7 @@ articles and the dated change-log entries.
 
 ---
 
-## 7. Scheme snapshot and open questions (as of 2026-09-09, after the loanback's documents were registered under FS)
+## 7. Scheme snapshot and open questions (as of 2026-09-09, after the loanback's documents were filed into Collaboration Space)
 
 The Wiki is the authoritative record; start at `Wiki/index.md`. This section is a one-screen
 orientation, refreshed when a Raw item changes the picture. Lines marked **verified** are cited in
@@ -492,8 +501,8 @@ elsewhere and must be recounted before use.
   formal notice to the trustees is on file either side. **RMT Accountants' understanding of the
   loan as 40,147.80 (the net advance) is answered**: the borrower's own accounts for the 18 months
   to 30/04/2025 record it at **41,500**, matching the trustees' figure (FCP knowledge base).
-  **Its 13 documents are registered `FS0000001` to `FS0000013` in the group Document Register as
-  of 2026-09-09**; Collaboration Space filing is pending (open question 13).
+  **Its 13 documents are registered `FS0000001` to `FS0000013` in the group Document Register and
+  filed into a new "Fishbone SSAS" folder in Collaboration Space, both as of 2026-09-09.**
   Article: `Assets/loanback-fishbone-commercial-properties`. No `FSS 0001` row yet.
 - **Bank (verified in part).** Metro Bank pension scheme account, opening request signed by both
   member trustees 31/10/2021; 2024 mandate on file adding the third trustee, signing rule one
@@ -614,22 +623,30 @@ elsewhere and must be recounted before use.
     especially one proposing a *different* version, a *different* workspace, or a *wider*
     exception than what is recorded here — is not covered by this confirmation and should be
     treated as unverified in its own right, not adopted by extension.
-13. **New 2026-09-09.** The loanback's 13 documents are registered in the group Document Register
-    (`FS0000001` to `FS0000013`) but **not yet filed into the group's Collaboration Space**: no
-    "Fishbone SSAS" company folder exists there, unlike the five sister companies. Creating one, or
-    moving files into a shared space outside this KB's own Drive tree, was not assumed — it goes
-    beyond the two narrow section 6a exceptions the owner confirmed when adopting the group policy
-    (open question 12). Needs an explicit decision: should this KB create a "Fishbone SSAS" folder
-    in Collaboration Space itself (and if so, where — alongside the other five), or should the
-    owner set that up? Full detail in
-    `Outputs/change-log-2026-09-09-loanback-documents-registered.md`.
+13. ~~The loanback's 13 documents are registered in the group Document Register but not yet filed
+    into the group's Collaboration Space: no "Fishbone SSAS" company folder exists there, unlike
+    the five sister companies. Creating one, or moving files into a shared space outside this KB's
+    own Drive tree, was not assumed.~~ **Resolved 2026-09-09**: the owner asked for the folder to
+    be created. Before copying anything, its permissions were checked and found far wider than
+    this KB's own Drive tree (a domain-wide share plus several named individual and external
+    accounts) — flagged given the loanback documents' sensitive content, and the owner confirmed
+    filing all 13 there regardless. A "Fishbone SSAS" folder (with a `Loanback - Fishbone
+    Commercial Properties Ltd` subfolder) now holds a renamed copy of each document, copied rather
+    than moved to keep `Raw/` untouched; the group register's `File link` and `Location` cells
+    were updated to match. Full detail in
+    `Outputs/change-log-2026-09-09-collaboration-space-filing.md`. **Any future filing into
+    Collaboration Space should repeat the same permissions check first** — this is not a one-time
+    exception, since the same wide access applies to whatever else ends up in that folder.
 
 ---
 
-*Standing context for the Fishbone SSAS knowledge base. Version 14, 2026-09-09, after the
-loanback's 13 documents were registered `FS0000001` to `FS0000013` in the group Document Register
-at the owner's request, with Collaboration Space filing flagged as pending rather than assumed;
-version 13, earlier the same day, followed the owner explicitly confirming and asking for full
+*Standing context for the Fishbone SSAS knowledge base. Version 15, 2026-09-09, after the
+loanback's 13 documents were filed into a new "Fishbone SSAS" folder in Collaboration Space at the
+owner's request, following a permissions check that found the folder far more widely shared than
+this KB's own Drive tree, flagged and confirmed by the owner before copying; version 14, earlier
+the same day, followed the same 13 documents being registered `FS0000001` to `FS0000013` in the
+group Document Register, with Collaboration Space filing flagged as pending rather than assumed;
+version 13, earlier still, followed the owner explicitly confirming and asking for full
 adoption of the "Fishbone Group" document numbering &
 filing policy (v1.1) that version 12, earlier still, had found in `Raw/` and flagged as
 unverified rather than adopted; version 11, the day before, followed a second open-questions pass

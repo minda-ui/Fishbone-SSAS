@@ -74,10 +74,15 @@ terms (FS0000003), the loan agreement (FS0000004), the solicitors' invoice (FS00
 completion statement (FS0000006), the mortgage deed (FS0000007), the repayment schedule
 (FS0000008), the Companies House Form MR01 with certificate and certified deed (FS0000009), the
 three Land Registry documents (FS0000010 to FS0000012), and the Metro Bank transfer form
-(FS0000013). **Filing into the group's Collaboration Space is still pending**: no "Fishbone SSAS"
-company folder exists there yet (checked 2026-09-09, alongside Properties, Commercial Properties,
-Construction, Waste and Amfa Furniture, which all have one), so the register's `Location` cells
-point back to these files in this KB's own `Raw/` rather than a Collaboration Space path.
+(FS0000013). **Filed into the group's Collaboration Space 2026-09-09**, at the owner's request: a
+new "Fishbone SSAS" company folder (alongside Properties, Commercial Properties, Construction,
+Waste and Amfa Furniture) holds a `Loanback - Fishbone Commercial Properties Ltd` subfolder with a
+renamed copy of each document; the register's `File link` and `Location` cells now point there.
+The originals stay in this KB's own `Raw/`, copied rather than moved to respect this KB's own
+Raw-immutability rule (section 1) — a deliberate departure from the group policy's own
+"move, never copy" instruction. The new folder inherited a domain-wide share plus several named
+individual and external accounts, considerably wider than this KB's own owner-only Drive tree;
+that was flagged to the owner, who confirmed filing all 13 documents there regardless.
 
 ## Key facts
 
@@ -324,6 +329,7 @@ Ltd; the trustees' side has a board minute and indemnity letter among the Signab
 | 2026-09-07 | Signed Metro Bank transfer form filed (checklist A10 closed): Drawdown date of 24/04/2025 verified rather than resting on email; single-signature question opened | `Outputs/change-log-2026-09-07-metro-bank-transfer-form-filed.md` |
 | 2026-09-08 | Open-questions pass: RMT-vs-trustees loan figure and the valuation's unmet special assumption answered from the FCP knowledge base; the transfer-form thread read in full, explaining (not fully resolving) the single-signature question | `Outputs/change-log-2026-09-08-open-questions-pass-2.md` |
 | 2026-09-09 | The loanback's 13 documents registered FS0000001 to FS0000013 in the group Document Register, following the group document policy's adoption; Collaboration Space filing flagged as still pending | `Outputs/change-log-2026-09-09-loanback-documents-registered.md` |
+| 2026-09-09 | Collaboration Space filing completed: a new "Fishbone SSAS" folder created with a loanback subfolder holding a renamed copy of each of the 13 documents; register's File link and Location cells updated | `Outputs/change-log-2026-09-09-collaboration-space-filing.md` |
 
 ## Sources
 
