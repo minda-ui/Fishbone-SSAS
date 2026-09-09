@@ -14,6 +14,7 @@ correction is a new entry that references the old one.
 
 | Date | Entry | File |
 |---|---|---|
+| 2026-09-09 | Gmail attachment download re-verified - the owner asked to save the remaining Gmail attachments into `Raw/`; the actual Gmail tooling was inspected and tested live (an attachment object returns only filename, mimeType and an opaque id, no content, and no download-by-id tool is exposed), confirming the standing 2026-09-06 finding still holds; nothing saved, `Outputs/attachments-to-download-from-gmail.md` unchanged, groups B to E still outstanding | `Outputs/change-log-2026-09-09-gmail-attachment-download-reverified.md` |
 | 2026-09-09 | Collaboration Space filing completed - a "Fishbone SSAS" folder created in the group's Collaboration Space (its permissions checked first and found far wider than this KB's own Drive tree; the owner confirmed proceeding regardless given the loanback documents' sensitivity); a renamed copy of each of the 13 registered documents filed into a loanback subfolder there; the group Document Register's `File link` and `Location` cells updated; `CLAUDE.md` version 15 | `Outputs/change-log-2026-09-09-collaboration-space-filing.md` |
 | 2026-09-09 | Loanback documents registered - 13 documents about the loanback to Fishbone Commercial Properties Ltd (application, board minute, heads of terms, agreement, invoice, completion statement, mortgage deed, repayment schedule, Companies House MR01/certificate/deed, three Land Registry documents, Metro Bank transfer form) registered `FS0000001` to `FS0000013` in the group Document Register; Collaboration Space filing flagged as pending since no "Fishbone SSAS" folder exists there | `Outputs/change-log-2026-09-09-loanback-documents-registered.md` |
 | 2026-09-09 | Group policy adopted - the owner explicitly confirmed the "Fishbone Group" document numbering & filing policy (v1.1) is genuinely theirs and asked for full adoption; independently verified against the group knowledge base itself before acting; document numbering (not asset numbering) moves to the group's `FS` register, and `CLAUDE.md` section 6a gains two narrow, dated Smartsheet-append and inter-KB `Raw/` hand-off exceptions; open question 12 resolved; `CLAUDE.md` version 13 | `Outputs/change-log-2026-09-09-group-policy-adopted.md` |
@@ -110,10 +111,12 @@ checklist is `Outputs/attachments-to-download-from-gmail.md`): ~~the signed loan
 (filed 2026-09-07); the Deeds of Adherence for Fishbone Properties Ltd
 and Fishbone Commercial Properties Ltd; the annual accounts for 2021-22 and the Metro Bank
 details; the 2021 establishment pack; the November 2023 fee schedule and the Xero invoices; the
-Aviva closing letter of June 2023; the signed Aviva declaration of August 2025. Still not located
-anywhere: the executed and dated trust deed and rules; the third trustee's deed of appointment;
-Metro Bank statements; accounts and returns for 2022-23 onwards. The four documents that Session
-2 listed here as OneDrive-only are now on file (rows above).
+Aviva closing letter of June 2023; the signed Aviva declaration of August 2025. **Re-checked
+2026-09-09: still not downloadable by this session's tooling** (Gmail's `attachments` field
+returns only filename, mimeType and an opaque id, never content); a person must still save each
+one. Still not located anywhere: the executed and dated trust deed and rules; the third trustee's
+deed of appointment; Metro Bank statements; accounts and returns for 2022-23 onwards. The four
+documents that Session 2 listed here as OneDrive-only are now on file (rows above).
 
 ## Wiki structure changes
 
