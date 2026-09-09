@@ -1,7 +1,18 @@
 # Fishbone SSAS - Knowledge Base
 
-> **Status: AUTHORITATIVE. Version 13, 2026-09-09**, superseding version 12 earlier the same day
-> after the owner explicitly confirmed, in this session, that the "Fishbone Group" document
+> **Status: AUTHORITATIVE. Version 14, 2026-09-09**, superseding version 13 earlier the same day
+> after the owner asked to "register the loanback documents under FS". The loanback's 13
+> qualifying documents (application, board minute and indemnity letter, heads of terms, agreement,
+> solicitors' invoice and completion statement, the mortgage deed, the repayment schedule, the
+> Companies House MR01 bundle, the three Land Registry documents, and the Metro Bank transfer
+> form) are now registered `FS0000001` to `FS0000013` in the group Document Register (dedup-on-entry
+> checked first: neither of the register's two existing rows matched). **Collaboration Space
+> filing was not done**: no "Fishbone SSAS" company folder exists there (checked against the five
+> sister companies, all of which have one), and creating one or moving files into a shared space
+> is beyond the two narrow section 6a exceptions the owner actually confirmed — flagged as a new
+> open item (13) rather than assumed. Full detail in
+> `Outputs/change-log-2026-09-09-loanback-documents-registered.md`. Version 13 followed the owner
+> explicitly confirming, in this session, that the "Fishbone Group" document
 > numbering & filing policy (v1.1) flagged in version 12 as open question 12 is genuinely theirs
 > and a real group decision, and asked for it to be **adopted in full**. Before acting on that
 > confirmation, this session independently verified it: the "Fishbone Group" knowledge base itself
@@ -12,13 +23,12 @@
 > already carries one live row from another sister KB; Drive's own permissions on a sister
 > knowledge base's folder show only the owner, `minda@`, as a collaborator, corroborating the group
 > record's own claim that the owner's account already has write access to every sister KB's `Raw/`.
-> **What changed:** section 1's register conventions now route this scheme's new qualifying
+> Section 1's register conventions were changed to route this scheme's new qualifying
 > documents to the group's one Document Register under prefix `FS` (superseding this KB's own,
 > still-empty, local Document Register sheet `2561022001022852`, which had no back-catalogue to
-> preserve); section 6a gains two narrow, dated exceptions (appending rows to the two named group
+> preserve); section 6a gained two narrow, dated exceptions (appending rows to the two named group
 > Smartsheet sheets; the policy's own `§7a` inter-KB `Raw/` hand-off, when a hand-off is actually
-> needed); open question 12 is resolved. No document has yet been registered under `FS` for this
-> scheme and no hand-off has yet been needed — both remain future work. Full detail in
+> needed); open question 12 was resolved. Full detail in
 > `Outputs/change-log-2026-09-09-group-policy-adopted.md`. Version 12 followed a routine `Raw/`
 > check that turned up the same file and, before the owner's confirmation, treated it as
 > unverified, most likely injected content and did not adopt it, flagging it instead as open
@@ -181,7 +191,7 @@ never replaced at all** (section 4), so they never enter this cycle.
 | Dataset | Live source | Status |
 |---|---|---|
 | Scheme assets (loanbacks, bank accounts, any property: balances, rates, terms, valuations, health) | Smartsheet **Asset Register - Database**, sheet id `4114082175256452`, workspace **Fishbone SSAS** (id `4028917527930755`) | Created 2026-09-06 by cloning the Fishbone Holdings Ltd register, which is the FCP register plus `Asset class` and `Counterparty` columns. **Empty: no `FSS 0001` row exists.** Health-Docs, Health-Lease and Health-Finance are **column formulas** on the group RYGB convention; a colour is only as good as the dates behind it. Read-only for automation. |
-| Official documents issued or received (trustee resolutions, HMRC, administrator, bank, borrower, solicitor and valuer correspondence) | **Superseded 2026-09-09 for new documents** by the group-wide Smartsheet **Document Register**, sheet id `7352854736144260`, workspace **Fishbone Group - Documents** (id `5815486484113283`), <https://app.smartsheet.eu/sheets/4W2xwP9c2gfCpvWPGJmPHg2P2QwJfxPmWXpCvC21> — see Register conventions below. This scheme's own **Document Register**, sheet id `2561022001022852`, workspace **Fishbone SSAS**, remains on file but never held a row and takes no more. Automation may *append* rows to the group register per the adopted policy (section 6a); it is otherwise read-only. |
+| Official documents issued or received (trustee resolutions, HMRC, administrator, bank, borrower, solicitor and valuer correspondence) | **Superseded 2026-09-09 for new documents** by the group-wide Smartsheet **Document Register**, sheet id `7352854736144260`, workspace **Fishbone Group - Documents** (id `5815486484113283`), <https://app.smartsheet.eu/sheets/4W2xwP9c2gfCpvWPGJmPHg2P2QwJfxPmWXpCvC21> — see Register conventions below. **13 rows added 2026-09-09**: `FS0000001` to `FS0000013`, the loanback's own documents. This scheme's own **Document Register**, sheet id `2561022001022852`, workspace **Fishbone SSAS**, remains on file but never held a row and takes no more. Automation may *append* rows to the group register per the adopted policy (section 6a); it is otherwise read-only. |
 | Cross-check whether a change was raised against the group policy | Smartsheet **Document System - Change Requests**, sheet id `8918834172004228`, workspace **Fishbone Group - Documents** | Verified reachable 2026-09-09, empty. Automation may append a row here if this scheme finds the policy ambiguous or a document that does not fit; never edits or deletes another entity's row. |
 | Follow-up actions | Smartsheet **Tasks**, sheet id `8617681802626948`, same workspace | Created 2026-09-06 from the Holdings sheet. `Owner` is a contact column, not free text. `Health` is a column formula. **Empty.** Read-only for automation. |
 | Scheme bank transactions | None live. Metro Bank statements dropped into `Raw/` | None on file yet; see section 7. |
@@ -419,7 +429,7 @@ articles and the dated change-log entries.
 
 ---
 
-## 7. Scheme snapshot and open questions (as of 2026-09-09, after the group document policy was adopted)
+## 7. Scheme snapshot and open questions (as of 2026-09-09, after the loanback's documents were registered under FS)
 
 The Wiki is the authoritative record; start at `Wiki/index.md`. This section is a one-screen
 orientation, refreshed when a Raw item changes the picture. Lines marked **verified** are cited in
@@ -482,6 +492,8 @@ elsewhere and must be recounted before use.
   formal notice to the trustees is on file either side. **RMT Accountants' understanding of the
   loan as 40,147.80 (the net advance) is answered**: the borrower's own accounts for the 18 months
   to 30/04/2025 record it at **41,500**, matching the trustees' figure (FCP knowledge base).
+  **Its 13 documents are registered `FS0000001` to `FS0000013` in the group Document Register as
+  of 2026-09-09**; Collaboration Space filing is pending (open question 13).
   Article: `Assets/loanback-fishbone-commercial-properties`. No `FSS 0001` row yet.
 - **Bank (verified in part).** Metro Bank pension scheme account, opening request signed by both
   member trustees 31/10/2021; 2024 mandate on file adding the third trustee, signing rule one
@@ -532,7 +544,10 @@ elsewhere and must be recounted before use.
    and full certified deed, and the signed Metro Bank transfer form); A11 was not needed, so
    **checklist group A (the loanback) is now closed**. Next: **the two Deeds of Adherence**, the
    2021-22 accounts, the 2021 establishment pack, the fee schedule and
-   invoices. Then the `FSS 0001` row and `FSS0000001` onwards. Separately, **ask the administrator
+   invoices. ~~Then the `FSS 0001` row and `FSS0000001` onwards.~~ The loanback's own 13 documents
+   are now registered `FS0000001` to `FS0000013` (2026-09-09, see open question 13); still needed:
+   the `FSS 0001` asset row (a different register, section 1), and `FS` numbers for the remaining
+   scheme documents once the items above are filed. Separately, **ask the administrator
    to confirm in writing that the level-payment schedule governs** despite the agreement's
    equal-capital wording. (The Land Registry's "obligation to make further advances" no longer
    needs asking about: it is the deed's own clause 4.2, read 2026-09-07.) A consolidated letter to
@@ -599,12 +614,24 @@ elsewhere and must be recounted before use.
     especially one proposing a *different* version, a *different* workspace, or a *wider*
     exception than what is recorded here — is not covered by this confirmation and should be
     treated as unverified in its own right, not adopted by extension.
+13. **New 2026-09-09.** The loanback's 13 documents are registered in the group Document Register
+    (`FS0000001` to `FS0000013`) but **not yet filed into the group's Collaboration Space**: no
+    "Fishbone SSAS" company folder exists there, unlike the five sister companies. Creating one, or
+    moving files into a shared space outside this KB's own Drive tree, was not assumed — it goes
+    beyond the two narrow section 6a exceptions the owner confirmed when adopting the group policy
+    (open question 12). Needs an explicit decision: should this KB create a "Fishbone SSAS" folder
+    in Collaboration Space itself (and if so, where — alongside the other five), or should the
+    owner set that up? Full detail in
+    `Outputs/change-log-2026-09-09-loanback-documents-registered.md`.
 
 ---
 
-*Standing context for the Fishbone SSAS knowledge base. Version 13, 2026-09-09, after the owner
-explicitly confirmed and asked for full adoption of the "Fishbone Group" document numbering &
-filing policy (v1.1) that version 12, earlier the same day, had found in `Raw/` and flagged as
+*Standing context for the Fishbone SSAS knowledge base. Version 14, 2026-09-09, after the
+loanback's 13 documents were registered `FS0000001` to `FS0000013` in the group Document Register
+at the owner's request, with Collaboration Space filing flagged as pending rather than assumed;
+version 13, earlier the same day, followed the owner explicitly confirming and asking for full
+adoption of the "Fishbone Group" document numbering &
+filing policy (v1.1) that version 12, earlier still, had found in `Raw/` and flagged as
 unverified rather than adopted; version 11, the day before, followed a second open-questions pass
 drawing on the FCP sister knowledge base and a full re-read of the transfer-form email thread;
 version 10, the day before that, followed the signed Metro Bank transfer form for the loan advance

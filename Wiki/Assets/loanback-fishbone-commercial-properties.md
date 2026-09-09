@@ -4,7 +4,7 @@ category: Assets
 status: active
 sensitive: false
 created: 2026-09-06
-updated: 2026-09-08
+updated: 2026-09-09
 sources:
   - ../../Raw/FishboneSSAS_Loanback(£41.5k)_LA01801_2025-04-xx.pdf
   - ../../Raw/FishboneSSAS_Loanback(£41.5k)_HoTs_2025-04-xx.pdf
@@ -31,6 +31,7 @@ sources:
   - https://mail.google.com/mail/u/0/#all/1966210241eff884 (Gmail: Transfer of funds, Metro Bank transfer request form for the loanback, 23/04 to 24/04/2025, read in full)
   - https://drive.google.com/file/d/1Tlf9pndkek5nqpoUPSbplHj9R7WwwwZ1 (Fishbone Commercial Properties Ltd - Knowledge Base, Finance/fishbone-ssas-loan.md)
   - https://drive.google.com/file/d/1sR_WDAisSt19tAtNxEk8o4_mBtHH-obz (Fishbone Commercial Properties Ltd - Knowledge Base, Finance/property-valuation-2025.md)
+  - https://app.smartsheet.eu/sheets/4W2xwP9c2gfCpvWPGJmPHg2P2QwJfxPmWXpCvC21 (Fishbone Group - Documents workspace, Document Register, sheet id 7352854736144260, rows FS0000001-FS0000013)
 related:
   - ../Suppliers/dollman-pritchard.md
   - ../People/m-gaudiesius.md
@@ -65,6 +66,18 @@ of the mortgage deed arrived the same day** [^23], closing the last item on the 
 
 Asset Register id: none yet. When issued it will be `FSS 0001` with `Asset class` "Loanback
 receivable", `Loan type` "SSAS loanback", `Counterparty` Fishbone Commercial Properties Ltd.
+
+**Document Register: FS0000001 to FS0000013, registered 2026-09-09** [^28], following the owner's
+adoption of the Group Document Numbering & Filing Policy v1.1 (`CLAUDE.md` section 1): the loan
+application (FS0000001), the trustees' board minute and indemnity letter (FS0000002), the heads of
+terms (FS0000003), the loan agreement (FS0000004), the solicitors' invoice (FS0000005) and
+completion statement (FS0000006), the mortgage deed (FS0000007), the repayment schedule
+(FS0000008), the Companies House Form MR01 with certificate and certified deed (FS0000009), the
+three Land Registry documents (FS0000010 to FS0000012), and the Metro Bank transfer form
+(FS0000013). **Filing into the group's Collaboration Space is still pending**: no "Fishbone SSAS"
+company folder exists there yet (checked 2026-09-09, alongside Properties, Commercial Properties,
+Construction, Waste and Amfa Furniture, which all have one), so the register's `Location` cells
+point back to these files in this KB's own `Raw/` rather than a Collaboration Space path.
 
 ## Key facts
 
@@ -310,6 +323,7 @@ Ltd; the trustees' side has a board minute and indemnity letter among the Signab
 | 2026-09-07 | Companies House Form MR01, certificate and the full certified mortgage deed filed (checklist A6 closed): further-advances question resolved (deed clause 4.2), clauses 5-12 read and found unremarkable, Schedule 1 plan confirmed on file | `Outputs/change-log-2026-09-07-companies-house-mr01-filed.md` |
 | 2026-09-07 | Signed Metro Bank transfer form filed (checklist A10 closed): Drawdown date of 24/04/2025 verified rather than resting on email; single-signature question opened | `Outputs/change-log-2026-09-07-metro-bank-transfer-form-filed.md` |
 | 2026-09-08 | Open-questions pass: RMT-vs-trustees loan figure and the valuation's unmet special assumption answered from the FCP knowledge base; the transfer-form thread read in full, explaining (not fully resolving) the single-signature question | `Outputs/change-log-2026-09-08-open-questions-pass-2.md` |
+| 2026-09-09 | The loanback's 13 documents registered FS0000001 to FS0000013 in the group Document Register, following the group document policy's adoption; Collaboration Space filing flagged as still pending | `Outputs/change-log-2026-09-09-loanback-documents-registered.md` |
 
 ## Sources
 
@@ -340,3 +354,4 @@ Ltd; the trustees' side has a board minute and indemnity letter among the Signab
 [^25]: [Fishbone Commercial Properties Ltd - Knowledge Base, Finance/fishbone-ssas-loan.md](https://drive.google.com/file/d/1Tlf9pndkek5nqpoUPSbplHj9R7WwwwZ1) - Key facts: balance at 2025-04-30; Details: valuation special assumption unmet, cross-directorship of two trustees `(cross-entity fact, linked not copied, section 6b of CLAUDE.md)`
 [^26]: [Fishbone Commercial Properties Ltd - Knowledge Base, Finance/property-valuation-2025.md](https://drive.google.com/file/d/1sR_WDAisSt19tAtNxEk8o4_mBtHH-obz) - Key facts: special assumption and validity; Open questions: whether the lender has been told `(cross-entity fact, linked not copied)`
 [^27]: [Gmail: "Transfer of funds - Fishbone SSAS to Fishbone Commercial Properties Ltd (£41,500.00) - LA01801", Empowered Lending and owner, 23/04 to 24/04/2025, read in full](https://mail.google.com/mail/u/0/#all/1966210241eff884) `(email)` - Empowered Lending's instructions (verbal verification, single signature "in the box above your name"), the returned signed form, and the owner's written confirmation of verbal verification
+[^28]: [Fishbone Group - Documents workspace, Document Register, sheet id 7352854736144260](https://app.smartsheet.eu/sheets/4W2xwP9c2gfCpvWPGJmPHg2P2QwJfxPmWXpCvC21) - rows FS0000001-FS0000013, added 2026-09-09, one row per loanback document, cross-referencing each other by number in their Description cells
