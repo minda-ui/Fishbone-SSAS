@@ -4,7 +4,7 @@ category: Processes
 status: active
 sensitive: false
 created: 2026-09-06
-updated: 2026-09-07
+updated: 2026-09-09
 sources:
   - ../../Outputs/change-log-2026-09-06-initial-setup.md
 related:
@@ -39,7 +39,10 @@ detail.
 | Smartsheet | workspace `Fishbone SSAS` | `4028917527930755` | https://app.smartsheet.eu/workspaces/mvpWVxqMpQQgm3HVV9fq98jgr97xffjh3pc3fp21 |
 | Smartsheet | sheet `Asset Register - Database` | `4114082175256452` | https://app.smartsheet.eu/sheets/Fvm62Rqgp9QFcr574P7pgGMrqH7gfRX8G6Fj2MW1 |
 | Smartsheet | sheet `Tasks` | `8617681802626948` | https://app.smartsheet.eu/sheets/2pR6xcwVqwggXxFWhHvhWGqV5HRxrg43R4g3qFj1 |
-| Smartsheet | sheet `Document Register` | `2561022001022852` | https://app.smartsheet.eu/sheets/g3jgjhG9wxGP3rq4Mq9g9vVvp67mC4fvc662PXX1 |
+| Smartsheet | sheet `Document Register` (this KB's own) | `2561022001022852` | https://app.smartsheet.eu/sheets/g3jgjhG9wxGP3rq4Mq9g9vVvp67mC4fvc662PXX1 — superseded for new entries 2026-09-09; never held a row. |
+| Smartsheet | workspace `Fishbone Group - Documents` | `5815486484113283` | Adopted 2026-09-09. |
+| Smartsheet | sheet `Document Register` (group) | `7352854736144260` | https://app.smartsheet.eu/sheets/4W2xwP9c2gfCpvWPGJmPHg2P2QwJfxPmWXpCvC21 — where this scheme's new documents are numbered from 2026-09-09 (`FS` prefix). Automation may append rows only. |
+| Smartsheet | sheet `Document System - Change Requests` (group) | `8918834172004228` | https://app.smartsheet.eu/sheets/hrx6rP255gm8qVVQgX47GjQmqHGWRf576Vmm5hF1 — feedback queue for the group policy. Automation may append rows only. |
 | Smartsheet | folder `Reports & Dashboards` | `4148450360092547` | Reports and sights only. |
 | Smartsheet | report `Open Tasks` | `6471752932788100` | Tasks where Status is not Done, by Due Date. |
 | Smartsheet | report `Register Health` | `8718055188334468` | Id, class, counterparty, the three health columns, loan terms, value, note. |
@@ -57,12 +60,40 @@ Sister knowledge bases, for linked facts: `Fishbone Commercial Properties Ltd - 
 (Drive `1zC8LmkCLr7BEaqcAlxgAXyz5Bfm73Z7C`, Smartsheet workspace `3788897575561091`);
 `Fishbone Holdings Ltd` (Smartsheet workspace `6810956824110979`); `Fishbone Group` knowledge base
 (Drive `1pOHvl8X64E-x3rRb-6Wrc9zsHZ2mgi73`), whose `Wiki/Org-Fishbone-SSAS.md` is a stub about this
-scheme.
+scheme. **Read in full 2026-09-09** while verifying the group document-numbering policy before
+adopting it: a real, active database dating to 2026-09-03, with its own `CLAUDE.md`,
+`current-state.md`, `open-issues.md`, `external-source-register.md` and `processed-items-ledger.md`
+control files and a `Wiki/Process-Document-Numbering-and-Filing.md` article (v1.1) that is the
+canonical source of the policy summarised below.
 
 ## Conventions in force
 
-- Prefix `FSS`. Documents `FSS0000001` (seven digits, no space). Assets `FSS 0001` (four digits,
-  with a space). See the Decisions article for why.
+- Assets: prefix `FSS`, four digits with a space (`FSS 0001`), in this KB's own Smartsheet Asset
+  Register. See the Decisions article for why.
+- **Documents, adopted 2026-09-09: the group's `FS` prefix**, seven digits, no space
+  (`FS0000001`), registered in the group-wide Smartsheet Document Register rather than this KB's
+  own (both now `Systems and ids` rows above). Per-entity prefixes across the group: `FC`
+  Construction, `FP` Properties, `FH` Holdings, `FW` Waste, `FA` Amfa Furniture, `FM` Commercial
+  Properties, `FS` SSAS, `FG` group-level. Numbers are never reused; a superseded document keeps
+  its number, marked `Superseded`/`Void`, and the replacement gets a new one that references it.
+  **Dedup-on-entry**: before minting a number, search the group register by **Source key** (the
+  document's Drive file id, or a Gmail thread id) and by title + date + counterparty; reuse the
+  matching id if one exists. **What qualifies**: statutory accounts, certificates, title
+  registers/plans, leases and tenancies, loan/mortgage documents, board/intercompany letters and
+  minutes, legal/lender/insurer/Companies House/HMRC correspondence, valuations,
+  completion/redemption statements, property- or project-tied invoices and receipts. Not
+  registered: marketing, generic bills with no property/entity tie, duplicates, routine automated
+  notifications. **Filing**: the group's shared Collaboration Space library, co-located with the
+  thing the document belongs to, named `<ID> - <Category> - <Short Title>.<ext>`; move (never
+  copy) to preserve the file id so existing links keep resolving. **Inter-KB hand-off (`§7a`)**:
+  a document already on the group register may be dropped, as a new file under its existing ID,
+  into a sibling KB's `Raw/` inbox with a short covering note
+  (`YYYY-MM-DD_handoff_<fromEntity>-to-<toEntity>_<ID>.md`); the sender annotates its own register
+  row (`Direction = Internal`, "sent to `<KB>` `<date>`") rather than creating a second number or
+  row; the receiver reuses the ID already in the filename and never re-numbers it. This is the
+  only write this KB may make into another knowledge base (`CLAUDE.md` section 6a). Feedback on
+  the policy (an ambiguity, a document that doesn't fit) goes to the group's Document System -
+  Change Requests sheet, never a local fork of the rules.
 - Dates in filenames and front matter are ISO `YYYY-MM-DD`. Dates in prose may be UK `DD/MM/YYYY`
   when quoting a document that uses them.
 - Money is written as a plain number in GBP unless the source is in another currency. No currency
@@ -142,10 +173,19 @@ scheme.
 - 2026-09-07: the owner saved the first attachment from the download checklist
   (`Outputs/attachments-to-download-from-gmail.md`) into `Raw/`: the signed loan agreement
   LA01801. Processed the same day; the checklist is ticked and replaced as items arrive.
+- 2026-09-09: a file claiming to be a "Fishbone Group" document numbering & filing policy notice
+  (v1.1) appeared in `Raw/`, initially flagged as unverified rather than adopted (`CLAUDE.md`
+  version 12). The owner then explicitly confirmed it was genuinely theirs and asked for full
+  adoption; this session independently verified the group knowledge base, its Document Register
+  and Change Requests Smartsheet sheets, and the Drive-ownership basis for the policy's `§7a`
+  hand-off before adopting. Documents (not assets) now register under the group's `FS` prefix;
+  this KB's own, never-used, local Document Register is superseded for new entries. `CLAUDE.md`
+  version 13.
 
 ## Open questions
 
-- None at setup beyond those in the Decisions article.
+- None at setup beyond those in the Decisions article. No document has yet been registered under
+  `FS` for this scheme, and the `§7a` inter-KB hand-off has not yet been used.
 
 ## Changes
 
@@ -156,6 +196,7 @@ scheme.
 | 2026-09-06 | History line: the owner uploaded the whole OneDrive master into `Raw/` and moved it out again to the My Drive root (`1jSFpIOcKb7yANA0hJVtjWb_80rMfvo5c`); the four scheme documents were copied from it by id; Drive downloads above about 8 MB fail in the connector | `Outputs/change-log-2026-09-06-loan-security-and-governing-documents.md` |
 | 2026-09-06 | History line: Session 4's 23 copies and the first Gmail search; the email citation convention and the connector's attachment limit | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
 | 2026-09-07 | History line: the first Gmail attachment saved by the owner and processed | `Outputs/change-log-2026-09-07-loan-agreement-filed.md` |
+| 2026-09-09 | Group document policy adopted: document numbering moved to the group `FS` register; systems-and-ids table and conventions updated | `Outputs/change-log-2026-09-09-group-policy-adopted.md` |
 
 ## Sources
 
