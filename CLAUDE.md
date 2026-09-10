@@ -1,7 +1,19 @@
 # Fishbone SSAS - Knowledge Base
 
-> **Status: AUTHORITATIVE. Version 16, 2026-09-09**, superseding version 15 later the same day
-> after a second group document-numbering & filing policy notice (v1.2) appeared in `Raw/`,
+> **Status: AUTHORITATIVE. Version 17, 2026-09-10**, superseding version 16 after the owner deleted
+> the consolidated letter to Empowered's Claudine Mudali (the Gmail draft referenced in open
+> question 1) and asked for a new one covering the outstanding items. Before redrafting, the
+> original eleven points were re-checked against the KB's current state rather than copied
+> verbatim: two had already been answered by documents filed later the same day the original was
+> written (2026-09-07) — the 1,791.00 reimbursement (already shown paid, reworded to ask only about
+> formal authorisation) and the scheme's value at 16/04/2025 for the 50 percent test (already on
+> file at 83,701.24, reworded to ask only for the current value). Two points not in the original
+> were added from currently open questions: whether the bank's two-signature mandate was met for
+> the 24/04/2025 transfer (open question 11), and whether HMRC/TPR were told of the company's name
+> change (open question 9's residual). Open question 1 updated to point at the new draft
+> (`r7822953919571447379`). Full detail in
+> `Outputs/change-log-2026-09-10-claudine-letter-redrafted.md`. Version 16 followed a second group
+> document-numbering & filing policy notice (v1.2) appearing in `Raw/`,
 > distinct from the v1.1 notice adopted at version 13. This session independently verified it
 > against the group knowledge base itself before raising it with the owner: its own
 > `current-state.md`, `CLAUDE.md` and `WORKFLOW.md` all corroborate the same two clarifications and
@@ -582,8 +594,10 @@ elsewhere and must be recounted before use.
    equal-capital wording. (The Land Registry's "obligation to make further advances" no longer
    needs asking about: it is the deed's own clause 4.2, read 2026-09-07.) A consolidated letter to
    Empowered covering the level-payment question and
-   questions 2 to 8 below sits **unsent in the owner's Gmail drafts** (created 2026-09-07; text in
-   `Outputs/change-log-2026-09-07-outstanding-items-pass.md`); sending it is the owner's decision.
+   related items sits **unsent in the owner's Gmail drafts** (draft `r7822953919571447379`,
+   redrafted 2026-09-10 after the owner deleted the original 2026-09-07 draft; text in
+   `Outputs/change-log-2026-09-10-claudine-letter-redrafted.md`); sending it is the owner's
+   decision.
 2. ~~**The 50 percent test at 16/04/2025**~~ Answered 2026-09-07: the administrator's own scheme
    valuation puts the net assets at 83,701.24 on 5 April 2025, so the loan is 49.58 percent,
    verified. Still open: what the value was on the exact date the deed's 50 percent cap is tested
@@ -669,9 +683,13 @@ elsewhere and must be recounted before use.
 
 ---
 
-*Standing context for the Fishbone SSAS knowledge base. Version 16, 2026-09-09, after a second
-group document-numbering & filing policy notice (v1.2) appeared in `Raw/`, was independently
-verified against the group knowledge base itself, and was adopted at the owner's request following
+*Standing context for the Fishbone SSAS knowledge base. Version 17, 2026-09-10, after the owner
+deleted the consolidated letter to Claudine Mudali referenced in open question 1 and asked for a
+new one, which was redrafted after re-checking each point against the KB's current state (two
+points answered by later 2026-09-07 filings, two new points added from currently open questions);
+version 16, the day before, followed a second group document-numbering & filing policy notice
+(v1.2) appearing in `Raw/`, independently
+verified against the group knowledge base itself, and adopted at the owner's request following
 that verification; version 15, earlier the same day, followed the loanback's 13 documents being
 filed into a new "Fishbone SSAS" folder in Collaboration Space at the owner's request, following a
 permissions check that found the folder far more widely shared than this KB's own Drive tree,
