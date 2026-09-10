@@ -1,8 +1,24 @@
 # Fishbone SSAS - Knowledge Base
 
-> **Status: AUTHORITATIVE. Version 17, 2026-09-10**, superseding version 16 after the owner deleted
-> the consolidated letter to Empowered's Claudine Mudali (the Gmail draft referenced in open
-> question 1) and asked for a new one covering the outstanding items. Before redrafting, the
+> **Status: AUTHORITATIVE. Version 18, 2026-09-10**, superseding version 17 after a third group
+> document-numbering & filing policy notice (v1.3) appeared in `Raw/`, distinct from the v1.1 and
+> v1.2 notices adopted at versions 13 and 16. Independently verified against the group knowledge
+> base itself before being raised with the owner: its own live `CLAUDE.md` and `README.md`
+> corroborate the same two clarifications and the same Change Requests, FM-CR-0001 (Fishbone
+> Commercial Properties) and FP-CR-0001 (Fishbone Properties), both accepted by the group
+> 2026-09-10. **The owner then asked for it to be adopted.** Adopted: section 1's register
+> conventions now reference policy v1.3, which adds two clarifications to v1.2 with nothing
+> withdrawn — self-assigned 4-digit property codes (2-digit acquisition year + 2-digit sequence),
+> each company keeping its own property register (moot here: this KB owns no property of its own —
+> the loanback is secured over the *borrower's* property, not the scheme's), and email-attachment
+> source capture via a Gmail thread id and a flagged plain-text transcription when an attachment's
+> bytes cannot be captured into Drive (also moot here: this KB's Gmail tooling returns no content
+> field at all for an attachment, so there is nothing to transcribe even under the new rule).
+> Section 6a's wording is otherwise unchanged. Open question 12 gains a further closing note. Full
+> detail in `Outputs/change-log-2026-09-10-group-policy-v1.3-adopted.md`. Version 17 followed the
+> owner deleting the consolidated letter to Empowered's Claudine Mudali (the Gmail draft
+> referenced in open question 1) and asking for a new one covering the outstanding items. Before
+> redrafting, the
 > original eleven points were re-checked against the KB's current state rather than copied
 > verbatim: two had already been answered by documents filed later the same day the original was
 > written (2026-09-07) — the 1,791.00 reimbursement (already shown paid, reworded to ask only about
@@ -241,7 +257,7 @@ nothing changed, so the next session knows how fresh the Wiki is.
 - **Assets keep the local `FSS` prefix**, chosen 2026-09-06 to sit beside `FP`, `FCP`, `FH` and
   `FCD`. An asset is `FSS 0001`: four digits, with a space, in this KB's own Smartsheet **Asset
   Register - Database**. The group document policy below does not touch asset ids.
-- **Document numbers, adopted 2026-09-09: the group-wide `FS` prefix, now under policy v1.2.**
+- **Document numbers, adopted 2026-09-09: the group-wide `FS` prefix, now under policy v1.3.**
   Following the owner's explicit confirmation that the "Fishbone Group" document numbering &
   filing policy is genuine and should be adopted, this scheme's own qualifying business documents
   are numbered `FS` + seven zero-padded digits (`FS0000001` onwards) in the group's one Smartsheet
@@ -250,12 +266,14 @@ nothing changed, so the next session knows how fresh the Wiki is.
   new entries — it never held a row, so there is no back-catalogue to migrate. `FS` and `FSS` are
   deliberately different schemes for different things: a 4-digit `FSS 000n` is this scheme's own
   asset id; a 7-digit `FS000000n` is a group document number. They never collide; do not read one
-  as the other. **v1.1 (open question 12) added the `§7a` inter-KB `Raw/` hand-off; v1.2, adopted
-  2026-09-09, adds two clarifications that change nothing for this KB in practice**: a task or
-  to-do is not a document and gets no register row or ID (this KB raises none against the group
-  register anyway), and a KB may migrate its own local back-catalogue into the group register
-  whenever ready rather than waiting for a central migration (moot here, since the local register
-  never held a row to migrate).
+  as the other. **v1.1 (open question 12) added the `§7a` inter-KB `Raw/` hand-off; v1.2 added two
+  clarifications (tasks are not documents; per-KB self-migration) that change nothing for this KB
+  in practice; v1.3, adopted 2026-09-10, adds two more that are equally moot here**: self-assigned
+  4-digit property codes, each company keeping its own property register (this KB owns no property
+  of its own — the loanback is secured over the *borrower's* property, not the scheme's), and
+  email-attachment source capture via a Gmail thread id and a flagged plain-text transcription when
+  an attachment's bytes cannot be captured into Drive (this KB's Gmail tooling returns no content
+  field at all for an attachment, so there is nothing to transcribe even under the new rule).
 - **What qualifies, dedup, filing and the inter-KB `§7a` hand-off** follow the group policy
   exactly, summarised in `Wiki/Processes/knowledge-base-operations.md` ("Conventions in force").
   In short: search the group register by Source key (Drive file id or Gmail thread id) and by
@@ -400,10 +418,11 @@ administrator, the bank, a borrower, a solicitor, a valuer or a member; change D
 sharing; resolve an ambiguous or contradictory finding by guessing.
 
 **Two narrow exceptions, owner-confirmed 2026-09-09** (adopting the "Fishbone Group" document
-numbering & filing policy, v1.1 then v1.2 — section 1, Register conventions; full detail in
-`Outputs/change-log-2026-09-09-group-policy-adopted.md` and
-`Outputs/change-log-2026-09-09-group-policy-v1.2-adopted.md`), neither of which extends to anything
-else in this section:
+numbering & filing policy, v1.1 then v1.2 then v1.3 — section 1, Register conventions; full detail
+in `Outputs/change-log-2026-09-09-group-policy-adopted.md`,
+`Outputs/change-log-2026-09-09-group-policy-v1.2-adopted.md` and
+`Outputs/change-log-2026-09-10-group-policy-v1.3-adopted.md`), neither of which extends to
+anything else in this section:
 - Automation **may append rows** — never edit or delete another entity's row — to the group
   Smartsheet **Document Register** (sheet id `7352854736144260`) for this scheme's own qualifying
   documents, and to the group **Document System - Change Requests** sheet (id `8918834172004228`)
@@ -665,7 +684,13 @@ elsewhere and must be recounted before use.
     `Outputs/change-log-2026-09-09-group-policy-v1.2-flagged.md` and
     `Outputs/change-log-2026-09-09-group-policy-v1.2-adopted.md`. The same caution about a
     *further* file still applies — each new version is verified and confirmed on its own, never
-    adopted by extension of a prior one.
+    adopted by extension of a prior one. **A third such file duly appeared 2026-09-10** (a v1.3
+    notice): independently verified against the group knowledge base itself, then adopted at the
+    owner's request. Its two clarifications (self-assigned property codes; email-attachment
+    source-capture transcription) are moot for this KB either way — it owns no property, and its
+    Gmail tooling gap sits a step earlier than what the transcription rule assumes. Full detail in
+    `Outputs/change-log-2026-09-10-group-policy-v1.3-flagged.md` and
+    `Outputs/change-log-2026-09-10-group-policy-v1.3-adopted.md`.
 13. ~~The loanback's 13 documents are registered in the group Document Register but not yet filed
     into the group's Collaboration Space: no "Fishbone SSAS" company folder exists there, unlike
     the five sister companies. Creating one, or moving files into a shared space outside this KB's
@@ -683,8 +708,11 @@ elsewhere and must be recounted before use.
 
 ---
 
-*Standing context for the Fishbone SSAS knowledge base. Version 17, 2026-09-10, after the owner
-deleted the consolidated letter to Claudine Mudali referenced in open question 1 and asked for a
+*Standing context for the Fishbone SSAS knowledge base. Version 18, 2026-09-10, after a third
+group document-numbering & filing policy notice (v1.3) appeared in `Raw/`, was independently
+verified against the group knowledge base itself, and was adopted at the owner's request following
+that verification; version 17, earlier the same day, followed the owner deleting the consolidated
+letter to Claudine Mudali referenced in open question 1 and asking for a
 new one, which was redrafted after re-checking each point against the KB's current state (two
 points answered by later 2026-09-07 filings, two new points added from currently open questions);
 version 16, the day before, followed a second group document-numbering & filing policy notice
