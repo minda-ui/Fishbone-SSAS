@@ -1,7 +1,17 @@
 # Fishbone SSAS - Knowledge Base
 
-> **Status: AUTHORITATIVE. Version 18, 2026-09-10**, superseding version 17 after a third group
-> document-numbering & filing policy notice (v1.3) appeared in `Raw/`, distinct from the v1.1 and
+> **Status: AUTHORITATIVE. Version 19, 2026-09-12**, superseding version 18 after a notice was
+> found in `Raw/` describing a new group process, `Wiki/Process-Post-Handling.md`: the group now
+> acts as a shared "post room" for physical mail addressed to any of the seven group companies,
+> registering a qualifying letter under the owning company's own prefix and routing it as a `§7a`
+> hand-off into that company's own KB `Raw/`. Independently verified against the group knowledge
+> base's own live `current-state.md` and `00_INDEX.md` before being noted here — genuine, and the
+> first live run (2026-09-10) has already routed four letters, none yet to this scheme. Nothing to
+> adopt (this only describes how an existing, already-authorised `§7a` mechanism will bring mail
+> in, not a new permission), so section 0 gained a short pointer rather than a governance change.
+> Full detail in `Outputs/change-log-2026-09-12-group-post-handling-notice.md`. Version 18 followed
+> a third group
+> document-numbering & filing policy notice (v1.3) appearing in `Raw/`, distinct from the v1.1 and
 > v1.2 notices adopted at versions 13 and 16. Independently verified against the group knowledge
 > base itself before being raised with the owner: its own live `CLAUDE.md` and `README.md`
 > corroborate the same two clarifications and the same Change Requests, FM-CR-0001 (Fishbone
@@ -155,6 +165,14 @@ change-log entries in `Fishbone Commercial Properties Ltd - Knowledge Base` (Dri
 `1zC8LmkCLr7BEaqcAlxgAXyz5Bfm73Z7C`). The loan is that company's liability and this scheme's asset;
 its terms, its security and its repayment record live in both places and must agree. Link, never
 copy, so there is one place to correct each fact.
+
+**Physical post may now arrive in `Raw/` pre-registered.** The group runs a shared "post room"
+(`Wiki/Process-Post-Handling.md` in the group KB, confirmed 2026-09-12) for mail addressed to any
+group company at the shared office: a qualifying letter is registered centrally under this
+scheme's own `FS` prefix and dropped into this KB's `Raw/` as a `§7a` hand-off — an already-ID'd
+scan plus a covering `..._handoff_group-to-fishbone-ssas_<ID>.md` note. Treat such an item as an
+ordinary receipt (section 3b): reuse the ID it already carries, never mint a new one. None has
+arrived yet. Full detail in `Outputs/change-log-2026-09-12-group-post-handling-notice.md`.
 
 ---
 
@@ -708,8 +726,12 @@ elsewhere and must be recounted before use.
 
 ---
 
-*Standing context for the Fishbone SSAS knowledge base. Version 18, 2026-09-10, after a third
-group document-numbering & filing policy notice (v1.3) appeared in `Raw/`, was independently
+*Standing context for the Fishbone SSAS knowledge base. Version 19, 2026-09-12, after a notice
+describing the group's new incoming-paper-mail process (`Process-Post-Handling.md`) was found in
+`Raw/` and independently verified against the group knowledge base itself; nothing to adopt, so
+section 0 gained a short pointer for a future `§7a`-routed scan; version 18, two days earlier,
+followed a third group document-numbering & filing policy notice (v1.3) appearing in `Raw/`, was
+independently
 verified against the group knowledge base itself, and was adopted at the owner's request following
 that verification; version 17, earlier the same day, followed the owner deleting the consolidated
 letter to Claudine Mudali referenced in open question 1 and asking for a
