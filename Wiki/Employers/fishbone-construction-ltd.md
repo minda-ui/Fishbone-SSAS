@@ -4,7 +4,7 @@ category: Employers
 status: active
 sensitive: false
 created: 2026-09-06
-updated: 2026-09-07
+updated: 2026-09-12
 sources:
   - ../../Raw/Trust deed (Fishbone SSAS, copied from Drive Staff (SSAS) legacy folder 2026-09-06).pdf
   - ../../Raw/Board minutes (Fishbone Drylining Ltd resolution to establish the scheme, copied from Drive Staff (SSAS) legacy folder 2026-09-06).pdf
@@ -16,6 +16,7 @@ sources:
   - https://mail.google.com/mail/u/0/#all/1935307698813a83 (Gmail: request for repayment of expenses to Fishbone Drylining Ltd, 22/11/2024)
   - https://mail.google.com/mail/u/0/#all/192e28038f35ee25 (Gmail: Companies House, NM01 notice of change of name received for Fishbone Drylining Ltd 07948220, 31/10/2024)
   - https://mail.google.com/mail/u/0/#all/1a024bf301802395 (Gmail: Companies House, confirmation statement accepted for Fishbone Construction Ltd 07948220, 21/08/2026)
+  - https://drive.google.com/file/d/17SQpXdjpetSZ8oY70UkUfQ2bwLFqHzjM/view (Fishbone Construction Ltd - Knowledge Base's own Raw/: Companies House certificate of incorporation on change of name, 31/10/2024, not copied into this KB per section 1's cross-entity linking rule)
 related:
   - ../Processes/scheme-establishment-2021.md
   - ../People/m-gaudiesius.md
@@ -69,10 +70,16 @@ addressed to "FISHBONE DRYLINING LTD. (07948220)"; on 31/10/2024 Companies House
 (submission 102-664802) [^g2]; and from March 2026 the same number is addressed as "FISHBONE
 CONSTRUCTION LTD. (07948220)", with a confirmation statement accepted on 21/08/2026 [^g3]. So
 07948220 is the company number, the re-declaration's 07948020 is a typing error, and the name
-changed by special resolution notified on 31/10/2024 `(email; the acceptance email and the
-certificate of incorporation on change of name are not in the mailbox, so the effective date is
-not evidenced)`. The same emails show the company's accounting year runs from 30 April to 29
-April [^g3]. The Companies House website itself cannot be reached by the tooling.
+changed by special resolution notified on 31/10/2024 `(email; the acceptance email is not in the
+mailbox)`. **The certificate of incorporation on change of name was located 2026-09-12**: not in
+this scheme's own `Raw/` or Gmail, but on file in the sister
+[Fishbone Construction Ltd - Knowledge Base](https://drive.google.com/drive/folders/13IQdim0JhKmoQvJBmJmnMhreJqg55xTr)'s
+own `Raw/` (filed there 2026-09-04, since it is that company's document, not the scheme's) [^g5].
+It confirms the effective date as 31 October 2024 and the exact wording (Fishbone Drylining Ltd to
+Fishbone Construction Ltd, company number 7948220), matching the NM01 acknowledgement [^g2]. Per
+section 1's cross-entity rule this is **linked, not copied**, into this KB. The same emails show
+the company's accounting year runs from 30 April to 29 April [^g3]. The Companies House website
+itself cannot be reached by the tooling.
 
 The TPR re-declaration lists two pension schemes used by the employer for automatic enrolment:
 Aviva (EPSR TK074521) and Fishbone SSAS (EPSR 12018880) [^3] p.3. See
@@ -106,8 +113,8 @@ named elsewhere in this knowledge base. See
   saying 07948020.~~ Answered 2026-09-07: 07948220, per Companies House's emails [^g2] [^g3].
 - ~~Confirm the change of name from Fishbone Drylining Ltd to Fishbone Construction Ltd from a
   Companies House certificate.~~ Evidenced 2026-09-07 by the NM01 acknowledgement of 31/10/2024
-  [^g2]; the certificate of incorporation on change of name, with the effective date, would
-  complete it.
+  [^g2]; **the certificate itself found 2026-09-12** in the Fishbone Construction Ltd - Knowledge
+  Base's own `Raw/` [^g5], confirming the effective date of 31/10/2024. Resolved.
 - Whether HMRC, The Pensions Regulator and the scheme administrator were told of the change of
   name, so that the scheme's records name the principal employer correctly.
 - Is Fishbone Properties Ltd a participating employer, and is there a deed of participation under
@@ -124,6 +131,7 @@ named elsewhere in this knowledge base. See
 | 2026-09-06 | Expense reimbursement request of November 2024 found in Gmail | `Outputs/change-log-2026-09-06-ssas-folder-extraction.md` |
 | 2026-09-07 | Company number and change of name settled from Companies House's emails; new question on notifying HMRC, TPR and the administrator | `Outputs/change-log-2026-09-07-outstanding-items-pass.md` |
 | 2026-09-07 | The 1,791.00 reimbursement confirmed paid, 02/12/2024, from the administrator's transaction list | `Outputs/change-log-2026-09-07-land-registry-and-scheme-valuation.md` |
+| 2026-09-12 | Certificate of incorporation on change of name located in the Fishbone Construction Ltd - Knowledge Base's own `Raw/`; linked, not copied; open question on the certificate resolved | `Outputs/change-log-2026-09-12-name-change-certificate-located.md` |
 
 ## Sources
 
@@ -137,3 +145,4 @@ named elsewhere in this knowledge base. See
 [^g2]: [Gmail: "(NM01) Notice of change of name by resolution received for FISHBONE DRYLINING LTD.", Companies House WebFiling, 31/10/2024](https://mail.google.com/mail/u/0/#all/192e28038f35ee25) `(email)`
 [^g3]: [Gmail: "Confirmation statement accepted for FISHBONE CONSTRUCTION LTD." (07948220), Companies House WebFiling, 21/08/2026; and the accounts reminders of 20/03/2026 and 15/04/2026 for the year 30/04/2024 to 29/04/2025](https://mail.google.com/mail/u/0/#all/1a024bf301802395) `(email)`
 [^g4]: [Scheme Valuation prepared as at 5th April 2025 for the trustees of the Fishbone SSAS, Empowered Pensions, scheme ref K0555, 9 pages, read as page images](<../../Raw/2025-04-05 Fishbone SSAS Scheme Valuation Prepared.pdf>) - Metro Bank transaction list p.6
+[^g5]: [Companies House certificate of incorporation on change of name, Fishbone Drylining Ltd to Fishbone Construction Ltd (07948220), given 31/10/2024](https://drive.google.com/file/d/17SQpXdjpetSZ8oY70UkUfQ2bwLFqHzjM/view) - filed in the Fishbone Construction Ltd - Knowledge Base's own `Raw/` 2026-09-04, not this KB's; linked per section 1

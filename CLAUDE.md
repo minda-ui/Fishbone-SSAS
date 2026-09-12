@@ -1,6 +1,16 @@
 # Fishbone SSAS - Knowledge Base
 
-> **Status: AUTHORITATIVE. Version 19, 2026-09-12**, superseding version 18 after a notice was
+> **Status: AUTHORITATIVE. Version 20, 2026-09-12**, superseding version 19 after the owner asked
+> this session to check "the database" for the Companies House certificate of incorporation on
+> change of name (open question 9's residual). A Google Drive search (not scoped to this KB's own
+> tree) found it filed in the sister Fishbone Construction Ltd - Knowledge Base's own `Raw/`
+> (2026-09-04) rather than anywhere in this scheme's own records — it is that company's document,
+> not the scheme's. Per section 1's cross-entity rule it is **linked, not copied**, into
+> `Wiki/Employers/fishbone-construction-ltd.md`, whose open question on the certificate is now
+> resolved; the certificate confirms the effective date of 31/10/2024, already known from the NM01
+> acknowledgement. Open question 9's other half — whether HMRC, TPR and the administrator were told
+> — remains open. Full detail in
+> `Outputs/change-log-2026-09-12-name-change-certificate-located.md`. Version 19 followed a notice
 > found in `Raw/` describing a new group process, `Wiki/Process-Post-Handling.md`: the group now
 > acts as a shared "post room" for physical mail addressed to any of the seven group companies,
 > registering a qualifying letter under the owning company's own prefix and routing it as a `§7a`
@@ -524,8 +534,9 @@ elsewhere and must be recounted before use.
   Pensions Regulator on 04/08/2022 (PSR 12018880, two members at 03/12/2021). Established by
   Fishbone Drylining Ltd, company number 07948220 (the November 2023 re-declaration's 07948020 is
   a typing error), **renamed Fishbone Construction Ltd by special resolution notified to Companies
-  House on 31/10/2024** `(email: Companies House's own acknowledgements; the certificate is not on
-  file)`. Trustees: M Gaudiesius, A Prutkovas, **I Fedonina (joined 05/01/2024, on
+  House on 31/10/2024** `(email: Companies House's own acknowledgements)`; **the certificate of
+  incorporation on change of name is not in this KB's own `Raw/` but is on file, and linked, from
+  the sister Fishbone Construction Ltd - Knowledge Base's own `Raw/`, found 2026-09-12**. Trustees: M Gaudiesius, A Prutkovas, **I Fedonina (joined 05/01/2024, on
   the bank mandate May 2024; her deed of appointment is at the administrator, not on file)** and
   Empowered Trustees Ltd (12291059). Administrator Empowered Pensions (Empowered Pensions Ltd
   04735293; Empowered Administration Ltd 14471886 trading as Empowered Pensions from 2025;
@@ -662,9 +673,14 @@ elsewhere and must be recounted before use.
    "session expired").
 9. ~~Which company number is right (three documents say 07948220), and the Companies House record
    of the name change to Fishbone Construction Ltd.~~ Answered 2026-09-07 from Companies House's
-   emails (07948220; NM01 notified 31/10/2024); still wanted: the change-of-name certificate, and
-   whether HMRC, TPR and the administrator were told (checked again 2026-09-08: only a client-facing
-   announcement letter of 20/11/2024 found, no certificate and no HMRC/TPR/administrator trail).
+   emails (07948220; NM01 notified 31/10/2024). ~~The change-of-name certificate itself.~~ **Found
+   2026-09-12**: not in this scheme's own `Raw/` or Gmail, but on file in the sister Fishbone
+   Construction Ltd - Knowledge Base's own `Raw/` (filed there 2026-09-04, since it is that
+   company's own document) — linked, not copied, per section 1's cross-entity rule; confirms the
+   effective date of 31/10/2024. Full detail in
+   `Outputs/change-log-2026-09-12-name-change-certificate-located.md`. **Still open**: whether
+   HMRC, TPR and the administrator were told (checked again 2026-09-08: only a client-facing
+   announcement letter of 20/11/2024 found, no HMRC/TPR/administrator trail).
 10. ~~Whether the 2019 and 2021 loan agreements in `Collaboration Space / Other` are scheme loans,~~
     Answered 2026-09-07: Holdings-to-Properties loans, not the scheme's. ~~Still open: whether the
     trustees know the security's valuation assumed repairs not complete.~~ Answered in part
@@ -726,8 +742,12 @@ elsewhere and must be recounted before use.
 
 ---
 
-*Standing context for the Fishbone SSAS knowledge base. Version 19, 2026-09-12, after a notice
-describing the group's new incoming-paper-mail process (`Process-Post-Handling.md`) was found in
+*Standing context for the Fishbone SSAS knowledge base. Version 20, 2026-09-12, after the owner
+asked this session to check "the database" for the change-of-name certificate (open question 9):
+a Drive search located it in the sister Fishbone Construction Ltd - Knowledge Base's own `Raw/`,
+not this scheme's; linked, not copied, resolving the certificate half of the question while the
+notification half stays open; version 19, earlier the same day, followed a notice
+describing the group's new incoming-paper-mail process (`Process-Post-Handling.md`) found in
 `Raw/` and independently verified against the group knowledge base itself; nothing to adopt, so
 section 0 gained a short pointer for a future `§7a`-routed scan; version 18, two days earlier,
 followed a third group document-numbering & filing policy notice (v1.3) appearing in `Raw/`, was
